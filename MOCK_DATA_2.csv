@@ -1,0 +1,1000 @@
+id,sex,age,comorbidities,comorbidities_esp_1,comorbidities_esp_2
+1,Female,62,2,Musculoskeletal Disorders,Arthritis
+2,Male,27,2,Arthrosis,Hypertension
+3,Male,36,0,0,0
+4,Male,42,0,0,0
+5,Male,52,1,Hypertension,0
+6,Male,19,1,Arthrosis,0
+7,Female,39,0,0,0
+8,Male,20,2,Diabetes,Musculoskeletal Disorders
+9,Male,41,0,0,0
+10,Male,10,0,0,0
+11,Female,27,0,0,0
+12,Female,71,0,0,0
+13,Male,67,0,0,0
+14,Male,95,0,0,0
+15,Female,43,0,0,0
+16,Female,8,1,COPD,0
+17,Male,7,1,Arthrosis,0
+18,Female,37,2,Arthritis,Osteoporosis
+19,Male,14,0,0,0
+20,Male,50,0,0,0
+21,Female,17,1,Diabetes,0
+22,Male,19,2,Hypertension,Arthrosis
+23,Male,22,2,Ischemic stroke,Musculoskeletal Disorders
+24,Male,88,0,0,0
+25,Male,25,0,0,0
+26,Male,16,0,0,0
+27,Female,45,0,0,0
+28,Male,84,0,0,0
+29,Male,64,2,Musculoskeletal Disorders,Hypertension
+30,Female,28,1,Arthrosis,0
+31,Female,57,0,0,0
+32,Male,17,2,Asthma,Hypertension
+33,Male,73,0,0,0
+34,Female,70,0,0,0
+35,Male,37,0,0,0
+36,Female,23,0,0,0
+37,Female,58,2,Neoplasms,COPD
+38,Female,76,0,0,0
+39,Female,38,0,0,0
+40,Female,44,0,0,0
+41,Female,78,2,Arthritis,Diabetes
+42,Male,54,1,Arthrosis,0
+43,Male,26,2,Musculoskeletal Disorders,Chronic kidney disease
+44,Female,4,0,0,0
+45,Female,47,2,Hypertension,Arthritis
+46,Male,40,0,0,0
+47,Male,60,0,0,0
+48,Female,77,0,0,0
+49,Female,61,0,0,0
+50,Male,73,0,0,0
+51,Female,99,0,0,0
+52,Male,35,2,Diabetes,Ischemic stroke
+53,Male,6,0,0,0
+54,Female,47,1,Arthrosis,0
+55,Male,71,2,Neoplasms,Asthma
+56,Male,38,2,Osteoporosis,Hypertension
+57,Female,18,2,Diabetes,Musculoskeletal Disorders
+58,Female,23,1,Chronic kidney disease,0
+59,Female,59,0,0,0
+60,Male,35,0,0,0
+61,Female,23,1,COPD,0
+62,Female,41,1,Arthrosis,0
+63,Female,15,2,Musculoskeletal Disorders,Hypertension
+64,Male,26,0,0,0
+65,Male,16,1,Osteoporosis,0
+66,Male,54,0,0,0
+67,Male,49,0,0,0
+68,Male,33,2,Musculoskeletal Disorders,Hypertension
+69,Female,35,0,0,0
+70,Female,25,1,Chronic kidney disease,0
+71,Male,14,2,Hypertension,Musculoskeletal Disorders
+72,Female,57,2,Neoplasms,COPD
+73,Male,85,0,0,0
+74,Male,61,2,Diabetes,Ischemic stroke
+75,Female,43,2,Dementia,Neoplasms
+76,Female,10,1,COPD,0
+77,Female,48,1,Arthrosis,0
+78,Male,22,1,Asthma,0
+79,Male,43,0,0,0
+80,Female,54,0,0,0
+81,Female,49,1,Musculoskeletal Disorders,0
+82,Female,21,0,0,0
+83,Female,26,1,Asthma,0
+84,Male,46,0,0,0
+85,Male,41,2,Heart failure,Musculoskeletal Disorders
+86,Female,50,0,0,0
+87,Female,7,0,0,0
+88,Female,54,0,0,0
+89,Male,36,0,0,0
+90,Female,79,2,Asthma,Neoplasms
+91,Male,9,1,Heart failure,0
+92,Male,39,2,Arthritis,Diabetes
+93,Male,77,2,Dementia,COPD
+94,Female,21,0,0,0
+95,Female,17,0,0,0
+96,Male,25,0,0,0
+97,Female,61,0,0,0
+98,Female,46,0,0,0
+99,Male,9,0,0,0
+100,Female,60,0,0,0
+101,Male,27,2,Arthrosis,Chronic kidney disease
+102,Female,78,2,Heart failure,Diabetes
+103,Female,68,2,Hypertension,Asthma
+104,Male,64,0,0,0
+105,Female,43,1,Hypertension,0
+106,Female,40,0,0,0
+107,Male,96,0,0,0
+108,Female,43,0,0,0
+109,Male,58,0,0,0
+110,Female,58,0,0,0
+111,Female,18,0,0,0
+112,Female,18,1,Arthritis,0
+113,Male,34,1,Arthrosis,0
+114,Female,44,1,Dementia,0
+115,Female,19,0,0,0
+116,Female,81,0,0,0
+117,Female,49,0,0,0
+118,Female,92,1,Osteoporosis,0
+119,Male,15,2,Diabetes,Hypertension
+120,Female,16,1,Ischemic stroke,0
+121,Male,67,0,0,0
+122,Male,53,0,0,0
+123,Female,71,0,0,0
+124,Female,8,1,Hypertension,0
+125,Female,63,0,0,0
+126,Female,25,0,0,0
+127,Male,55,1,Musculoskeletal Disorders,0
+128,Male,46,0,0,0
+129,Female,29,0,0,0
+130,Female,19,1,Arthrosis,0
+131,Female,56,2,Arthritis,Heart failure
+132,Male,88,1,Musculoskeletal Disorders,0
+133,Male,56,0,0,0
+134,Female,40,0,0,0
+135,Male,24,0,0,0
+136,Female,25,0,0,0
+137,Female,77,2,Diabetes,Arthrosis
+138,Female,59,0,0,0
+139,Male,35,2,Osteoporosis,Musculoskeletal Disorders
+140,Male,16,1,Arthrosis,0
+141,Female,67,1,Neoplasms,0
+142,Male,75,1,Arthritis,0
+143,Female,9,0,0,0
+144,Female,25,0,0,0
+145,Male,62,0,0,0
+146,Male,1,0,0,0
+147,Male,51,0,0,0
+148,Female,16,0,0,0
+149,Female,13,2,Hypertension,Arthritis
+150,Female,19,0,0,0
+151,Female,60,2,Asthma,Diabetes
+152,Female,42,0,0,0
+153,Female,0,2,Diabetes,Arthrosis
+154,Female,37,0,0,0
+155,Male,92,0,0,0
+156,Female,56,1,Hypertension,0
+157,Female,62,0,0,0
+158,Male,64,1,Diabetes,0
+159,Male,99,0,0,0
+160,Female,37,1,Chronic kidney disease,0
+161,Male,55,0,0,0
+162,Male,86,0,0,0
+163,Female,16,0,0,0
+164,Female,62,2,Asthma,Osteoporosis
+165,Male,7,1,Dementia,0
+166,Male,62,0,0,0
+167,Female,17,2,Hypertension,Arthrosis
+168,Male,26,0,0,0
+169,Female,41,0,0,0
+170,Male,59,0,0,0
+171,Female,32,0,0,0
+172,Male,68,0,0,0
+173,Female,58,0,0,0
+174,Female,55,1,Musculoskeletal Disorders,0
+175,Female,91,2,Neoplasms,Hypertension
+176,Male,18,0,0,0
+177,Female,19,0,0,0
+178,Female,39,2,Musculoskeletal Disorders,Osteoporosis
+179,Female,40,0,0,0
+180,Female,36,0,0,0
+181,Male,17,0,0,0
+182,Female,50,0,0,0
+183,Female,53,0,0,0
+184,Female,27,0,0,0
+185,Female,20,0,0,0
+186,Female,17,0,0,0
+187,Female,67,2,Diabetes,Dementia
+188,Male,79,2,Musculoskeletal Disorders,Hypertension
+189,Male,73,1,Hypertension,0
+190,Female,92,0,0,0
+191,Male,32,2,Arthrosis,Musculoskeletal Disorders
+192,Female,94,0,0,0
+193,Female,62,2,Dementia,Diabetes
+194,Male,53,2,Musculoskeletal Disorders,Ischemic stroke
+195,Male,55,2,Arthrosis,Chronic kidney disease
+196,Female,47,2,Hypertension,Asthma
+197,Male,51,0,0,0
+198,Male,15,1,Musculoskeletal Disorders,0
+199,Female,36,0,0,0
+200,Male,55,0,0,0
+201,Female,61,0,0,0
+202,Male,1,1,Arthritis,0
+203,Male,59,0,0,0
+204,Female,87,2,Dementia,Diabetes
+205,Female,93,2,Ischemic stroke,Neoplasms
+206,Male,27,0,0,0
+207,Male,4,0,0,0
+208,Female,54,2,Musculoskeletal Disorders,Asthma
+209,Male,16,0,0,0
+210,Female,56,0,0,0
+211,Female,63,1,Arthritis,0
+212,Female,32,2,Ischemic stroke,Heart failure
+213,Male,60,1,Asthma,0
+214,Male,77,2,Chronic kidney disease,Musculoskeletal Disorders
+215,Female,54,1,Diabetes,0
+216,Female,27,0,0,0
+217,Male,38,1,Ischemic stroke,0
+218,Female,10,0,0,0
+219,Female,67,2,Arthrosis,Osteoporosis
+220,Male,58,0,0,0
+221,Female,86,0,0,0
+222,Male,50,1,Arthrosis,0
+223,Male,24,0,0,0
+224,Male,60,2,Diabetes,Musculoskeletal Disorders
+225,Female,10,0,0,0
+226,Female,49,0,0,0
+227,Female,64,0,0,0
+228,Female,17,0,0,0
+229,Female,10,1,Hypertension,0
+230,Male,98,0,0,0
+231,Female,20,0,0,0
+232,Female,60,2,Musculoskeletal Disorders,Arthrosis
+233,Female,57,2,Chronic kidney disease,Musculoskeletal Disorders
+234,Male,89,0,0,0
+235,Female,0,0,0,0
+236,Male,46,2,Asthma,Diabetes
+237,Male,64,2,Dementia,Neoplasms
+238,Male,65,2,Musculoskeletal Disorders,Asthma
+239,Female,43,2,Musculoskeletal Disorders,Arthrosis
+240,Male,4,2,Hypertension,Musculoskeletal Disorders
+241,Male,12,1,Asthma,0
+242,Male,39,2,Heart failure,Osteoporosis
+243,Female,40,1,Diabetes,0
+244,Male,44,0,0,0
+245,Female,4,0,0,0
+246,Female,20,0,0,0
+247,Male,18,2,COPD,Osteoporosis
+248,Male,42,1,Arthrosis,0
+249,Male,17,0,0,0
+250,Male,15,0,0,0
+251,Female,38,0,0,0
+252,Female,8,2,Asthma,Dementia
+253,Female,80,1,Dementia,0
+254,Female,86,0,0,0
+255,Male,16,2,Osteoporosis,Musculoskeletal Disorders
+256,Female,79,0,0,0
+257,Male,45,1,Heart failure,0
+258,Female,45,1,Musculoskeletal Disorders,0
+259,Male,91,2,Osteoporosis,Arthrosis
+260,Female,40,0,0,0
+261,Female,52,1,Ischemic stroke,0
+262,Female,17,2,Arthrosis,COPD
+263,Female,53,0,0,0
+264,Female,58,0,0,0
+265,Male,36,0,0,0
+266,Male,40,0,0,0
+267,Male,63,0,0,0
+268,Female,16,1,Musculoskeletal Disorders,0
+269,Female,48,0,0,0
+270,Female,51,1,Arthrosis,0
+271,Male,65,0,0,0
+272,Female,60,2,Neoplasms,Asthma
+273,Female,24,0,0,0
+274,Female,78,2,Musculoskeletal Disorders,COPD
+275,Female,54,0,0,0
+276,Female,32,0,0,0
+277,Male,62,0,0,0
+278,Female,31,1,Arthritis,0
+279,Female,40,1,Arthrosis,0
+280,Male,20,0,0,0
+281,Male,19,0,0,0
+282,Male,40,0,0,0
+283,Male,54,2,Diabetes,Musculoskeletal Disorders
+284,Male,34,1,Diabetes,0
+285,Female,80,0,0,0
+286,Male,96,2,COPD,Neoplasms
+287,Female,5,2,Musculoskeletal Disorders,Chronic kidney disease
+288,Female,61,0,0,0
+289,Female,32,2,Diabetes,Asthma
+290,Female,39,2,Arthrosis,Hypertension
+291,Male,15,2,Asthma,Arthrosis
+292,Female,7,1,Arthritis,0
+293,Male,11,1,Hypertension,0
+294,Male,4,0,0,0
+295,Female,20,1,Arthrosis,0
+296,Female,50,2,Asthma,Arthritis
+297,Male,11,0,0,0
+298,Female,17,0,0,0
+299,Female,20,2,COPD,Chronic kidney disease
+300,Male,57,2,Arthrosis,Asthma
+301,Male,41,0,0,0
+302,Female,40,1,Chronic kidney disease,0
+303,Male,85,1,Chronic kidney disease,0
+304,Female,56,0,0,0
+305,Male,38,2,Musculoskeletal Disorders,Neoplasms
+306,Male,6,0,0,0
+307,Male,22,0,0,0
+308,Female,38,0,0,0
+309,Male,63,2,Musculoskeletal Disorders,Heart failure
+310,Female,58,2,Neoplasms,Asthma
+311,Male,27,0,0,0
+312,Male,17,0,0,0
+313,Male,64,2,Arthrosis,Hypertension
+314,Male,33,2,Musculoskeletal Disorders,Dementia
+315,Female,33,2,Osteoporosis,Ischemic stroke
+316,Male,61,0,0,0
+317,Female,60,1,Dementia,0
+318,Male,20,1,Hypertension,0
+319,Male,34,0,0,0
+320,Female,54,1,Arthrosis,0
+321,Male,43,2,Asthma,Chronic kidney disease
+322,Female,89,2,Chronic kidney disease,Arthritis
+323,Male,67,2,Musculoskeletal Disorders,COPD
+324,Male,15,0,0,0
+325,Male,42,0,0,0
+326,Male,52,0,0,0
+327,Female,28,2,Musculoskeletal Disorders,Chronic kidney disease
+328,Male,35,0,0,0
+329,Male,13,0,0,0
+330,Male,49,2,Hypertension,Arthrosis
+331,Female,25,2,Musculoskeletal Disorders,Heart failure
+332,Male,61,0,0,0
+333,Female,31,0,0,0
+334,Male,48,2,Musculoskeletal Disorders,Ischemic stroke
+335,Male,32,0,0,0
+336,Female,37,0,0,0
+337,Female,52,2,Ischemic stroke,Musculoskeletal Disorders
+338,Female,73,1,Hypertension,0
+339,Male,28,0,0,0
+340,Male,16,2,Arthrosis,COPD
+341,Male,37,2,Dementia,Heart failure
+342,Female,15,0,0,0
+343,Female,52,0,0,0
+344,Male,25,0,0,0
+345,Female,60,1,Hypertension,0
+346,Female,54,0,0,0
+347,Female,97,1,Arthrosis,0
+348,Female,40,0,0,0
+349,Female,52,2,Asthma,COPD
+350,Female,50,2,Diabetes,COPD
+351,Female,58,0,0,0
+352,Male,30,0,0,0
+353,Female,18,0,0,0
+354,Female,18,0,0,0
+355,Male,53,2,Dementia,Arthritis
+356,Female,76,0,0,0
+357,Male,72,0,0,0
+358,Male,36,0,0,0
+359,Female,44,0,0,0
+360,Female,84,0,0,0
+361,Female,19,2,Musculoskeletal Disorders,Dementia
+362,Male,38,0,0,0
+363,Male,86,2,Neoplasms,COPD
+364,Male,59,0,0,0
+365,Female,63,1,Arthritis,0
+366,Male,35,2,Osteoporosis,Ischemic stroke
+367,Female,6,0,0,0
+368,Male,17,1,Musculoskeletal Disorders,0
+369,Female,21,0,0,0
+370,Male,18,0,0,0
+371,Male,55,1,Ischemic stroke,0
+372,Male,98,0,0,0
+373,Female,26,1,Arthrosis,0
+374,Male,69,0,0,0
+375,Male,86,0,0,0
+376,Female,31,0,0,0
+377,Female,89,2,Osteoporosis,Diabetes
+378,Female,51,0,0,0
+379,Female,92,0,0,0
+380,Male,61,1,Arthritis,0
+381,Female,5,0,0,0
+382,Female,57,2,Arthrosis,Asthma
+383,Male,15,2,Ischemic stroke,Arthrosis
+384,Male,36,1,Diabetes,0
+385,Female,18,0,0,0
+386,Male,15,1,Dementia,0
+387,Male,40,1,COPD,0
+388,Female,35,2,Diabetes,Chronic kidney disease
+389,Male,48,2,Ischemic stroke,Osteoporosis
+390,Male,52,0,0,0
+391,Male,43,0,0,0
+392,Female,32,1,Ischemic stroke,0
+393,Male,12,1,Asthma,0
+394,Male,15,1,COPD,0
+395,Male,38,2,Chronic kidney disease,Neoplasms
+396,Female,40,2,Asthma,Hypertension
+397,Female,54,0,0,0
+398,Male,17,2,Arthrosis,Musculoskeletal Disorders
+399,Male,12,2,Hypertension,Arthrosis
+400,Female,12,2,Osteoporosis,Musculoskeletal Disorders
+401,Female,58,1,COPD,0
+402,Female,41,0,0,0
+403,Male,64,0,0,0
+404,Male,53,0,0,0
+405,Female,13,0,0,0
+406,Male,3,1,Hypertension,0
+407,Female,42,0,0,0
+408,Female,41,0,0,0
+409,Female,32,0,0,0
+410,Female,64,2,Osteoporosis,Asthma
+411,Female,47,0,0,0
+412,Female,52,0,0,0
+413,Male,56,1,Chronic kidney disease,0
+414,Female,54,1,Diabetes,0
+415,Female,16,1,Chronic kidney disease,0
+416,Male,93,2,Musculoskeletal Disorders,Dementia
+417,Female,6,0,0,0
+418,Female,58,0,0,0
+419,Male,61,0,0,0
+420,Female,13,1,Chronic kidney disease,0
+421,Male,17,0,0,0
+422,Male,59,0,0,0
+423,Male,16,0,0,0
+424,Male,23,0,0,0
+425,Male,75,2,Dementia,Dementia
+426,Female,58,0,0,0
+427,Female,35,0,0,0
+428,Female,52,2,Asthma,Arthrosis
+429,Male,40,2,Arthritis,Osteoporosis
+430,Female,55,0,0,0
+431,Female,25,1,Hypertension,0
+432,Male,90,0,0,0
+433,Male,32,0,0,0
+434,Female,22,2,Hypertension,Ischemic stroke
+435,Male,63,1,COPD,0
+436,Female,19,1,Chronic kidney disease,0
+437,Female,89,0,0,0
+438,Female,50,2,Asthma,COPD
+439,Female,16,0,0,0
+440,Female,59,0,0,0
+441,Male,13,0,0,0
+442,Male,48,0,0,0
+443,Female,61,0,0,0
+444,Male,46,1,Arthrosis,0
+445,Female,80,0,0,0
+446,Male,47,2,Ischemic stroke,Osteoporosis
+447,Female,47,1,Neoplasms,0
+448,Male,42,2,Dementia,Asthma
+449,Male,40,2,Musculoskeletal Disorders,Hypertension
+450,Male,17,1,Heart failure,0
+451,Male,56,0,0,0
+452,Male,35,0,0,0
+453,Male,47,1,Musculoskeletal Disorders,0
+454,Male,41,2,Neoplasms,Asthma
+455,Male,15,0,0,0
+456,Female,93,2,Arthrosis,Neoplasms
+457,Female,90,0,0,0
+458,Male,15,0,0,0
+459,Male,41,1,Arthritis,0
+460,Male,66,0,0,0
+461,Male,51,0,0,0
+462,Male,80,2,Chronic kidney disease,COPD
+463,Male,58,0,0,0
+464,Female,96,1,Ischemic stroke,0
+465,Male,90,2,Musculoskeletal Disorders,Hypertension
+466,Male,41,0,0,0
+467,Female,20,1,Osteoporosis,0
+468,Male,25,0,0,0
+469,Female,9,2,Musculoskeletal Disorders,Hypertension
+470,Female,27,0,0,0
+471,Male,16,1,Heart failure,0
+472,Female,38,0,0,0
+473,Female,48,0,0,0
+474,Male,71,1,Osteoporosis,0
+475,Male,30,0,0,0
+476,Female,38,2,Hypertension,Chronic kidney disease
+477,Female,3,2,Diabetes,Musculoskeletal Disorders
+478,Female,18,0,0,0
+479,Male,17,0,0,0
+480,Female,28,0,0,0
+481,Male,53,2,Hypertension,Arthrosis
+482,Female,49,2,Heart failure,Diabetes
+483,Female,18,0,0,0
+484,Female,93,0,0,0
+485,Male,91,0,0,0
+486,Female,1,2,Arthritis,Diabetes
+487,Female,18,0,0,0
+488,Male,30,1,Arthrosis,0
+489,Male,30,0,0,0
+490,Male,3,0,0,0
+491,Female,49,0,0,0
+492,Female,21,2,Musculoskeletal Disorders,Arthrosis
+493,Male,20,1,Diabetes,0
+494,Female,61,0,0,0
+495,Female,52,2,Asthma,Hypertension
+496,Male,77,2,Neoplasms,Osteoporosis
+497,Female,2,0,0,0
+498,Female,53,1,Neoplasms,0
+499,Male,42,0,0,0
+500,Female,53,0,0,0
+501,Male,56,0,0,0
+502,Female,28,0,0,0
+503,Female,94,1,Diabetes,0
+504,Male,35,0,0,0
+505,Female,87,0,0,0
+506,Female,1,0,0,0
+507,Male,90,0,0,0
+508,Female,95,1,Ischemic stroke,0
+509,Female,48,0,0,0
+510,Male,26,0,0,0
+511,Female,0,2,Diabetes,Heart failure
+512,Female,39,0,0,0
+513,Female,48,0,0,0
+514,Male,10,2,COPD,Arthritis
+515,Female,45,2,Musculoskeletal Disorders,Heart failure
+516,Male,18,0,0,0
+517,Male,30,2,Diabetes,Heart failure
+518,Female,41,2,COPD,Musculoskeletal Disorders
+519,Male,31,0,0,0
+520,Male,29,1,Chronic kidney disease,0
+521,Female,76,0,0,0
+522,Female,89,2,COPD,Arthrosis
+523,Female,42,2,Heart failure,Chronic kidney disease
+524,Male,51,2,COPD,Musculoskeletal Disorders
+525,Male,19,1,COPD,0
+526,Female,19,1,Ischemic stroke,0
+527,Female,37,0,0,0
+528,Female,15,0,0,0
+529,Female,29,0,0,0
+530,Male,39,1,Arthrosis,0
+531,Female,66,0,0,0
+532,Female,55,0,0,0
+533,Male,19,0,0,0
+534,Female,52,2,Chronic kidney disease,Ischemic stroke
+535,Male,24,0,0,0
+536,Female,16,1,Arthrosis,0
+537,Female,60,0,0,0
+538,Female,64,0,0,0
+539,Male,23,0,0,0
+540,Male,67,0,0,0
+541,Female,30,0,0,0
+542,Female,46,0,0,0
+543,Male,51,1,Osteoporosis,0
+544,Female,39,2,Musculoskeletal Disorders,Chronic kidney disease
+545,Female,59,2,Hypertension,Asthma
+546,Female,5,0,0,0
+547,Female,62,2,Hypertension,Osteoporosis
+548,Female,60,1,Osteoporosis,0
+549,Female,56,0,0,0
+550,Male,15,0,0,0
+551,Male,4,1,Diabetes,0
+552,Male,37,2,Arthrosis,Musculoskeletal Disorders
+553,Male,82,0,0,0
+554,Male,55,0,0,0
+555,Female,22,0,0,0
+556,Female,26,1,Neoplasms,0
+557,Female,30,0,0,0
+558,Male,25,2,Diabetes,Musculoskeletal Disorders
+559,Male,50,2,Musculoskeletal Disorders,Hypertension
+560,Female,79,0,0,0
+561,Male,50,2,Asthma,Arthritis
+562,Female,55,2,Chronic kidney disease,COPD
+563,Female,18,2,Dementia,Musculoskeletal Disorders
+564,Female,55,2,Asthma,Hypertension
+565,Female,15,0,0,0
+566,Female,5,1,COPD,0
+567,Female,15,0,0,0
+568,Female,1,0,0,0
+569,Female,69,0,0,0
+570,Male,20,0,0,0
+571,Male,51,1,Musculoskeletal Disorders,0
+572,Male,74,0,0,0
+573,Female,47,0,0,0
+574,Male,5,0,0,0
+575,Male,37,0,0,0
+576,Female,6,1,Dementia,0
+577,Female,34,2,Musculoskeletal Disorders,Osteoporosis
+578,Male,47,0,0,0
+579,Male,88,0,0,0
+580,Male,42,0,0,0
+581,Female,23,2,Musculoskeletal Disorders,Dementia
+582,Female,20,0,0,0
+583,Male,24,0,0,0
+584,Male,63,2,Chronic kidney disease,Musculoskeletal Disorders
+585,Female,24,1,Diabetes,0
+586,Male,39,2,Musculoskeletal Disorders,Chronic kidney disease
+587,Male,94,2,Hypertension,Ischemic stroke
+588,Female,51,0,0,0
+589,Male,3,2,Ischemic stroke,Asthma
+590,Female,62,0,0,0
+591,Male,59,2,Musculoskeletal Disorders,Osteoporosis
+592,Male,34,0,0,0
+593,Female,86,0,0,0
+594,Female,48,0,0,0
+595,Female,44,2,Hypertension,Dementia
+596,Male,47,0,0,0
+597,Female,85,1,COPD,0
+598,Male,32,1,Ischemic stroke,0
+600,Male,26,0,0,0
+601,Male,58,0,0,0
+602,Male,54,0,0,0
+603,Male,47,1,Arthrosis,0
+604,Female,74,1,Hypertension,0
+605,Female,20,1,Arthrosis,0
+606,Female,43,0,0,0
+607,Male,22,0,0,0
+608,Male,16,0,0,0
+609,Male,25,0,0,0
+610,Male,63,1,Osteoporosis,0
+611,Male,21,0,0,0
+612,Female,64,2,Ischemic stroke,COPD
+613,Female,19,0,0,0
+614,Female,48,2,Heart failure,Musculoskeletal Disorders
+615,Male,66,2,Osteoporosis,Musculoskeletal Disorders
+616,Female,51,0,0,0
+617,Female,2,0,0,0
+618,Female,16,1,Arthrosis,0
+619,Female,39,2,Musculoskeletal Disorders,COPD
+620,Male,3,1,Hypertension,0
+621,Male,45,1,Musculoskeletal Disorders,0
+622,Male,80,1,Neoplasms,0
+623,Female,58,0,0,0
+624,Female,60,0,0,0
+625,Female,56,0,0,0
+626,Female,19,1,Arthrosis,0
+627,Female,7,0,0,0
+628,Female,5,1,Arthritis,0
+629,Female,79,1,Osteoporosis,0
+630,Male,37,0,0,0
+631,Female,57,0,0,0
+632,Female,47,0,0,0
+633,Female,17,1,Chronic kidney disease,0
+634,Male,63,2,Ischemic stroke,Arthrosis
+635,Female,78,2,Chronic kidney disease,Osteoporosis
+636,Female,13,0,0,0
+637,Male,57,0,0,0
+638,Male,93,1,COPD,0
+639,Female,41,0,0,0
+640,Female,8,2,Neoplasms,Asthma
+641,Female,37,2,Heart failure,Arthrosis
+642,Female,44,0,0,0
+643,Male,76,0,0,0
+644,Female,7,0,0,0
+645,Female,49,2,Musculoskeletal Disorders,Hypertension
+646,Male,78,0,0,0
+647,Female,73,0,0,0
+648,Male,56,1,Osteoporosis,0
+649,Male,79,2,Heart failure,Chronic kidney disease
+650,Female,34,0,0,0
+651,Male,47,0,0,0
+652,Female,70,0,0,0
+653,Female,64,0,0,0
+654,Female,84,0,0,0
+655,Female,7,2,Ischemic stroke,Asthma
+656,Female,56,1,Arthritis,0
+657,Female,7,0,0,0
+658,Female,38,0,0,0
+659,Female,61,2,Arthrosis,Neoplasms
+660,Female,13,2,Musculoskeletal Disorders,COPD
+661,Female,10,0,0,0
+662,Male,41,2,Asthma,Hypertension
+663,Female,59,0,0,0
+664,Female,21,0,0,0
+665,Female,9,0,0,0
+666,Female,56,1,Hypertension,0
+667,Female,7,1,COPD,0
+668,Male,41,0,0,0
+669,Male,2,1,Asthma,0
+670,Female,56,1,Chronic kidney disease,0
+671,Female,16,2,Arthrosis,Neoplasms
+672,Male,61,1,Arthrosis,0
+673,Female,17,0,0,0
+674,Female,64,1,Neoplasms,0
+675,Male,38,1,Ischemic stroke,0
+676,Male,30,2,Asthma,Heart failure
+677,Female,58,0,0,0
+678,Female,48,0,0,0
+679,Male,41,0,0,0
+680,Male,15,2,Dementia,Osteoporosis
+681,Female,26,2,Hypertension,Osteoporosis
+682,Male,82,1,Diabetes,0
+683,Male,44,0,0,0
+684,Female,38,0,0,0
+685,Female,23,0,0,0
+686,Male,58,2,Asthma,Hypertension
+687,Female,26,0,0,0
+688,Male,69,1,Musculoskeletal Disorders,0
+689,Male,15,1,Osteoporosis,0
+690,Female,55,2,Osteoporosis,Hypertension
+691,Male,58,0,0,0
+692,Female,45,1,Chronic kidney disease,0
+693,Male,37,1,Neoplasms,0
+694,Female,35,1,Ischemic stroke,0
+695,Female,62,0,0,0
+696,Male,41,2,Ischemic stroke,Hypertension
+697,Female,92,0,0,0
+698,Male,51,0,0,0
+699,Female,99,1,Osteoporosis,0
+700,Male,53,0,0,0
+701,Male,7,0,0,0
+702,Male,39,0,0,0
+703,Male,49,2,Ischemic stroke,Chronic kidney disease
+704,Male,39,1,Arthritis,0
+705,Female,0,0,0,0
+706,Male,12,1,COPD,0
+707,Female,44,0,0,0
+708,Male,51,2,Musculoskeletal Disorders,Arthritis
+709,Female,17,0,0,0
+710,Female,33,0,0,0
+711,Male,46,1,Asthma,0
+712,Male,42,2,Ischemic stroke,Heart failure
+713,Male,57,1,Neoplasms,0
+714,Male,57,0,0,0
+715,Female,37,2,Chronic kidney disease,Osteoporosis
+716,Male,10,0,0,0
+717,Male,25,0,0,0
+718,Female,19,1,COPD,0
+719,Female,64,2,Ischemic stroke,Asthma
+720,Male,99,0,0,0
+721,Male,18,2,Hypertension,Musculoskeletal Disorders
+722,Male,22,0,0,0
+723,Male,88,0,0,0
+724,Female,43,1,Hypertension,0
+725,Male,2,0,0,0
+726,Female,22,0,0,0
+727,Female,22,1,Arthrosis,0
+728,Male,20,0,0,0
+729,Male,19,2,Arthrosis,Asthma
+730,Male,27,2,Ischemic stroke,Osteoporosis
+731,Female,29,1,Neoplasms,0
+732,Male,42,0,0,0
+733,Male,25,2,Musculoskeletal Disorders,Dementia
+734,Female,50,0,0,0
+735,Male,77,0,0,0
+736,Male,71,0,0,0
+737,Female,38,0,0,0
+738,Female,60,1,COPD,0
+739,Female,64,2,Asthma,Arthrosis
+740,Female,94,1,Musculoskeletal Disorders,0
+741,Female,38,0,0,0
+742,Female,8,0,0,0
+743,Male,15,0,0,0
+744,Female,69,0,0,0
+745,Male,17,2,Hypertension,Arthrosis
+746,Male,49,0,0,0
+747,Male,43,0,0,0
+748,Female,24,0,0,0
+749,Female,21,1,Arthrosis,0
+750,Female,85,0,0,0
+751,Female,44,1,Diabetes,0
+752,Female,85,2,Asthma,Hypertension
+753,Male,62,1,Chronic kidney disease,0
+754,Female,60,0,0,0
+755,Male,59,2,Neoplasms,Osteoporosis
+756,Male,51,0,0,0
+757,Male,64,1,Arthritis,0
+758,Female,59,0,0,0
+759,Female,57,2,Dementia,Neoplasms
+760,Male,18,1,Arthrosis,0
+761,Male,20,0,0,0
+762,Female,25,1,Ischemic stroke,0
+763,Female,55,0,0,0
+764,Female,63,0,0,0
+765,Female,10,1,Asthma,0
+766,Female,82,0,0,0
+767,Female,48,0,0,0
+768,Male,52,1,Musculoskeletal Disorders,0
+769,Female,51,0,0,0
+770,Female,98,0,0,0
+771,Male,30,1,Musculoskeletal Disorders,0
+772,Female,72,2,Asthma,Osteoporosis
+773,Male,45,0,0,0
+774,Male,48,1,Chronic kidney disease,0
+775,Female,28,2,COPD,Osteoporosis
+776,Male,17,0,0,0
+777,Female,43,1,Hypertension,0
+778,Female,59,2,Arthrosis,Asthma
+779,Male,54,1,Ischemic stroke,0
+780,Male,50,0,0,0
+781,Male,44,2,Musculoskeletal Disorders,COPD
+782,Male,27,1,Arthrosis,0
+783,Male,12,0,0,0
+784,Male,80,1,COPD,0
+785,Male,42,0,0,0
+786,Male,40,0,0,0
+787,Male,16,1,Osteoporosis,0
+788,Female,67,1,COPD,0
+789,Female,21,1,Neoplasms,0
+790,Male,32,0,0,0
+791,Female,18,2,Asthma,Musculoskeletal Disorders
+792,Female,86,0,0,0
+793,Male,46,1,Diabetes,0
+794,Male,54,0,0,0
+795,Male,22,0,0,0
+796,Female,17,2,Arthrosis,Musculoskeletal Disorders
+797,Female,22,0,0,0
+798,Male,39,1,Arthrosis,0
+799,Female,87,0,0,0
+800,Male,37,1,Chronic kidney disease,0
+801,Male,18,0,0,0
+802,Male,41,2,Ischemic stroke,Arthrosis
+803,Female,50,1,Hypertension,0
+804,Male,58,2,Hypertension,Musculoskeletal Disorders
+805,Male,69,0,0,0
+806,Female,51,0,0,0
+807,Female,65,0,0,0
+808,Female,17,0,0,0
+809,Male,16,0,0,0
+810,Male,74,1,Ischemic stroke,0
+811,Female,18,0,0,0
+812,Female,19,1,Heart failure,0
+813,Female,73,0,0,0
+814,Male,59,0,0,0
+815,Male,37,0,0,0
+816,Female,54,0,0,0
+817,Female,71,0,0,0
+818,Female,19,1,Musculoskeletal Disorders,0
+819,Male,36,0,0,0
+820,Female,71,0,0,0
+821,Male,35,1,Arthrosis,0
+822,Female,26,2,Osteoporosis,Dementia
+823,Female,28,1,Arthritis,0
+824,Female,27,2,Dementia,Musculoskeletal Disorders
+825,Male,17,0,0,0
+826,Female,11,0,0,0
+827,Female,38,0,0,0
+828,Female,11,2,Arthrosis,COPD
+829,Male,13,0,0,0
+830,Male,61,0,0,0
+831,Female,39,0,0,0
+832,Male,38,0,0,0
+833,Female,61,1,Arthrosis,0
+834,Male,29,0,0,0
+835,Female,53,2,Musculoskeletal Disorders,Dementia
+836,Female,66,0,0,0
+837,Female,85,0,0,0
+838,Female,80,1,Arthritis,0
+839,Female,17,1,Osteoporosis,0
+840,Female,0,2,Asthma,Hypertension
+841,Female,46,0,0,0
+842,Female,33,1,Hypertension,0
+843,Female,81,2,Neoplasms,COPD
+844,Female,52,1,Ischemic stroke,0
+845,Male,48,1,Musculoskeletal Disorders,0
+846,Female,5,0,0,0
+847,Male,18,0,0,0
+848,Female,28,0,0,0
+849,Male,90,0,0,0
+850,Female,21,0,0,0
+851,Female,35,2,Musculoskeletal Disorders,Diabetes
+852,Male,50,2,Ischemic stroke,Chronic kidney disease
+853,Male,91,0,0,0
+854,Female,18,2,Chronic kidney disease,Musculoskeletal Disorders
+855,Male,21,0,0,0
+856,Female,15,0,0,0
+857,Female,54,1,Ischemic stroke,0
+858,Male,24,1,Heart failure,0
+859,Male,61,2,Hypertension,Osteoporosis
+860,Female,68,2,Dementia,Arthrosis
+861,Female,17,2,Arthrosis,Neoplasms
+862,Female,23,2,Dementia,Ischemic stroke
+863,Female,15,0,0,0
+864,Female,39,0,0,0
+865,Male,56,1,Arthrosis,0
+866,Female,37,0,0,0
+867,Female,79,1,Hypertension,0
+868,Male,44,0,0,0
+869,Male,15,0,0,0
+870,Male,54,1,Osteoporosis,0
+871,Female,47,0,0,0
+872,Female,27,2,Musculoskeletal Disorders,Chronic kidney disease
+873,Male,42,1,Diabetes,0
+874,Female,7,1,Neoplasms,0
+875,Male,33,0,0,0
+876,Female,48,0,0,0
+877,Female,65,0,0,0
+878,Male,38,1,Musculoskeletal Disorders,0
+879,Female,69,0,0,0
+880,Female,47,0,0,0
+881,Male,38,2,Arthrosis,Hypertension
+882,Male,57,0,0,0
+883,Female,66,0,0,0
+884,Male,81,0,0,0
+885,Female,12,1,Ischemic stroke,0
+886,Male,38,0,0,0
+887,Male,64,1,Chronic kidney disease,0
+888,Male,34,0,0,0
+889,Male,15,0,0,0
+890,Female,38,2,Chronic kidney disease,Musculoskeletal Disorders
+891,Female,72,0,0,0
+892,Male,27,0,0,0
+893,Female,26,0,0,0
+894,Male,50,2,Asthma,Hypertension
+895,Female,88,2,Arthrosis,Ischemic stroke
+896,Female,78,0,0,0
+897,Female,53,2,Arthritis,Dementia
+898,Female,24,0,0,0
+899,Female,31,0,0,0
+900,Female,43,0,0,0
+901,Female,41,0,0,0
+902,Male,58,1,Ischemic stroke,0
+903,Female,23,2,Neoplasms,Heart failure
+904,Male,54,2,Musculoskeletal Disorders,Asthma
+905,Male,90,0,0,0
+906,Female,77,2,Diabetes,Heart failure
+907,Female,44,0,0,0
+908,Female,17,0,0,0
+909,Male,24,1,Musculoskeletal Disorders,0
+910,Male,52,2,Dementia,Ischemic stroke
+911,Male,17,2,Asthma,Musculoskeletal Disorders
+912,Female,17,0,0,0
+913,Male,25,0,0,0
+914,Male,76,0,0,0
+915,Male,88,0,0,0
+916,Female,29,2,Arthrosis,COPD
+917,Male,50,1,COPD,0
+918,Female,5,1,Arthrosis,0
+919,Female,46,0,0,0
+920,Female,15,0,0,0
+921,Female,55,2,Chronic kidney disease,Dementia
+922,Male,62,0,0,0
+923,Male,31,1,Arthritis,0
+924,Female,32,1,Musculoskeletal Disorders,0
+925,Female,44,0,0,0
+926,Male,61,0,0,0
+927,Male,64,0,0,0
+928,Female,99,2,Dementia,Osteoporosis
+929,Male,61,0,0,0
+930,Female,55,0,0,0
+931,Male,21,2,Neoplasms,COPD
+932,Male,12,0,0,0
+933,Female,5,2,Musculoskeletal Disorders,Osteoporosis
+934,Female,83,2,Heart failure,Musculoskeletal Disorders
+935,Female,22,2,Musculoskeletal Disorders,Diabetes
+    936,Male,98,1,Musculoskeletal Disorders,0
+937,Female,52,0,0,0
+938,Female,44,0,0,0
+939,Male,41,2,Dementia,Chronic kidney disease
+940,Male,53,0,0,0
+941,Female,59,0,0,0
+942,Male,60,0,0,0
+943,Male,17,1,Ischemic stroke,0
+944,Female,24,0,0,0
+945,Male,88,2,Hypertension,Arthrosis
+946,Female,60,2,Chronic kidney disease,Heart failure
+947,Male,54,1,Musculoskeletal Disorders,0
+948,Female,66,2,Arthritis,Diabetes
+949,Female,62,0,0,0
+950,Female,66,0,0,0
+951,Male,20,2,Diabetes,Arthrosis
+952,Male,16,1,Osteoporosis,0
+953,Female,42,0,0,0
+954,Female,23,0,0,0
+955,Male,15,0,0,0
+956,Male,54,0,0,0
+957,Male,0,0,0,0
+958,Male,77,0,0,0
+959,Male,64,2,Ischemic stroke,COPD
+    960,Male,85,0,0,0
+961,Female,58,2,Dementia,Heart failure
+962,Male,44,0,0,0
+963,Female,15,1,COPD,0
+964,Male,31,2,Heart failure,Diabetes
+965,Female,22,0,0,0
+966,Female,87,0,0,0
+967,Female,34,2,Ischemic stroke,Asthma
+968,Female,96,2,Arthritis,Dementia
+    969,Female,51,1,Dementia,0
+970,Female,38,1,Hypertension,0
+971,Male,81,1,Osteoporosis,0
+972,Female,36,1,Dementia,0
+973,Male,23,2,Chronic kidney disease,COPD
+974,Male,35,1,Musculoskeletal Disorders,0
+975,Male,60,1,Chronic kidney disease,0
+976,Female,49,2,Arthrosis,Asthma
+977,Male,47,0,0,0
+978,Female,59,1,Musculoskeletal Disorders,0
+979,Male,49,0,0,0
+980,Female,43,0,0,0
+981,Male,11,2,Ischemic stroke,Arthritis
+982,Male,47,0,0,0
+983,Male,39,0,0,0
+984,Female,43,1,Arthritis,0
+985,Female,29,0,0,0
+986,Male,44,1,Osteoporosis,0
+987,Female,40,0,0,0
+988,Female,19,1,Arthrosis,0
+989,Male,44,1,Diabetes,0
+990,Female,63,1,COPD,0
+991,Male,69,1,Diabetes,0
+992,Male,87,1,Asthma,0
+993,Female,4,0,0,0
+994,Male,64,2,Hypertension,Asthma
+995,Male,17,2,Arthrosis,Osteoporosis
+996,Male,16,2,Hypertension,Diabetes
+997,Male,35,1,Hypertension,0
+998,Female,63,0,0,0
+999,Female,9,0,0,0
+1000,Male,23,2,Musculoskeletal Disorders,Arthrosis
