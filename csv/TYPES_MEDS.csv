@@ -1,0 +1,1001 @@
+id,comb_mood_stab,comb_antipsych,comb_antidepr,antidepresivos_sp,lithium_exp
+1,No,No,Yes,Agomelatine,Partial or intermittent
+2,No,No,Yes,Duloxetine,Sustained
+3,Yes,No,No,None,No
+4,Yes,No,No,None,Partial or intermittent
+5,Yes,No,No,None,No
+6,Yes,No,No,None,No
+7,Yes,No,Yes,Paroxetine,Partial or intermittent
+8,No,No,No,None,Sustained
+9,Yes,No,Yes,Paroxetine,No
+10,Yes,No,No,None,Partial or intermittent
+11,Yes,No,No,None,Partial or intermittent
+12,Yes,No,No,None,No
+13,Yes,Yes,No,None,No
+14,No,No,No,None,No
+15,No,No,No,None,Partial or intermittent
+16,Yes,No,No,None,Sustained
+17,Yes,No,No,None,No
+18,Yes,No,No,None,No
+19,Yes,Yes,No,None,No
+20,No,No,No,None,Partial or intermittent
+21,No,No,Yes,Imipramine,No
+22,No,No,No,None,No
+23,Yes,No,No,None,No
+24,Yes,No,No,None,No
+25,Yes,No,No,None,No
+26,Yes,No,No,None,No
+27,No,No,No,None,No
+28,Yes,No,No,None,No
+29,Yes,No,No,None,No
+30,Yes,No,No,None,No
+31,Yes,No,No,None,No
+32,No,Yes,No,None,No
+33,Yes,Yes,No,None,Sustained
+34,Yes,No,No,None,Sustained
+35,Yes,No,No,None,Partial or intermittent
+36,Yes,No,No,None,No
+37,Yes,No,No,None,Partial or intermittent
+38,Yes,No,No,None,No
+39,Yes,Yes,No,None,Sustained
+40,No,Yes,No,None,Partial or intermittent
+41,Yes,No,No,None,Partial or intermittent
+42,Yes,Yes,No,None,No
+43,Yes,No,No,None,Partial or intermittent
+44,Yes,No,No,None,No
+45,Yes,No,No,None,No
+46,No,No,No,None,No
+47,Yes,No,No,None,No
+48,Yes,No,No,None,No
+49,Yes,Yes,No,None,Partial or intermittent
+50,No,No,No,None,Partial or intermittent
+51,No,No,No,None,Partial or intermittent
+52,Yes,No,No,None,No
+53,No,No,No,None,No
+54,Yes,No,No,None,No
+55,Yes,No,No,None,Partial or intermittent
+56,No,Yes,No,None,No
+57,No,No,No,None,Sustained
+58,Yes,No,No,None,No
+59,Yes,Yes,No,None,Sustained
+60,No,No,Yes,Duloxetine,No
+61,Yes,No,No,None,Partial or intermittent
+62,Yes,No,No,None,No
+63,Yes,No,Yes,Fluoxetine,No
+64,Yes,No,Yes,Duloxetine,Partial or intermittent
+65,Yes,No,No,None,Partial or intermittent
+66,Yes,Yes,Yes,Vortioxetine,Partial or intermittent
+67,Yes,No,Yes,Fluvoxamine,No
+68,Yes,No,No,None,Sustained
+69,No,No,Yes,Mirtazapine,Partial or intermittent
+70,Yes,Yes,Yes,Amitriptyline,Partial or intermittent
+71,Yes,No,No,None,Partial or intermittent
+72,Yes,No,No,None,No
+73,Yes,No,No,None,Sustained
+74,No,No,No,None,Partial or intermittent
+75,Yes,No,No,None,No
+76,Yes,Yes,No,None,Partial or intermittent
+77,Yes,No,Yes,Venlafaxine,No
+78,Yes,No,Yes,Duloxetine,No
+79,Yes,No,No,None,No
+80,Yes,Yes,Yes,Escitalopram,No
+81,Yes,No,No,None,No
+82,Yes,No,Yes,Bupropion,No
+83,Yes,Yes,No,None,Partial or intermittent
+84,Yes,No,No,None,Partial or intermittent
+85,Yes,No,No,None,Partial or intermittent
+86,No,No,No,None,No
+87,No,No,No,None,Partial or intermittent
+88,Yes,No,No,None,No
+89,No,No,No,None,Partial or intermittent
+90,Yes,No,No,None,No
+91,Yes,No,Yes,Agomelatine,Partial or intermittent
+92,No,No,No,None,Partial or intermittent
+93,Yes,Yes,No,None,Sustained
+94,Yes,No,No,None,No
+95,Yes,No,No,None,No
+96,Yes,No,No,None,Partial or intermittent
+97,Yes,Yes,No,None,No
+98,Yes,No,No,None,No
+99,Yes,Yes,No,None,Partial or intermittent
+100,No,No,No,None,Partial or intermittent
+101,Yes,No,No,None,No
+102,Yes,No,No,None,No
+103,No,No,No,None,No
+104,Yes,No,No,None,No
+105,No,No,Yes,Duloxetine,Partial or intermittent
+106,No,No,No,None,No
+107,Yes,No,No,None,Partial or intermittent
+108,Yes,No,No,None,No
+109,Yes,No,No,None,No
+110,Yes,No,No,None,Sustained
+111,No,No,No,None,No
+112,Yes,No,No,None,Partial or intermittent
+113,Yes,No,No,None,No
+114,Yes,No,No,None,Sustained
+115,Yes,No,No,None,Sustained
+116,Yes,No,Yes,Mianserine,No
+117,Yes,No,Yes,Citalopram,No
+118,Yes,No,No,None,Partial or intermittent
+119,Yes,No,No,None,Partial or intermittent
+120,Yes,No,Yes,Doxepine,No
+121,Yes,Yes,No,None,Sustained
+122,Yes,No,No,None,No
+123,Yes,No,No,None,Partial or intermittent
+124,Yes,No,No,None,No
+125,No,No,No,None,No
+126,Yes,Yes,No,None,Partial or intermittent
+127,No,No,Yes,Escitalopram,No
+128,No,No,No,None,No
+129,Yes,No,No,None,Partial or intermittent
+130,Yes,No,No,None,No
+131,No,No,No,None,No
+132,Yes,No,No,None,Sustained
+133,Yes,No,No,None,Partial or intermittent
+134,Yes,No,No,None,Partial or intermittent
+135,Yes,No,Yes,Agomelatine,Partial or intermittent
+136,No,No,No,None,Sustained
+137,Yes,No,No,None,Partial or intermittent
+138,Yes,No,No,None,No
+139,No,No,Yes,Clomipramine,Sustained
+140,Yes,No,Yes,Amitriptyline,Sustained
+141,Yes,Yes,Yes,Mirtazapine,Partial or intermittent
+142,Yes,No,No,None,No
+143,Yes,No,No,None,Sustained
+144,No,No,No,None,Partial or intermittent
+145,Yes,No,No,None,Partial or intermittent
+146,Yes,No,No,None,Partial or intermittent
+147,Yes,Yes,Yes,Duloxetine,Sustained
+148,Yes,No,No,None,Partial or intermittent
+149,Yes,No,No,None,No
+150,Yes,No,No,None,Sustained
+151,Yes,No,No,None,No
+152,Yes,No,Yes,Paroxetine,No
+153,Yes,No,No,None,No
+154,Yes,Yes,No,None,No
+155,Yes,No,No,None,Sustained
+156,No,No,No,None,Sustained
+157,Yes,No,No,None,No
+158,Yes,No,Yes,Escitalopram,Partial or intermittent
+159,Yes,No,No,None,Partial or intermittent
+160,No,No,Yes,Citalopram,Partial or intermittent
+161,Yes,No,No,None,No
+162,Yes,No,No,None,Sustained
+163,Yes,No,No,None,Sustained
+164,Yes,No,Yes,Amitriptyline,Partial or intermittent
+165,Yes,No,Yes,Fluvoxamine,No
+166,Yes,No,Yes,Clomipramine,No
+167,Yes,Yes,Yes,Escitalopram,Partial or intermittent
+168,Yes,No,Yes,Escitalopram,Partial or intermittent
+169,No,No,No,None,No
+170,Yes,Yes,No,None,Partial or intermittent
+171,No,No,No,None,Partial or intermittent
+172,Yes,No,No,None,Partial or intermittent
+173,Yes,No,No,None,Partial or intermittent
+174,No,No,Yes,Paroxetine,No
+175,Yes,Yes,No,None,No
+176,Yes,No,No,None,No
+177,Yes,No,No,None,No
+178,Yes,No,No,None,Partial or intermittent
+179,No,No,No,None,Sustained
+180,Yes,No,No,None,No
+181,Yes,Yes,Yes,Nortriptiline,No
+182,Yes,No,No,None,No
+183,Yes,No,No,None,Sustained
+184,Yes,Yes,No,None,No
+185,No,No,No,None,Sustained
+186,Yes,No,No,None,No
+187,Yes,Yes,No,None,Partial or intermittent
+188,No,No,No,None,No
+189,Yes,No,No,None,No
+190,Yes,No,No,None,Partial or intermittent
+191,Yes,No,No,None,No
+192,Yes,No,No,None,Sustained
+193,No,No,No,None,Partial or intermittent
+194,Yes,No,Yes,Fluoxetine,No
+195,No,No,No,None,Partial or intermittent
+196,Yes,No,No,None,Partial or intermittent
+197,Yes,No,No,None,No
+198,Yes,No,No,None,No
+199,Yes,No,No,None,Partial or intermittent
+200,Yes,No,No,None,Sustained
+201,Yes,Yes,No,None,No
+202,Yes,Yes,No,None,Partial or intermittent
+203,Yes,No,No,None,Partial or intermittent
+204,Yes,No,No,None,No
+205,No,No,No,None,Partial or intermittent
+206,Yes,No,No,None,Partial or intermittent
+207,No,No,No,None,Partial or intermittent
+208,Yes,No,No,None,Partial or intermittent
+209,No,No,No,None,Partial or intermittent
+210,No,No,Yes,Clomipramine,No
+211,Yes,No,No,None,Partial or intermittent
+212,Yes,No,No,None,No
+213,Yes,No,Yes,Amitriptyline,No
+214,Yes,No,No,None,Partial or intermittent
+215,Yes,No,No,None,Partial or intermittent
+216,No,No,No,None,Partial or intermittent
+217,Yes,No,Yes,Paroxetine,Partial or intermittent
+218,Yes,No,No,None,No
+219,No,No,No,None,Sustained
+220,Yes,No,No,None,No
+221,No,No,No,None,Sustained
+222,Yes,No,No,None,No
+223,Yes,No,Yes,Escitalopram,No
+224,Yes,No,No,None,No
+225,Yes,No,No,None,No
+226,Yes,No,No,None,No
+227,No,Yes,No,None,No
+228,Yes,No,No,None,Sustained
+229,Yes,No,No,None,Partial or intermittent
+230,Yes,Yes,No,None,No
+231,Yes,No,No,None,Sustained
+232,No,No,Yes,Bupropion,No
+233,Yes,Yes,No,None,Partial or intermittent
+234,Yes,No,Yes,Trazodone,Partial or intermittent
+235,Yes,No,Yes,Moclobemide,No
+236,Yes,No,No,None,No
+237,Yes,No,No,None,Partial or intermittent
+238,Yes,No,No,None,Sustained
+239,Yes,No,No,None,Partial or intermittent
+240,Yes,No,No,None,Partial or intermittent
+241,Yes,No,No,None,No
+242,Yes,No,No,None,Sustained
+243,Yes,No,No,None,No
+244,Yes,No,No,None,No
+245,No,No,No,None,Partial or intermittent
+246,Yes,No,No,None,No
+247,No,No,No,None,Partial or intermittent
+248,No,No,Yes,Mianserine,Partial or intermittent
+249,Yes,No,No,None,No
+250,Yes,No,No,None,No
+251,No,No,No,None,No
+252,Yes,Yes,Yes,Duloxetine,No
+253,Yes,No,No,None,No
+254,Yes,No,No,None,Partial or intermittent
+255,Yes,Yes,No,None,Partial or intermittent
+256,No,No,No,None,No
+257,Yes,No,No,None,Partial or intermittent
+258,Yes,No,Yes,Bupropion,No
+259,Yes,Yes,No,None,Sustained
+260,Yes,No,No,None,Partial or intermittent
+261,Yes,No,Yes,Amitriptyline,Partial or intermittent
+262,Yes,No,Yes,Agomelatine,No
+263,Yes,No,Yes,Clomipramine,No
+264,No,Yes,Yes,Fluoxetine,No
+265,Yes,No,No,None,No
+266,Yes,No,No,None,No
+267,Yes,No,No,None,No
+268,Yes,No,Yes,Paroxetine,Partial or intermittent
+269,No,No,Yes,Amitriptyline,No
+270,Yes,Yes,No,None,Sustained
+271,No,No,No,None,No
+272,Yes,Yes,No,None,Partial or intermittent
+273,No,No,No,None,Sustained
+274,Yes,Yes,Yes,Imipramine,No
+275,Yes,No,No,None,Sustained
+276,Yes,No,No,None,Sustained
+277,Yes,No,No,None,No
+278,No,No,Yes,Fluoxetine,Partial or intermittent
+279,Yes,No,No,None,Partial or intermittent
+280,Yes,Yes,No,None,Partial or intermittent
+281,Yes,No,No,None,No
+282,Yes,Yes,No,None,Partial or intermittent
+283,Yes,No,No,None,Partial or intermittent
+284,No,Yes,Yes,Sertraline,No
+285,No,No,No,None,No
+286,Yes,No,No,None,No
+287,Yes,Yes,No,None,Partial or intermittent
+288,No,No,No,None,No
+289,Yes,No,No,None,Sustained
+290,Yes,Yes,Yes,Duloxetine,No
+291,Yes,No,Yes,Sertraline,No
+292,Yes,Yes,No,None,No
+293,Yes,No,Yes,Doxepine,No
+294,Yes,Yes,No,None,Partial or intermittent
+295,Yes,No,No,None,No
+296,Yes,No,No,None,Sustained
+297,Yes,No,No,None,No
+298,Yes,No,Yes,Moclobemide,Sustained
+299,Yes,No,No,None,No
+300,No,No,No,None,No
+301,Yes,Yes,No,None,Partial or intermittent
+302,Yes,No,No,None,No
+303,Yes,No,Yes,Agomelatine,No
+304,No,No,Yes,Venlafaxine,No
+305,No,No,No,None,Sustained
+306,No,No,No,None,No
+307,Yes,No,No,None,No
+308,Yes,No,Yes,Trazodone,No
+309,No,Yes,No,None,No
+310,Yes,Yes,Yes,Citalopram,Partial or intermittent
+311,Yes,No,No,None,Partial or intermittent
+312,Yes,Yes,No,None,No
+313,Yes,No,Yes,Clomipramine,No
+314,Yes,No,No,None,No
+315,No,No,No,None,No
+316,Yes,Yes,No,None,Partial or intermittent
+317,No,Yes,No,None,No
+318,Yes,No,No,None,No
+319,Yes,Yes,No,None,Partial or intermittent
+320,Yes,No,No,None,No
+321,Yes,No,No,None,Partial or intermittent
+322,Yes,No,Yes,Sertraline,Sustained
+323,Yes,Yes,No,None,No
+324,No,No,No,None,No
+325,No,No,Yes,Sertraline,No
+326,Yes,No,Yes,Imipramine,Sustained
+327,Yes,No,Yes,Bupropion,No
+328,Yes,No,No,None,No
+329,Yes,No,No,None,No
+330,Yes,No,No,None,No
+331,Yes,No,Yes,Trazodone,No
+332,Yes,Yes,Yes,Vortioxetine,Partial or intermittent
+333,Yes,Yes,No,None,No
+334,Yes,No,No,None,Partial or intermittent
+335,No,Yes,No,None,No
+336,Yes,No,No,None,No
+337,Yes,No,No,None,No
+338,Yes,Yes,No,None,Partial or intermittent
+339,Yes,No,No,None,Partial or intermittent
+340,Yes,No,No,None,No
+341,Yes,No,No,None,Sustained
+342,Yes,No,No,None,Partial or intermittent
+343,Yes,No,No,None,Partial or intermittent
+344,Yes,No,No,None,No
+345,Yes,No,No,None,No
+346,Yes,No,No,None,No
+347,No,No,No,None,No
+348,Yes,No,No,None,Partial or intermittent
+349,Yes,No,No,None,No
+350,Yes,No,Yes,Fluoxetine,Partial or intermittent
+351,No,Yes,Yes,Mirtazapine,Partial or intermittent
+352,Yes,No,Yes,Citalopram,No
+353,Yes,No,Yes,Sertraline,No
+354,Yes,No,No,None,Partial or intermittent
+355,Yes,No,No,None,Sustained
+356,Yes,Yes,Yes,Amitriptyline,No
+357,Yes,No,No,None,Partial or intermittent
+358,No,No,No,None,Partial or intermittent
+359,Yes,Yes,No,None,No
+360,No,No,Yes,Nortriptiline,No
+361,No,No,No,None,No
+362,No,Yes,No,None,No
+363,Yes,No,No,None,Sustained
+364,Yes,No,No,None,Sustained
+365,Yes,No,No,None,Partial or intermittent
+366,Yes,No,Yes,Citalopram,Sustained
+367,Yes,No,No,None,Partial or intermittent
+368,Yes,No,No,None,No
+369,No,No,Yes,Vortioxetine,No
+370,Yes,Yes,No,None,No
+371,Yes,No,Yes,Amitriptyline,No
+372,Yes,No,Yes,Venlafaxine,Partial or intermittent
+373,Yes,No,Yes,Trazodone,No
+374,Yes,Yes,No,None,Partial or intermittent
+375,Yes,No,No,None,No
+376,Yes,No,Yes,Agomelatine,Sustained
+377,Yes,No,No,None,Partial or intermittent
+378,Yes,Yes,Yes,Bupropion,No
+379,Yes,No,No,None,No
+380,No,No,Yes,Amitriptyline,No
+381,No,No,Yes,Duloxetine,Partial or intermittent
+382,Yes,No,Yes,Moclobemide,Partial or intermittent
+383,Yes,Yes,Yes,Sertraline,No
+384,Yes,No,No,None,Sustained
+385,No,No,No,None,No
+386,Yes,No,Yes,Fluoxetine,Partial or intermittent
+387,Yes,No,Yes,Duloxetine,No
+388,No,No,No,None,No
+389,Yes,No,No,None,Sustained
+390,Yes,No,No,None,No
+391,Yes,No,Yes,Venlafaxine,No
+392,Yes,No,Yes,Bupropion,Sustained
+393,Yes,Yes,No,None,No
+394,Yes,No,Yes,Duloxetine,No
+395,Yes,No,No,None,No
+396,Yes,No,No,None,No
+397,Yes,No,No,None,No
+398,Yes,No,No,None,No
+399,Yes,No,No,None,Partial or intermittent
+400,No,No,No,None,No
+401,Yes,Yes,Yes,Duloxetine,Partial or intermittent
+402,Yes,No,No,None,Sustained
+403,Yes,No,No,None,Partial or intermittent
+404,Yes,No,Yes,Citalopram,No
+405,No,No,No,None,No
+406,Yes,No,Yes,Doxepine,Sustained
+407,No,No,No,None,Sustained
+408,No,No,No,None,No
+409,Yes,No,No,None,Partial or intermittent
+410,Yes,Yes,No,None,No
+411,Yes,Yes,No,None,No
+412,Yes,No,No,None,No
+413,Yes,No,No,None,No
+414,Yes,No,No,None,Partial or intermittent
+415,Yes,No,No,None,No
+416,Yes,Yes,No,None,Sustained
+417,Yes,No,Yes,Bupropion,No
+418,Yes,No,No,None,Partial or intermittent
+419,Yes,No,No,None,Sustained
+420,No,No,No,None,Partial or intermittent
+421,No,No,Yes,Mirtazapine,No
+422,Yes,No,No,None,No
+423,Yes,No,Yes,Vortioxetine,No
+424,Yes,Yes,No,None,No
+425,Yes,Yes,No,None,No
+426,No,No,Yes,Escitalopram,Partial or intermittent
+427,No,No,No,None,No
+428,Yes,No,No,None,No
+429,Yes,No,No,None,Partial or intermittent
+430,No,Yes,Yes,Moclobemide,No
+431,Yes,No,Yes,Fluvoxamine,Sustained
+432,Yes,No,No,None,No
+433,Yes,Yes,No,None,No
+434,No,Yes,Yes,Imipramine,No
+435,Yes,No,No,None,No
+436,Yes,No,No,None,Sustained
+437,Yes,No,No,None,Partial or intermittent
+438,No,No,No,None,No
+439,Yes,No,No,None,No
+440,Yes,No,No,None,Partial or intermittent
+441,Yes,No,No,None,No
+442,No,Yes,No,None,Partial or intermittent
+443,Yes,Yes,Yes,Fluoxetine,Sustained
+444,No,No,No,None,Sustained
+445,Yes,No,No,None,No
+446,Yes,No,No,None,Partial or intermittent
+447,Yes,Yes,No,None,Sustained
+448,Yes,No,No,None,Sustained
+449,No,No,No,None,Sustained
+450,Yes,No,No,None,No
+451,Yes,No,No,None,Partial or intermittent
+452,No,No,No,None,No
+453,Yes,No,Yes,Nortriptiline,No
+454,Yes,No,No,None,Sustained
+455,Yes,No,No,None,No
+456,Yes,No,No,None,No
+457,Yes,Yes,No,None,No
+458,No,No,No,None,No
+459,Yes,Yes,Yes,Venlafaxine,No
+460,Yes,No,Yes,Fluoxetine,No
+461,Yes,No,No,None,No
+462,Yes,No,Yes,Doxepine,No
+463,No,No,No,None,No
+464,Yes,Yes,No,None,No
+465,No,No,No,None,No
+466,No,No,No,None,Partial or intermittent
+467,Yes,No,No,None,No
+468,Yes,No,No,None,No
+469,Yes,No,No,None,No
+470,Yes,No,Yes,Mianserine,No
+471,No,No,Yes,Mirtazapine,No
+472,Yes,Yes,Yes,Venlafaxine,No
+473,Yes,Yes,No,None,No
+474,Yes,Yes,No,None,No
+475,Yes,Yes,No,None,No
+476,Yes,No,No,None,No
+477,Yes,No,Yes,Fluoxetine,No
+478,Yes,No,No,None,No
+479,Yes,No,No,None,Partial or intermittent
+480,Yes,Yes,No,None,No
+481,Yes,Yes,No,None,Sustained
+482,No,No,No,None,Partial or intermittent
+483,Yes,Yes,No,None,Sustained
+484,Yes,Yes,No,None,No
+485,Yes,No,No,None,No
+486,Yes,Yes,No,None,No
+487,Yes,No,No,None,No
+488,Yes,No,No,None,Partial or intermittent
+489,Yes,No,No,None,No
+490,Yes,No,Yes,Mirtazapine,Partial or intermittent
+491,Yes,No,Yes,Vortioxetine,No
+492,No,No,No,None,Partial or intermittent
+493,Yes,No,Yes,Amitriptyline,No
+494,Yes,Yes,No,None,No
+495,Yes,No,Yes,Nortriptiline,No
+496,Yes,No,No,None,No
+497,Yes,Yes,No,None,No
+498,Yes,No,No,None,Partial or intermittent
+499,Yes,No,Yes,Clomipramine,Partial or intermittent
+500,Yes,No,No,None,No
+501,Yes,No,Yes,Fluvoxamine,No
+502,Yes,No,Yes,Mianserine,No
+503,Yes,No,No,None,No
+504,Yes,Yes,No,None,Partial or intermittent
+505,Yes,No,No,None,No
+506,Yes,No,No,None,Partial or intermittent
+507,Yes,Yes,Yes,Moclobemide,Partial or intermittent
+508,Yes,No,No,None,No
+509,Yes,No,Yes,Paroxetine,Partial or intermittent
+510,Yes,No,No,None,No
+511,Yes,No,No,None,No
+512,Yes,No,Yes,Moclobemide,Partial or intermittent
+513,Yes,Yes,No,None,Partial or intermittent
+514,Yes,No,No,None,Sustained
+515,Yes,No,No,None,Partial or intermittent
+516,Yes,Yes,No,None,Sustained
+517,Yes,Yes,No,None,No
+518,Yes,No,No,None,No
+519,Yes,No,Yes,Venlafaxine,No
+520,No,No,No,None,Partial or intermittent
+521,No,No,No,None,Sustained
+522,Yes,No,No,None,Sustained
+523,No,Yes,No,None,No
+524,Yes,No,Yes,Venlafaxine,Partial or intermittent
+525,Yes,No,No,None,Partial or intermittent
+526,Yes,No,No,None,Sustained
+527,Yes,Yes,Yes,Nortriptiline,No
+528,No,No,No,None,No
+529,No,No,No,None,Partial or intermittent
+530,No,No,No,None,Partial or intermittent
+531,Yes,No,No,None,Partial or intermittent
+532,Yes,No,No,None,No
+533,Yes,No,No,None,No
+534,Yes,No,No,None,Partial or intermittent
+535,Yes,No,Yes,Bupropion,No
+536,No,No,No,None,Partial or intermittent
+537,Yes,No,No,None,No
+538,Yes,No,Yes,Fluoxetine,No
+539,Yes,Yes,No,None,No
+540,Yes,No,No,None,No
+541,Yes,Yes,Yes,Amitriptyline,No
+542,Yes,No,No,None,Partial or intermittent
+543,Yes,No,Yes,Fluvoxamine,Sustained
+544,Yes,No,Yes,Fluvoxamine,No
+545,Yes,No,Yes,Trazodone,Partial or intermittent
+546,No,No,Yes,Sertraline,Sustained
+547,Yes,Yes,No,None,No
+548,No,Yes,Yes,Vortioxetine,Partial or intermittent
+549,No,No,No,None,No
+550,No,Yes,No,None,No
+551,Yes,No,No,None,Partial or intermittent
+552,Yes,No,No,None,Partial or intermittent
+553,Yes,No,No,None,Partial or intermittent
+554,No,No,No,None,Partial or intermittent
+555,No,No,No,None,Sustained
+556,No,No,No,None,Sustained
+557,Yes,No,No,None,No
+558,Yes,No,No,None,Sustained
+559,Yes,Yes,No,None,No
+560,Yes,No,Yes,Imipramine,No
+561,Yes,No,No,None,No
+562,No,No,Yes,Mirtazapine,No
+563,Yes,Yes,No,None,Partial or intermittent
+564,Yes,No,No,None,No
+565,Yes,No,Yes,Fluoxetine,Partial or intermittent
+566,Yes,No,Yes,Vortioxetine,No
+567,No,No,No,None,No
+568,Yes,No,No,None,Sustained
+569,Yes,No,No,None,Sustained
+570,Yes,Yes,No,None,No
+571,No,No,No,None,Partial or intermittent
+572,Yes,No,No,None,No
+573,Yes,No,No,None,No
+574,Yes,Yes,No,None,No
+575,Yes,No,No,None,No
+576,Yes,Yes,No,None,No
+577,Yes,No,No,None,No
+578,Yes,No,No,None,No
+579,Yes,No,No,None,No
+580,Yes,No,No,None,No
+581,Yes,No,Yes,Escitalopram,No
+582,Yes,No,Yes,Bupropion,No
+583,Yes,No,No,None,No
+584,Yes,No,No,None,Partial or intermittent
+585,Yes,No,No,None,No
+586,Yes,No,No,None,Partial or intermittent
+587,Yes,No,No,None,No
+588,Yes,No,No,None,No
+589,No,No,No,None,Partial or intermittent
+590,No,No,Yes,Fluvoxamine,Sustained
+591,Yes,No,Yes,Vortioxetine,No
+592,No,No,No,None,No
+593,No,No,No,None,No
+594,No,No,No,None,No
+595,No,Yes,Yes,Fluoxetine,No
+596,Yes,No,No,None,Partial or intermittent
+597,No,Yes,No,None,Partial or intermittent
+598,Yes,No,No,None,No
+599,Yes,No,No,None,No
+600,Yes,No,Yes,Paroxetine,Sustained
+601,No,Yes,No,None,Partial or intermittent
+602,Yes,No,No,None,No
+603,Yes,No,No,None,Partial or intermittent
+604,Yes,No,No,None,Partial or intermittent
+605,Yes,No,No,None,No
+606,Yes,No,No,None,No
+607,Yes,No,No,None,Partial or intermittent
+608,Yes,Yes,No,None,Sustained
+609,Yes,No,No,None,No
+610,Yes,No,No,None,Sustained
+611,Yes,No,No,None,No
+612,No,No,No,None,No
+613,Yes,Yes,No,None,No
+614,No,Yes,No,None,No
+615,Yes,No,Yes,Vortioxetine,No
+616,No,No,No,None,No
+617,Yes,No,No,None,No
+618,Yes,Yes,Yes,Duloxetine,Sustained
+619,No,No,Yes,Vortioxetine,No
+620,No,Yes,No,None,No
+621,Yes,No,No,None,No
+622,Yes,No,No,None,No
+623,No,Yes,No,None,No
+624,Yes,Yes,No,None,Sustained
+625,Yes,No,No,None,Sustained
+626,No,Yes,No,None,Partial or intermittent
+627,Yes,No,Yes,Moclobemide,Partial or intermittent
+628,No,No,No,None,No
+629,Yes,No,No,None,No
+630,No,No,Yes,Citalopram,Partial or intermittent
+631,No,Yes,Yes,Fluoxetine,No
+632,Yes,No,Yes,Fluoxetine,No
+633,Yes,No,No,None,Partial or intermittent
+634,Yes,No,No,None,Partial or intermittent
+635,No,No,Yes,Nortriptiline,Partial or intermittent
+636,Yes,No,No,None,Partial or intermittent
+637,Yes,No,Yes,Amitriptyline,Partial or intermittent
+638,No,No,No,None,No
+639,Yes,No,Yes,Fluvoxamine,Sustained
+640,Yes,No,No,None,No
+641,No,No,No,None,No
+642,Yes,No,Yes,Clomipramine,No
+643,Yes,No,No,None,No
+644,No,Yes,No,None,Partial or intermittent
+645,Yes,Yes,No,None,No
+646,Yes,No,No,None,Partial or intermittent
+647,Yes,No,No,None,No
+648,Yes,No,No,None,No
+649,Yes,No,Yes,Doxepine,Sustained
+650,Yes,No,Yes,Nortriptiline,No
+651,Yes,No,No,None,Sustained
+652,Yes,Yes,No,None,Partial or intermittent
+653,Yes,No,No,None,No
+654,No,Yes,No,None,No
+655,Yes,No,No,None,Sustained
+656,No,No,No,None,No
+657,Yes,No,No,None,No
+658,No,No,No,None,Partial or intermittent
+659,Yes,No,No,None,Sustained
+660,Yes,No,No,None,No
+661,Yes,No,No,None,No
+662,Yes,Yes,No,None,No
+663,Yes,No,No,None,No
+664,Yes,No,No,None,No
+665,Yes,No,Yes,Fluoxetine,No
+666,Yes,No,No,None,No
+667,Yes,No,Yes,Doxepine,Partial or intermittent
+668,No,No,No,None,Sustained
+669,Yes,No,Yes,Nortriptiline,No
+670,Yes,No,No,None,No
+671,Yes,No,No,None,No
+672,Yes,No,No,None,Sustained
+673,Yes,No,Yes,Amitriptyline,No
+674,No,No,No,None,No
+675,No,No,No,None,Partial or intermittent
+676,Yes,Yes,No,None,No
+677,Yes,No,No,None,No
+678,Yes,No,Yes,Mirtazapine,No
+679,Yes,No,Yes,Mianserine,No
+680,Yes,No,Yes,Fluvoxamine,No
+681,Yes,Yes,No,None,Partial or intermittent
+682,No,No,No,None,Sustained
+683,Yes,No,Yes,Trazodone,Partial or intermittent
+684,Yes,No,No,None,Partial or intermittent
+685,Yes,Yes,No,None,Partial or intermittent
+686,No,Yes,No,None,Sustained
+687,Yes,No,No,None,No
+688,Yes,Yes,Yes,Vortioxetine,Sustained
+689,Yes,No,Yes,Vortioxetine,No
+690,Yes,Yes,Yes,Bupropion,No
+691,Yes,No,No,None,No
+692,Yes,Yes,No,None,Partial or intermittent
+693,Yes,No,No,None,No
+694,Yes,No,No,None,Partial or intermittent
+695,Yes,No,No,None,No
+696,Yes,No,No,None,No
+697,No,No,No,None,No
+698,No,No,No,None,No
+699,Yes,Yes,No,None,No
+700,Yes,Yes,Yes,Nortriptiline,Partial or intermittent
+701,No,Yes,Yes,Citalopram,Partial or intermittent
+702,Yes,No,Yes,Paroxetine,No
+703,No,No,No,None,No
+704,No,No,No,None,No
+705,Yes,No,No,None,No
+706,Yes,No,No,None,No
+707,No,No,No,None,No
+708,No,No,No,None,No
+709,Yes,No,No,None,No
+710,Yes,Yes,Yes,Doxepine,No
+711,Yes,Yes,No,None,Partial or intermittent
+712,Yes,Yes,No,None,Sustained
+713,No,No,No,None,Sustained
+714,Yes,No,Yes,Paroxetine,No
+715,Yes,No,No,None,No
+716,Yes,Yes,No,None,Partial or intermittent
+717,No,Yes,No,None,Sustained
+718,No,No,No,None,No
+719,Yes,No,Yes,Moclobemide,Sustained
+720,Yes,Yes,Yes,Clomipramine,No
+721,Yes,Yes,No,None,No
+722,Yes,No,No,None,Sustained
+723,Yes,Yes,No,None,No
+724,No,No,No,None,Partial or intermittent
+725,Yes,No,No,None,Partial or intermittent
+726,No,No,Yes,Mianserine,No
+727,Yes,No,Yes,Amitriptyline,Partial or intermittent
+728,Yes,No,No,None,No
+729,Yes,No,No,None,No
+730,Yes,No,No,None,No
+731,Yes,No,No,None,No
+732,Yes,No,Yes,Trazodone,Sustained
+733,Yes,No,No,None,No
+734,Yes,No,No,None,Sustained
+735,Yes,No,No,None,Sustained
+736,No,No,No,None,No
+737,No,No,No,None,Partial or intermittent
+738,No,No,No,None,No
+739,Yes,Yes,No,None,Partial or intermittent
+740,No,Yes,No,None,No
+741,Yes,No,Yes,Bupropion,Partial or intermittent
+742,No,No,No,None,No
+743,Yes,No,No,None,Sustained
+744,Yes,No,No,None,Sustained
+745,Yes,No,No,None,No
+746,Yes,No,No,None,Partial or intermittent
+747,Yes,No,No,None,No
+748,Yes,No,Yes,Amitriptyline,No
+749,No,No,Yes,Fluvoxamine,No
+750,No,No,No,None,Partial or intermittent
+751,Yes,Yes,No,None,No
+752,Yes,Yes,No,None,Partial or intermittent
+753,Yes,No,Yes,Bupropion,No
+754,Yes,No,No,None,Partial or intermittent
+755,Yes,No,Yes,Fluvoxamine,No
+756,No,No,No,None,Partial or intermittent
+757,Yes,No,No,None,No
+758,Yes,No,No,None,No
+759,Yes,No,No,None,Sustained
+760,Yes,No,Yes,Moclobemide,Partial or intermittent
+761,Yes,No,No,None,Sustained
+762,No,No,No,None,No
+763,Yes,No,No,None,No
+764,Yes,No,No,None,No
+765,Yes,Yes,No,None,No
+766,Yes,No,No,None,No
+767,Yes,No,No,None,Partial or intermittent
+768,Yes,No,No,None,No
+769,Yes,No,No,None,No
+770,No,No,No,None,No
+771,Yes,No,No,None,Sustained
+772,Yes,No,No,None,Sustained
+773,Yes,No,No,None,No
+774,Yes,No,Yes,Mianserine,No
+775,Yes,No,No,None,No
+776,Yes,Yes,No,None,Sustained
+777,Yes,No,No,None,Partial or intermittent
+778,No,No,Yes,Imipramine,Sustained
+779,Yes,No,No,None,No
+780,Yes,Yes,Yes,Venlafaxine,No
+781,Yes,No,Yes,Moclobemide,No
+782,Yes,Yes,No,None,No
+783,Yes,Yes,No,None,No
+784,No,No,No,None,No
+785,No,No,Yes,Fluoxetine,Partial or intermittent
+786,No,Yes,Yes,Duloxetine,No
+787,Yes,No,Yes,Trazodone,No
+788,Yes,Yes,No,None,Partial or intermittent
+789,Yes,No,No,None,Partial or intermittent
+790,No,No,Yes,Vortioxetine,No
+791,Yes,No,Yes,Venlafaxine,No
+792,Yes,No,Yes,Nortriptiline,Partial or intermittent
+793,Yes,No,No,None,Partial or intermittent
+794,No,No,No,None,Partial or intermittent
+795,Yes,No,No,None,Sustained
+796,Yes,No,No,None,Partial or intermittent
+797,No,No,No,None,Partial or intermittent
+798,Yes,No,No,None,Partial or intermittent
+799,Yes,No,Yes,Vortioxetine,No
+800,Yes,Yes,No,None,No
+801,No,No,Yes,Doxepine,No
+802,Yes,No,Yes,Venlafaxine,No
+803,Yes,No,No,None,No
+804,Yes,No,No,None,Sustained
+805,Yes,No,Yes,Duloxetine,No
+806,Yes,No,No,None,Partial or intermittent
+807,Yes,Yes,Yes,Agomelatine,No
+808,No,Yes,No,None,No
+809,Yes,No,No,None,No
+810,Yes,Yes,No,None,Partial or intermittent
+811,Yes,No,Yes,Escitalopram,No
+812,No,No,No,None,No
+813,Yes,No,Yes,Amitriptyline,No
+814,Yes,No,No,None,No
+815,No,No,No,None,Partial or intermittent
+816,Yes,No,Yes,Mianserine,No
+817,No,No,No,None,No
+818,Yes,No,No,None,Sustained
+819,No,No,No,None,Sustained
+820,Yes,No,Yes,Escitalopram,No
+821,No,No,No,None,No
+822,Yes,No,No,None,No
+823,Yes,No,Yes,Bupropion,No
+824,No,No,No,None,No
+825,Yes,Yes,No,None,Partial or intermittent
+826,Yes,No,No,None,Partial or intermittent
+827,No,No,No,None,No
+828,Yes,No,No,None,No
+829,Yes,No,No,None,No
+830,Yes,Yes,No,None,Sustained
+831,Yes,No,No,None,No
+832,No,Yes,No,None,Partial or intermittent
+833,Yes,No,No,None,No
+834,Yes,No,No,None,No
+835,Yes,No,No,None,No
+836,No,No,No,None,Partial or intermittent
+837,Yes,Yes,No,None,No
+838,Yes,No,No,None,No
+839,Yes,No,Yes,Vortioxetine,No
+840,Yes,No,No,None,No
+841,Yes,No,No,None,Partial or intermittent
+842,Yes,Yes,No,None,No
+843,No,No,Yes,Amitriptyline,Partial or intermittent
+844,Yes,No,No,None,No
+845,Yes,No,No,None,Partial or intermittent
+846,No,No,Yes,Bupropion,Partial or intermittent
+847,No,No,No,None,No
+848,No,No,No,None,No
+849,Yes,Yes,No,None,Partial or intermittent
+850,Yes,No,No,None,No
+851,Yes,No,No,None,Partial or intermittent
+852,Yes,No,Yes,Citalopram,No
+853,Yes,No,No,None,Sustained
+854,Yes,No,Yes,Fluvoxamine,No
+855,Yes,No,No,None,No
+856,Yes,No,Yes,Imipramine,No
+857,Yes,No,No,None,Partial or intermittent
+858,Yes,No,No,None,No
+859,Yes,No,No,None,Partial or intermittent
+860,Yes,No,Yes,Venlafaxine,Partial or intermittent
+861,No,No,No,None,Partial or intermittent
+862,Yes,Yes,No,None,No
+863,Yes,No,No,None,Partial or intermittent
+864,Yes,No,Yes,Trazodone,No
+865,No,No,Yes,Imipramine,No
+866,Yes,No,No,None,No
+867,Yes,No,No,None,Partial or intermittent
+868,No,No,No,None,No
+869,No,No,No,None,No
+870,Yes,No,No,None,Sustained
+871,Yes,Yes,No,None,No
+872,No,No,No,None,No
+873,No,Yes,No,None,No
+874,Yes,No,No,None,No
+875,No,No,Yes,Mianserine,No
+876,Yes,No,Yes,Doxepine,Sustained
+877,Yes,No,No,None,No
+878,Yes,No,No,None,Partial or intermittent
+879,Yes,No,No,None,No
+880,Yes,No,No,None,No
+881,Yes,No,No,None,No
+882,Yes,No,No,None,No
+883,Yes,No,Yes,Bupropion,No
+884,Yes,Yes,No,None,No
+885,Yes,No,No,None,No
+886,Yes,No,Yes,Duloxetine,Partial or intermittent
+887,Yes,Yes,No,None,No
+888,Yes,Yes,Yes,Mianserine,No
+889,No,No,No,None,No
+890,Yes,No,No,None,Partial or intermittent
+891,Yes,Yes,Yes,Clomipramine,No
+892,Yes,No,No,None,No
+893,Yes,No,No,None,Partial or intermittent
+894,Yes,No,Yes,Duloxetine,Partial or intermittent
+895,Yes,No,No,None,No
+896,No,Yes,No,None,No
+897,No,No,No,None,No
+898,Yes,No,Yes,Venlafaxine,No
+899,Yes,Yes,Yes,Duloxetine,Partial or intermittent
+900,Yes,No,No,None,No
+901,No,No,Yes,Clomipramine,Sustained
+902,No,No,No,None,Partial or intermittent
+903,No,No,No,None,No
+904,Yes,Yes,No,None,Partial or intermittent
+905,No,No,No,None,Partial or intermittent
+906,Yes,No,Yes,Bupropion,No
+907,Yes,No,No,None,No
+908,Yes,No,Yes,Mirtazapine,Partial or intermittent
+909,Yes,Yes,No,None,No
+910,Yes,No,No,None,No
+911,Yes,No,Yes,Mirtazapine,No
+912,Yes,Yes,Yes,Vortioxetine,Sustained
+913,Yes,No,No,None,No
+914,Yes,No,No,None,Partial or intermittent
+915,Yes,Yes,No,None,No
+916,No,Yes,Yes,Fluoxetine,No
+917,Yes,No,Yes,Escitalopram,No
+918,No,Yes,Yes,Vortioxetine,No
+919,Yes,No,Yes,Fluvoxamine,Sustained
+920,Yes,No,No,None,Partial or intermittent
+921,Yes,Yes,No,None,No
+922,Yes,No,Yes,Paroxetine,Partial or intermittent
+923,Yes,No,No,None,No
+924,No,No,No,None,No
+925,No,No,No,None,No
+926,No,No,Yes,Venlafaxine,No
+927,Yes,No,No,None,Partial or intermittent
+928,Yes,Yes,No,None,No
+929,Yes,No,No,None,No
+930,Yes,No,Yes,Citalopram,No
+931,Yes,No,No,None,Partial or intermittent
+932,Yes,No,No,None,Partial or intermittent
+933,No,No,No,None,No
+934,Yes,No,No,None,Partial or intermittent
+935,No,No,No,None,Partial or intermittent
+936,Yes,No,No,None,No
+937,No,Yes,No,None,No
+938,Yes,No,No,None,Sustained
+939,Yes,No,No,None,No
+940,Yes,No,No,None,No
+941,Yes,No,Yes,Clomipramine,No
+942,No,Yes,No,None,Partial or intermittent
+943,Yes,No,No,None,No
+944,Yes,No,No,None,Sustained
+945,Yes,No,No,None,Partial or intermittent
+946,Yes,No,No,None,Partial or intermittent
+947,No,No,No,None,Sustained
+948,No,No,No,None,No
+949,No,No,No,None,No
+950,Yes,Yes,No,None,No
+951,Yes,No,No,None,Partial or intermittent
+952,No,No,No,None,Partial or intermittent
+953,Yes,No,No,None,Partial or intermittent
+954,Yes,No,No,None,Partial or intermittent
+955,Yes,No,Yes,Nortriptiline,Partial or intermittent
+956,Yes,No,No,None,Sustained
+957,Yes,No,No,None,No
+958,Yes,Yes,No,None,No
+959,No,No,No,None,Partial or intermittent
+960,Yes,No,No,None,No
+961,Yes,No,No,None,Partial or intermittent
+962,Yes,No,No,None,No
+963,Yes,No,No,None,Sustained
+964,No,No,Yes,Fluoxetine,No
+965,Yes,No,Yes,Duloxetine,No
+966,Yes,No,Yes,Fluvoxamine,Partial or intermittent
+967,Yes,No,No,None,Partial or intermittent
+968,Yes,No,Yes,Imipramine,No
+969,No,No,No,None,No
+970,Yes,No,No,None,No
+971,Yes,Yes,No,None,Partial or intermittent
+972,Yes,Yes,Yes,Mianserine,Partial or intermittent
+973,Yes,No,Yes,Fluvoxamine,Sustained
+974,Yes,No,No,None,No
+975,No,No,Yes,Citalopram,Partial or intermittent
+976,Yes,No,No,None,No
+977,Yes,No,Yes,Imipramine,No
+978,No,No,No,None,Partial or intermittent
+979,Yes,No,Yes,Paroxetine,No
+980,Yes,No,Yes,Vortioxetine,Sustained
+981,Yes,No,No,None,Partial or intermittent
+982,Yes,No,Yes,Agomelatine,Partial or intermittent
+983,Yes,No,No,None,Sustained
+984,Yes,No,No,None,Partial or intermittent
+985,Yes,Yes,No,None,No
+986,Yes,No,No,None,No
+987,Yes,No,No,None,Sustained
+988,Yes,No,Yes,Bupropion,No
+989,No,No,No,None,No
+990,Yes,No,Yes,Agomelatine,No
+991,No,No,No,None,No
+992,Yes,Yes,No,None,Partial or intermittent
+993,Yes,No,No,None,No
+994,Yes,Yes,Yes,Mianserine,Sustained
+995,No,No,No,None,Partial or intermittent
+996,Yes,No,No,None,Sustained
+997,Yes,No,No,None,Sustained
+998,No,No,No,None,No
+999,Yes,No,No,None,Partial or intermittent
+1000,No,No,No,None,No

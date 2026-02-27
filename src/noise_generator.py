@@ -8,8 +8,5 @@ df = pd.read_csv('MOCK_DATA.csv')
 # Cambiamos la edad de los registros 12 al 19 a valores absurdos
 df.loc[12:19, 'age'] = 999 
 
-# Cambiamos el BMI de la línea 50 a un valor negativo
-df.loc[50, 'BMI'] = -10.5
-
 # 4. Guardar el archivo "sucio"
 df.to_csv('MOCK_DATA_mod.csv', index=False)
