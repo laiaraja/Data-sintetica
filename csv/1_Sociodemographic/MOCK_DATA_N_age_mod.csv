@@ -1,1001 +1,1001 @@
-id,sex,age,BMI,medication_prescription,nationality,smoking_status,healthcare_region,comorbidities,Socioeconomic_levels
-1,Female,35-64,51,Isopropyl Alcohol,Spanish,Ex-smoker,Central Catalonia,2,Very Low
-2,Male,15-19,51,CETIRIZINE HYDROCHLORIDE,Spanish,Non-smoker,Barcelona,2,Low
-3,Male,35-64,94,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Central Catalonia,0,Low
-4,Male,35-64,53,"aluminum hydroxide, magnesium hydroxide, simethicone",Spanish,Ex-smoker,Barcelona,0,Very Low
-5,Male,,58,Doxycycline Hyclate,Non-spanish,Ex-smoker,Barcelona,1,Low
-6,Male,35-64,24,Torsemide,Non-spanish,Non-smoker,Barcelona,1,Low
-7,Female,35-64,37,Aspirin,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-8,Male,20-34,97,Meclizine HCl,Spanish,Smoker,Barcelona,2,Moderate/Middle
-9,Male,35-64,92,FUROSEMIDE,Spanish,Smoker,Lleida,0,Moderate/Middle
-10,Male,20-34,20,"Undecylenic acid, Triclosan",Spanish,Smoker,Barcelona,0,Low
-11,Female,35-64,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-12,Female,20-34,13,Flu-Cold,Non-spanish,Ex-smoker,Lleida,0,Very Low
-13,Male,35-64,13,Standardized Timothy Grass Pollen,Spanish,Smoker,Terres de l’Ebre,0,Moderate/Middle
-14,Male,0-14,50,Rifampin,Spanish,Smoker,Barcelona,0,Moderate/Middle
-15,Female,35-64,31,AZITHROMYCIN,Spanish,Non-smoker,Tarragona,0,Low
-16,Female,20-34,55,aminohippurate sodium,Spanish,Smoker,Central Catalonia,1,
-17,Male,0-14,15,ETHOSUXIMIDE,Spanish,Smoker,Barcelona,1,Low
-18,Female,35-64,5,"Acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",Spanish,Smoker,Barcelona,2,Low
-19,Male,35-64,27,MOMETASONE FUROATE,Spanish,Non-smoker,Tarragona,0,Moderate/Middle
-20,Male,35-64,61,repaglinide,Spanish,Smoker,Barcelona,0,Moderate/Middle
-21,Female,35-64,31,Menthol and Benzocaine,Spanish,Ex-smoker,Terres de l’Ebre,1,Very Low
-22,Male,35-64,39,METOPROLOL SUCCINATE,Non-spanish,Smoker,Barcelona,2,Low
-23,Male,,89,Benzalkonium Chloride,Spanish,Smoker,Barcelona,2,Moderate/Middle
-24,Male,35-64,7,Octinoxate and Oxybenzone,Spanish,Non-smoker,Barcelona,0,Low
-25,Male,35-64,82,"Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl",Non-spanish,Non-smoker,Barcelona,0,Low
-26,Male,35-64,63,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Barcelona,0,Very Low
-27,Female,35-64,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-28,Male,35-64,75,Chlorhexidine Gluconate,Spanish,Ex-smoker,Girona,0,Moderate/Middle
-29,Male,35-64,65,"OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE",Spanish,Non-smoker,Barcelona,2,Very Low
-30,Female,35-64,28,White Alder,Spanish,Smoker,Alt Pirineu,1,Moderate/Middle
-31,Female,35-64,36,SODIUM FLUORIDE,Non-spanish,Smoker,Lleida,0,Moderate/Middle
-32,Male,35-64,55,levothyroxine sodium,Spanish,Non-smoker,Barcelona,2,Low
-33,Male,20-34,9,Cyclopentolate Hydrochloride,Spanish,Non-smoker,Tarragona,0,Low
-34,Female,>65,23,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Girona,0,Low
-35,Male,>65,38,calcipotriene,Spanish,Non-smoker,Girona,0,Very Low
-36,Female,0-14,48,Acyclovir,Spanish,Ex-smoker,Barcelona,0,Very Low
-37,Female,15-19,63,Petrolatum,Spanish,Smoker,Alt Pirineu,2,
-38,Female,35-64,58,Alcohol,Spanish,Smoker,Barcelona,0,Low
-39,Female,20-34,81,ULTRA-LIGHT SKIN PERFECTING MAKEUP,Non-spanish,Non-smoker,Barcelona,0,
-40,Female,>65,72,"ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, AVOBENZONE",Spanish,Smoker,Barcelona,0,Moderate/Middle
-41,Female,20-34,73,Ondansetron Hydrochloride,Spanish,Smoker,Lleida,2,Moderate/Middle
-42,Male,20-34,98,ATORVASTATIN CALCIUM,Spanish,Ex-smoker,Barcelona,1,Moderate/Middle
-43,Male,35-64,71,Standardized Mite D. pteronyssinus,Spanish,Ex-smoker,Barcelona,2,Moderate/Middle
-44,Female,20-34,90,SODIUM FLUORIDE,Non-spanish,Smoker,Girona,0,Low
-45,Female,35-64,48,Baclofen,Non-spanish,Non-smoker,Girona,2,Moderate/Middle
-46,Male,15-19,18,"ARS ALB, PHOS,NUX VOM, PULS, SULPH, EUP, SOL, ECHI, BAPT",Spanish,Smoker,Barcelona,0,Moderate/Middle
-47,Male,20-34,24,clonidine hydrochloride,Spanish,Non-smoker,Central Catalonia,0,
-48,Female,35-64,93,ALCOHOL,Spanish,Smoker,Girona,0,Low
-49,Female,35-64,23,Titanium Dioxide and Zinc Oxide,Spanish,Ex-smoker,Barcelona,0,
-50,Male,20-34,77,vigabatrin,Spanish,Ex-smoker,Barcelona,0,Low
-51,Female,35-64,10,Hydroxyzine Pamoate,Spanish,Smoker,Central Catalonia,0,Low
-52,Male,>65,55,Quetiapine Fumarate,Spanish,Ex-smoker,Barcelona,2,
-53,Male,0-14,86,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Barcelona,0,Low
-54,Female,20-34,53,Hydralazine Hydrochloride,Spanish,Smoker,Barcelona,1,Very Low
-55,Male,35-64,99,BENZALKONIUM CHLORIDE,Spanish,Ex-smoker,Barcelona,2,Low
-56,Male,35-64,90,Divalproex Sodium,Non-spanish,Non-smoker,Barcelona,2,
-57,Female,15-19,22,"Octinoxate ,Avobenzone",Spanish,Smoker,Barcelona,2,Low
-58,Female,35-64,43,TITANIUM DIOXIDE,Spanish,Smoker,Barcelona,1,Very Low
-59,Female,35-64,15,Ofloxaxin,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-60,Male,35-64,56,"Naproxen sodium, Pseudoephedrine HCl",Non-spanish,Smoker,Barcelona,0,Low
-61,Female,20-34,99,Iohexol,Non-spanish,Non-smoker,Tarragona,1,Low
-62,Female,0-14,5,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,1,Low
-63,Female,35-64,30,Gabapentin,Non-spanish,Ex-smoker,Barcelona,2,Moderate/Middle
-64,Male,35-64,75,Diazepam,Non-spanish,Ex-smoker,Barcelona,0,Low
-65,Male,20-34,22,Guaifenesin,Spanish,Ex-smoker,Barcelona,1,Very Low
-66,Male,35-64,53,MESALAMINE,Spanish,Smoker,Central Catalonia,0,Low
-67,Male,15-19,39,Zinc Oxide,Spanish,Non-smoker,Girona,0,Low
-68,Male,,9,Octinoxate and Titanium Dioxide,Spanish,Smoker,Barcelona,2,Very Low
-69,Female,35-64,20,Oxaliplatin,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-70,Female,35-64,4,Salicylic Acid,Spanish,Non-smoker,Barcelona,1,Low
-71,Male,35-64,79,"Ceanothus Americanus, Euphrasia Officinalis, Germanium Robertianum,",Spanish,Ex-smoker,Barcelona,2,
-72,Female,15-19,43,Water Hemp,Spanish,Smoker,Barcelona,2,Moderate/Middle
-73,Male,>65,83,Norethindrone Acetate/Ethinyl Estradiol and Ferrous Fumarate,Spanish,Non-smoker,Barcelona,0,Very Low
-74,Male,0-14,66,Mirtazapine,Spanish,Ex-smoker,Barcelona,2,Low
-75,Female,35-64,13,ISOPROPYL ALCOHOL,Spanish,Ex-smoker,Barcelona,2,Low
-76,Female,35-64,40,Athomer,Spanish,Smoker,Central Catalonia,1,Moderate/Middle
-77,Female,20-34,30,IRBESARTAN,Spanish,Non-smoker,Barcelona,1,
-78,Male,35-64,65,phytonadione,Spanish,Ex-smoker,Barcelona,1,Low
-79,Male,>65,17,Miconazole nitrate,Spanish,Smoker,Barcelona,0,Low
-80,Female,35-64,67,DIETHYLPROPION HYDROCHLORIDE,Spanish,Ex-smoker,Barcelona,0,Low
-81,Female,35-64,6,Toothpaste,Spanish,Smoker,Barcelona,1,Low
-82,Female,20-34,52,Dimenhydrinate,Spanish,Ex-smoker,Girona,0,
-83,Female,20-34,71,BEE VENOM,Spanish,Non-smoker,Barcelona,1,Very Low
-84,Male,,38,Acidulated Phosphate Fluoride,Spanish,Non-smoker,Barcelona,0,Very Low
-85,Male,35-64,18,TRICLOSAN,Spanish,Smoker,Barcelona,2,Moderate/Middle
-86,Female,35-64,43,Phenylephrine HCl,Non-spanish,Non-smoker,Barcelona,0,
-87,Female,,42,Labetalol Hydrochloride,Spanish,Ex-smoker,Barcelona,0,Very Low
-88,Female,,59,Hydrocodone Bitartrate and Acetaminophen,Non-spanish,Ex-smoker,Barcelona,0,Low
-89,Male,0-14,14,Nicotine Polacrilex,Spanish,Smoker,Barcelona,0,Low
-90,Female,35-64,50,sotalol hydrochloride,Spanish,Non-smoker,Barcelona,2,
-91,Male,20-34,66,Silver Maple,Spanish,Smoker,Barcelona,1,Low
-92,Male,,28,citalopram hydrobromide,Non-spanish,Non-smoker,Girona,2,
-93,Male,15-19,56,Carelessweed,Spanish,Ex-smoker,Barcelona,2,Moderate/Middle
-94,Female,15-19,60,Dimethicone,Spanish,Non-smoker,Girona,0,Very Low
-95,Female,,95,Helium Oxygen Mix 70/30,Spanish,Ex-smoker,Terres de l’Ebre,0,Moderate/Middle
-96,Male,>65,16,Oxygen,Spanish,Smoker,Barcelona,0,Low
-97,Female,35-64,70,rOPINIRole,Spanish,Ex-smoker,Barcelona,0,Low
-98,Female,35-64,18,Isopropyl alcohol,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-99,Male,20-34,94,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate, Pseudoephedrine Hydrochloride",Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-100,Female,35-64,64,GLYCERIN,Non-spanish,Ex-smoker,Barcelona,0,Low
-101,Male,35-64,51,Isopropyl Alcohol,Spanish,Ex-smoker,Central Catalonia,2,Very Low
-102,Female,35-64,51,CETIRIZINE HYDROCHLORIDE,Spanish,Non-smoker,Barcelona,2,Moderate/Middle
-103,Female,20-34,94,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Lleida,2,Low
-104,Male,35-64,53,"aluminum hydroxide, magnesium hydroxide, simethicone",Spanish,Ex-smoker,Central Catalonia,0,Very Low
-105,Female,15-19,58,Doxycycline Hyclate,Spanish,Ex-smoker,Girona,1,Low
-106,Female,15-19,24,Torsemide,Non-spanish,Non-smoker,Barcelona,0,Low
-107,Male,35-64,37,Aspirin,Non-spanish,Non-smoker,Barcelona,0,Moderate/Middle
-108,Female,35-64,97,Meclizine HCl,Spanish,Smoker,Girona,0,Very Low
-109,Male,35-64,92,FUROSEMIDE,Spanish,Smoker,Barcelona,0,Low
-110,Female,35-64,20,"Undecylenic acid, Triclosan",Spanish,Smoker,Barcelona,0,Moderate/Middle
-111,Female,15-19,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Barcelona,0,Very Low
-112,Female,35-64,13,Flu-Cold,Spanish,Ex-smoker,Barcelona,1,Low
-113,Male,>65,13,Standardized Timothy Grass Pollen,Spanish,Smoker,Barcelona,1,Low
-114,Female,>65,50,Rifampin,Spanish,Smoker,Girona,1,
-115,Female,35-64,31,AZITHROMYCIN,Spanish,Non-smoker,Barcelona,0,Very Low
-116,Female,35-64,55,aminohippurate sodium,Spanish,Smoker,Barcelona,0,
-117,Female,20-34,15,ETHOSUXIMIDE,Non-spanish,Smoker,Barcelona,0,Low
-118,Female,20-34,5,"Acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",Spanish,Smoker,Barcelona,1,Very Low
-119,Male,35-64,27,MOMETASONE FUROATE,Non-spanish,Non-smoker,Tarragona,2,Low
-120,Female,20-34,61,repaglinide,Spanish,Smoker,Lleida,1,Low
-121,Male,35-64,31,Menthol and Benzocaine,Spanish,Ex-smoker,Barcelona,0,Low
-122,Male,35-64,39,METOPROLOL SUCCINATE,Spanish,Smoker,Terres de l’Ebre,0,
-123,Female,35-64,89,Benzalkonium Chloride,Spanish,Smoker,Central Catalonia,0,Low
-124,Female,15-19,7,Octinoxate and Oxybenzone,Non-spanish,Non-smoker,Barcelona,1,
-125,Female,15-19,82,"Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl",Non-spanish,Non-smoker,Barcelona,0,Low
-126,Female,20-34,63,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Barcelona,0,
-127,Male,35-64,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Lleida,1,Low
-128,Male,35-64,75,Chlorhexidine Gluconate,Spanish,Ex-smoker,Barcelona,0,Low
-129,Female,35-64,65,"OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE",Non-spanish,Non-smoker,Tarragona,0,
-130,Female,20-34,28,White Alder,Spanish,Smoker,Barcelona,1,Low
-131,Female,>65,36,SODIUM FLUORIDE,Spanish,Smoker,Barcelona,2,High
-132,Male,0-14,55,levothyroxine sodium,Spanish,Non-smoker,Barcelona,1,Low
-133,Male,>65,9,Cyclopentolate Hydrochloride,Spanish,Non-smoker,Barcelona,0,Low
-134,Female,35-64,23,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-135,Male,20-34,38,calcipotriene,Spanish,Non-smoker,Lleida,0,Very Low
-136,Female,35-64,48,Acyclovir,Non-spanish,Ex-smoker,Barcelona,0,Very Low
-137,Female,35-64,63,Petrolatum,Spanish,Smoker,Barcelona,2,Very Low
-138,Female,0-14,58,Alcohol,Spanish,Smoker,Barcelona,0,Moderate/Middle
-139,Male,15-19,81,ULTRA-LIGHT SKIN PERFECTING MAKEUP,Spanish,Non-smoker,Barcelona,2,Low
-140,Male,35-64,72,"ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, AVOBENZONE",Spanish,Smoker,Central Catalonia,1,Low
-141,Female,35-64,73,Ondansetron Hydrochloride,Spanish,Smoker,Barcelona,1,Low
-142,Male,35-64,98,ATORVASTATIN CALCIUM,Spanish,Ex-smoker,Barcelona,1,Low
-143,Female,15-19,71,Standardized Mite D. pteronyssinus,Spanish,Ex-smoker,Central Catalonia,0,Low
-144,Female,35-64,90,SODIUM FLUORIDE,Spanish,Smoker,Barcelona,0,
-145,Male,35-64,48,Baclofen,Non-spanish,Non-smoker,Girona,0,Moderate/Middle
-146,Male,35-64,18,"ARS ALB, PHOS,NUX VOM, PULS, SULPH, EUP, SOL, ECHI, BAPT",Spanish,Smoker,Barcelona,0,Low
-147,Male,0-14,24,clonidine hydrochloride,Non-spanish,Non-smoker,Barcelona,0,Low
-148,Female,35-64,93,ALCOHOL,Non-spanish,Smoker,Barcelona,0,Moderate/Middle
-149,Female,>65,23,Titanium Dioxide and Zinc Oxide,Spanish,Ex-smoker,Barcelona,2,Low
-150,Female,20-34,77,vigabatrin,Spanish,Ex-smoker,Barcelona,0,Very Low
-151,Female,20-34,10,Hydroxyzine Pamoate,Non-spanish,Smoker,Girona,2,Low
-152,Female,35-64,55,Quetiapine Fumarate,Spanish,Ex-smoker,Barcelona,0,Very Low
-153,Female,15-19,86,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Girona,2,Moderate/Middle
-154,Female,35-64,53,Hydralazine Hydrochloride,Spanish,Smoker,Tarragona,0,Low
-155,Male,15-19,99,BENZALKONIUM CHLORIDE,Non-spanish,Ex-smoker,Barcelona,0,
-156,Female,>65,90,Divalproex Sodium,Spanish,Non-smoker,Barcelona,1,Low
-157,Female,35-64,22,"Octinoxate ,Avobenzone",Spanish,Smoker,Barcelona,0,Low
-158,Male,35-64,43,TITANIUM DIOXIDE,Spanish,Smoker,Barcelona,1,
-159,Male,35-64,15,Ofloxaxin,Spanish,Ex-smoker,Barcelona,0,Low
-160,Female,0-14,56,"Naproxen sodium, Pseudoephedrine HCl",Spanish,Smoker,Lleida,1,Moderate/Middle
-161,Male,35-64,99,Iohexol,Spanish,Non-smoker,Barcelona,0,Very Low
-162,Male,>65,5,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,0,Low
-163,Female,,30,Gabapentin,Spanish,Ex-smoker,Barcelona,0,Very Low
-164,Female,35-64,75,Diazepam,Spanish,Ex-smoker,Central Catalonia,2,
-165,Male,15-19,22,Guaifenesin,Non-spanish,Ex-smoker,Tarragona,1,Moderate/Middle
-166,Male,35-64,53,MESALAMINE,Spanish,Smoker,Barcelona,0,Very Low
-167,Female,20-34,39,Zinc Oxide,Non-spanish,Non-smoker,Barcelona,2,
-168,Male,0-14,9,Octinoxate and Titanium Dioxide,Spanish,Smoker,Barcelona,0,Very Low
-169,Female,35-64,20,Oxaliplatin,Spanish,Non-smoker,Barcelona,0,Low
-170,Male,35-64,4,Salicylic Acid,Non-spanish,Non-smoker,Barcelona,0,Low
-171,Female,35-64,79,"Ceanothus Americanus, Euphrasia Officinalis, Germanium Robertianum,",Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-172,Male,35-64,43,Water Hemp,Non-spanish,Smoker,Barcelona,0,Low
-173,Female,0-14,83,Norethindrone Acetate/Ethinyl Estradiol and Ferrous Fumarate,Non-spanish,Non-smoker,Barcelona,0,Low
-174,Female,35-64,66,Mirtazapine,Spanish,Ex-smoker,Barcelona,1,
-175,Female,35-64,13,ISOPROPYL ALCOHOL,Spanish,Ex-smoker,Barcelona,2,Moderate/Middle
-176,Male,35-64,40,Athomer,Spanish,Smoker,Girona,0,Low
-177,Female,35-64,30,IRBESARTAN,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-178,Female,,65,phytonadione,Spanish,Ex-smoker,Girona,2,
-179,Female,35-64,17,Miconazole nitrate,Spanish,Smoker,Girona,0,Low
-180,Female,35-64,67,DIETHYLPROPION HYDROCHLORIDE,Spanish,Ex-smoker,Girona,0,Moderate/Middle
-181,Male,15-19,6,Toothpaste,Spanish,Smoker,Lleida,0,Moderate/Middle
-182,Female,15-19,52,Dimenhydrinate,Spanish,Ex-smoker,Terres de l’Ebre,0,Low
-183,Female,35-64,71,BEE VENOM,Non-spanish,Non-smoker,Girona,0,Low
-184,Female,,38,Acidulated Phosphate Fluoride,Spanish,Non-smoker,Barcelona,0,
-185,Female,>65,18,TRICLOSAN,Spanish,Smoker,Barcelona,0,Low
-186,Female,35-64,43,Phenylephrine HCl,Spanish,Non-smoker,Barcelona,0,Very Low
-187,Female,,42,Labetalol Hydrochloride,Spanish,Ex-smoker,Barcelona,2,Very Low
-188,Male,20-34,59,Hydrocodone Bitartrate and Acetaminophen,Spanish,Ex-smoker,Girona,2,Moderate/Middle
-189,Male,35-64,14,Nicotine Polacrilex,Non-spanish,Smoker,Tarragona,1,Low
-190,Female,15-19,50,sotalol hydrochloride,Non-spanish,Non-smoker,Barcelona,0,Moderate/Middle
-191,Male,35-64,66,Silver Maple,Spanish,Smoker,Barcelona,2,Low
-192,Female,35-64,28,citalopram hydrobromide,Non-spanish,Non-smoker,Barcelona,0,Low
-193,Female,0-14,56,Carelessweed,Spanish,Ex-smoker,Barcelona,2,High
-194,Male,35-64,60,Dimethicone,Spanish,Non-smoker,Girona,2,Very Low
-195,Male,0-14,95,Helium Oxygen Mix 70/30,Non-spanish,Ex-smoker,Barcelona,2,Low
-196,Female,20-34,16,Oxygen,Non-spanish,Smoker,Girona,2,Moderate/Middle
-197,Male,35-64,70,rOPINIRole,Spanish,Ex-smoker,Girona,0,Moderate/Middle
-198,Male,20-34,18,Isopropyl alcohol,Spanish,Ex-smoker,Barcelona,1,Low
-199,Female,35-64,94,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate, Pseudoephedrine Hydrochloride",Non-spanish,Non-smoker,Barcelona,0,Moderate/Middle
-200,Male,35-64,64,GLYCERIN,Spanish,Ex-smoker,Lleida,0,Moderate/Middle
-201,Female,20-34,51,Isopropyl Alcohol,Non-spanish,Ex-smoker,Barcelona,0,Low
-202,Male,15-19,51,CETIRIZINE HYDROCHLORIDE,Non-spanish,Non-smoker,Barcelona,1,
-203,Male,15-19,94,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Lleida,0,
-204,Female,15-19,53,"aluminum hydroxide, magnesium hydroxide, simethicone",Non-spanish,Ex-smoker,Terres de l’Ebre,2,Low
-205,Female,15-19,58,Doxycycline Hyclate,Spanish,Ex-smoker,Barcelona,2,Low
-206,Male,15-19,24,Torsemide,Spanish,Non-smoker,Girona,0,Moderate/Middle
-207,Male,35-64,37,Aspirin,Spanish,Non-smoker,Girona,0,Moderate/Middle
-208,Female,,97,Meclizine HCl,Spanish,Smoker,Barcelona,2,Low
-209,Male,0-14,92,FUROSEMIDE,Non-spanish,Smoker,Barcelona,0,
-210,Female,0-14,20,"Undecylenic acid, Triclosan",Spanish,Smoker,Barcelona,0,Very Low
-211,Female,35-64,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Barcelona,1,Moderate/Middle
-212,Female,35-64,13,Flu-Cold,Spanish,Ex-smoker,Barcelona,2,Very Low
-213,Male,35-64,13,Standardized Timothy Grass Pollen,Spanish,Smoker,Girona,1,Very Low
-214,Male,15-19,50,Rifampin,Spanish,Smoker,Barcelona,2,Low
-215,Female,35-64,31,AZITHROMYCIN,Spanish,Non-smoker,Barcelona,1,Moderate/Middle
-216,Female,35-64,55,aminohippurate sodium,Spanish,Smoker,Barcelona,0,Moderate/Middle
-217,Male,35-64,15,ETHOSUXIMIDE,Spanish,Smoker,Barcelona,1,
-218,Female,20-34,5,"Acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",Spanish,Smoker,Girona,0,Moderate/Middle
-219,Female,35-64,27,MOMETASONE FUROATE,Spanish,Non-smoker,Central Catalonia,2,Low
-220,Male,35-64,61,repaglinide,Spanish,Smoker,Barcelona,0,Moderate/Middle
-221,Female,35-64,31,Menthol and Benzocaine,Non-spanish,Ex-smoker,Barcelona,0,High
-222,Male,35-64,39,METOPROLOL SUCCINATE,Non-spanish,Smoker,Barcelona,1,
-223,Male,0-14,89,Benzalkonium Chloride,Spanish,Smoker,Barcelona,0,Low
-224,Male,0-14,7,Octinoxate and Oxybenzone,Spanish,Non-smoker,Barcelona,2,Low
-225,Female,>65,82,"Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl",Spanish,Non-smoker,Barcelona,0,Low
-226,Female,35-64,63,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Barcelona,0,Low
-227,Female,>65,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Girona,0,Low
-228,Female,35-64,75,Chlorhexidine Gluconate,Spanish,Ex-smoker,Girona,0,Low
-229,Female,15-19,65,"OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE",Non-spanish,Non-smoker,Barcelona,1,Low
-230,Male,35-64,28,White Alder,Spanish,Smoker,Central Catalonia,0,Very Low
-231,Female,,36,SODIUM FLUORIDE,Non-spanish,Smoker,Barcelona,0,Low
-232,Female,15-19,55,levothyroxine sodium,Spanish,Non-smoker,Barcelona,2,Very Low
-233,Female,35-64,9,Cyclopentolate Hydrochloride,Spanish,Non-smoker,Terres de l’Ebre,2,Low
-234,Male,20-34,23,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Lleida,0,Moderate/Middle
-235,Female,35-64,38,calcipotriene,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-236,Male,35-64,48,Acyclovir,Spanish,Ex-smoker,Barcelona,2,Low
-237,Male,35-64,63,Petrolatum,Spanish,Smoker,Barcelona,2,Low
-238,Male,>65,58,Alcohol,Spanish,Smoker,Barcelona,2,Very Low
-239,Female,>65,81,ULTRA-LIGHT SKIN PERFECTING MAKEUP,Non-spanish,Non-smoker,Central Catalonia,2,Low
-240,Male,>65,72,"ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, AVOBENZONE",Spanish,Smoker,Central Catalonia,2,Low
-241,Male,0-14,73,Ondansetron Hydrochloride,Spanish,Smoker,Barcelona,1,Low
-242,Male,35-64,98,ATORVASTATIN CALCIUM,Spanish,Ex-smoker,Barcelona,2,Low
-243,Female,35-64,71,Standardized Mite D. pteronyssinus,Spanish,Ex-smoker,Barcelona,1,Moderate/Middle
-244,Male,15-19,90,SODIUM FLUORIDE,Spanish,Smoker,Central Catalonia,0,Moderate/Middle
-245,Female,20-34,48,Baclofen,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-246,Female,35-64,18,"ARS ALB, PHOS,NUX VOM, PULS, SULPH, EUP, SOL, ECHI, BAPT",Non-spanish,Smoker,Barcelona,0,Very Low
-247,Male,15-19,24,clonidine hydrochloride,Spanish,Non-smoker,Girona,2,Moderate/Middle
-248,Male,0-14,93,ALCOHOL,Spanish,Smoker,Barcelona,1,Low
-249,Male,>65,23,Titanium Dioxide and Zinc Oxide,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-250,Male,35-64,77,vigabatrin,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-251,Female,>65,10,Hydroxyzine Pamoate,Spanish,Smoker,Barcelona,0,Moderate/Middle
-252,Female,15-19,55,Quetiapine Fumarate,Spanish,Ex-smoker,Girona,2,Low
-253,Female,>65,86,"OCTINOXATE, TITANIUM DIOXIDE",Non-spanish,Smoker,Girona,1,Low
-254,Female,20-34,53,Hydralazine Hydrochloride,Spanish,Smoker,Barcelona,0,Very Low
-255,Male,20-34,99,BENZALKONIUM CHLORIDE,Spanish,Ex-smoker,Barcelona,2,
-256,Female,>65,90,Divalproex Sodium,Spanish,Non-smoker,Girona,0,Very Low
-257,Male,>65,22,"Octinoxate ,Avobenzone",Spanish,Smoker,Tarragona,1,Low
-258,Female,35-64,43,TITANIUM DIOXIDE,Spanish,Smoker,Barcelona,1,Moderate/Middle
-259,Male,>65,15,Ofloxaxin,Spanish,Ex-smoker,Barcelona,2,Low
-260,Female,15-19,56,"Naproxen sodium, Pseudoephedrine HCl",Non-spanish,Smoker,Barcelona,0,
-261,Female,35-64,99,Iohexol,Spanish,Non-smoker,Central Catalonia,1,Low
-262,Female,,5,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,2,Low
-263,Female,35-64,30,Gabapentin,Spanish,Ex-smoker,Barcelona,0,Low
-264,Female,0-14,75,Diazepam,Spanish,Ex-smoker,Tarragona,0,Low
-265,Male,35-64,22,Guaifenesin,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-266,Male,20-34,53,MESALAMINE,Spanish,Smoker,Barcelona,0,Very Low
-267,Male,15-19,39,Zinc Oxide,Non-spanish,Non-smoker,Barcelona,0,Low
-268,Female,35-64,9,Octinoxate and Titanium Dioxide,Spanish,Smoker,Barcelona,1,Low
-269,Female,35-64,20,Oxaliplatin,Spanish,Non-smoker,Barcelona,0,Very Low
-270,Female,>65,4,Salicylic Acid,Spanish,Non-smoker,Lleida,1,Low
-271,Male,20-34,79,"Ceanothus Americanus, Euphrasia Officinalis, Germanium Robertianum,",Spanish,Ex-smoker,Barcelona,0,Low
-272,Female,,43,Water Hemp,Spanish,Smoker,Barcelona,2,Low
-273,Female,20-34,83,Norethindrone Acetate/Ethinyl Estradiol and Ferrous Fumarate,Spanish,Non-smoker,Barcelona,0,Very Low
-274,Female,35-64,66,Mirtazapine,Spanish,Ex-smoker,Barcelona,2,Low
-275,Female,35-64,13,ISOPROPYL ALCOHOL,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-276,Female,35-64,40,Athomer,Spanish,Smoker,Central Catalonia,0,Very Low
-277,Male,>65,30,IRBESARTAN,Spanish,Non-smoker,Barcelona,0,Low
-278,Female,35-64,65,phytonadione,Spanish,Ex-smoker,Barcelona,1,Low
-279,Female,15-19,17,Miconazole nitrate,Spanish,Smoker,Girona,1,Moderate/Middle
-280,Male,>65,67,DIETHYLPROPION HYDROCHLORIDE,Spanish,Ex-smoker,Barcelona,0,Low
-281,Male,,6,Toothpaste,Spanish,Smoker,Barcelona,0,Low
-282,Male,15-19,52,Dimenhydrinate,Non-spanish,Ex-smoker,Alt Pirineu,0,Moderate/Middle
-283,Male,0-14,71,BEE VENOM,Spanish,Non-smoker,Barcelona,2,Moderate/Middle
-284,Male,0-14,38,Acidulated Phosphate Fluoride,Spanish,Non-smoker,Tarragona,1,Low
-285,Female,0-14,18,TRICLOSAN,Non-spanish,Smoker,Central Catalonia,0,
-286,Male,20-34,43,Phenylephrine HCl,Spanish,Non-smoker,Barcelona,2,Moderate/Middle
-287,Female,20-34,42,Labetalol Hydrochloride,Spanish,Ex-smoker,Terres de l’Ebre,2,Low
-288,Female,0-14,59,Hydrocodone Bitartrate and Acetaminophen,Spanish,Ex-smoker,Barcelona,0,Low
-289,Female,20-34,14,Nicotine Polacrilex,Spanish,Smoker,Girona,2,Low
-290,Female,0-14,50,sotalol hydrochloride,Non-spanish,Non-smoker,Central Catalonia,2,Very Low
-291,Male,20-34,66,Silver Maple,Spanish,Smoker,Barcelona,2,Low
-292,Female,0-14,28,citalopram hydrobromide,Spanish,Non-smoker,Barcelona,1,Low
-293,Male,>65,56,Carelessweed,Spanish,Ex-smoker,Barcelona,1,Moderate/Middle
-294,Male,35-64,60,Dimethicone,Spanish,Non-smoker,Barcelona,0,Low
-295,Female,15-19,95,Helium Oxygen Mix 70/30,Spanish,Ex-smoker,Lleida,1,Low
-296,Female,>65,16,Oxygen,Non-spanish,Smoker,Lleida,2,Very Low
-297,Male,35-64,70,rOPINIRole,Spanish,Ex-smoker,Tarragona,0,Moderate/Middle
-298,Female,35-64,18,Isopropyl alcohol,Spanish,Ex-smoker,Tarragona,0,Low
-299,Female,35-64,94,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate, Pseudoephedrine Hydrochloride",Spanish,Non-smoker,Barcelona,2,Low
-300,Male,35-64,64,GLYCERIN,Spanish,Ex-smoker,Barcelona,2,Very Low
-301,Male,,51,Isopropyl Alcohol,Spanish,Ex-smoker,Girona,0,
-302,Female,>65,51,CETIRIZINE HYDROCHLORIDE,Spanish,Non-smoker,Barcelona,1,Low
-303,Male,20-34,94,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,1,Very Low
-304,Female,20-34,53,"aluminum hydroxide, magnesium hydroxide, simethicone",Non-spanish,Ex-smoker,Central Catalonia,0,
-305,Male,35-64,58,Doxycycline Hyclate,Spanish,Ex-smoker,Lleida,2,
-306,Male,15-19,24,Torsemide,Spanish,Non-smoker,Barcelona,0,
-307,Male,>65,37,Aspirin,Spanish,Non-smoker,Barcelona,0,Low
-308,Female,>65,97,Meclizine HCl,Spanish,Smoker,Barcelona,0,
-309,Male,15-19,92,FUROSEMIDE,Spanish,Smoker,Barcelona,2,Very Low
-310,Female,35-64,20,"Undecylenic acid, Triclosan",Non-spanish,Smoker,Central Catalonia,2,
-311,Male,35-64,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Barcelona,0,Low
-312,Male,35-64,13,Flu-Cold,Non-spanish,Ex-smoker,Barcelona,0,Low
-313,Male,35-64,13,Standardized Timothy Grass Pollen,Non-spanish,Smoker,Barcelona,2,
-314,Male,>65,50,Rifampin,Non-spanish,Smoker,Barcelona,2,Low
-315,Female,20-34,31,AZITHROMYCIN,Spanish,Non-smoker,Barcelona,2,Low
-316,Male,35-64,55,aminohippurate sodium,Spanish,Smoker,Barcelona,0,Low
-317,Female,35-64,15,ETHOSUXIMIDE,Non-spanish,Smoker,Barcelona,1,Low
-318,Male,>65,5,"Acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",Spanish,Smoker,Barcelona,1,Moderate/Middle
-319,Male,35-64,27,MOMETASONE FUROATE,Non-spanish,Non-smoker,Tarragona,0,Very Low
-320,Female,15-19,61,repaglinide,Spanish,Smoker,Barcelona,1,Moderate/Middle
-321,Male,>65,31,Menthol and Benzocaine,Spanish,Ex-smoker,Barcelona,2,Low
-322,Female,35-64,39,METOPROLOL SUCCINATE,Spanish,Smoker,Barcelona,2,Low
-323,Male,0-14,89,Benzalkonium Chloride,Non-spanish,Smoker,Barcelona,2,Low
-324,Male,>65,7,Octinoxate and Oxybenzone,Spanish,Non-smoker,Barcelona,0,Low
-325,Male,15-19,82,"Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl",Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-326,Male,>65,63,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Barcelona,0,
-327,Female,0-14,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Girona,2,Low
-328,Male,20-34,75,Chlorhexidine Gluconate,Non-spanish,Ex-smoker,Girona,0,Very Low
-329,Male,35-64,65,"OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE",Spanish,Non-smoker,Barcelona,0,Low
-330,Male,35-64,28,White Alder,Non-spanish,Smoker,Barcelona,2,
-331,Female,35-64,36,SODIUM FLUORIDE,Spanish,Smoker,Barcelona,2,Low
-332,Male,35-64,55,levothyroxine sodium,Non-spanish,Non-smoker,Barcelona,0,Moderate/Middle
-333,Female,>65,9,Cyclopentolate Hydrochloride,Spanish,Non-smoker,Central Catalonia,0,
-334,Male,35-64,23,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,2,Low
-335,Male,>65,38,calcipotriene,Spanish,Non-smoker,Barcelona,0,Low
-336,Female,0-14,48,Acyclovir,Spanish,Ex-smoker,Central Catalonia,0,Moderate/Middle
-337,Female,15-19,63,Petrolatum,Non-spanish,Smoker,Girona,2,Moderate/Middle
-338,Female,>65,58,Alcohol,Spanish,Smoker,Barcelona,1,Very Low
-339,Male,20-34,81,ULTRA-LIGHT SKIN PERFECTING MAKEUP,Non-spanish,Non-smoker,Barcelona,0,Very Low
-340,Male,15-19,72,"ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, AVOBENZONE",Non-spanish,Smoker,Barcelona,2,Moderate/Middle
-341,Male,20-34,73,Ondansetron Hydrochloride,Non-spanish,Smoker,Tarragona,2,Low
-342,Female,15-19,98,ATORVASTATIN CALCIUM,Spanish,Ex-smoker,Central Catalonia,0,Moderate/Middle
-343,Female,35-64,71,Standardized Mite D. pteronyssinus,Spanish,Ex-smoker,Barcelona,0,Very Low
-344,Male,35-64,90,SODIUM FLUORIDE,Spanish,Smoker,Barcelona,0,Moderate/Middle
-345,Female,35-64,48,Baclofen,Spanish,Non-smoker,Central Catalonia,1,Low
-346,Female,>65,18,"ARS ALB, PHOS,NUX VOM, PULS, SULPH, EUP, SOL, ECHI, BAPT",Spanish,Smoker,Barcelona,0,Very Low
-347,Female,35-64,24,clonidine hydrochloride,Spanish,Non-smoker,Central Catalonia,1,Moderate/Middle
-348,Female,35-64,93,ALCOHOL,Spanish,Smoker,Barcelona,0,Moderate/Middle
-349,Female,35-64,23,Titanium Dioxide and Zinc Oxide,Spanish,Ex-smoker,Terres de l’Ebre,2,Moderate/Middle
-350,Female,20-34,77,vigabatrin,Spanish,Ex-smoker,Barcelona,2,Low
-351,Female,35-64,10,Hydroxyzine Pamoate,Spanish,Smoker,Terres de l’Ebre,0,Moderate/Middle
-352,Male,15-19,55,Quetiapine Fumarate,Spanish,Ex-smoker,Barcelona,0,Low
-353,Female,35-64,86,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Tarragona,0,Low
-354,Female,35-64,53,Hydralazine Hydrochloride,Spanish,Smoker,Central Catalonia,0,Moderate/Middle
-355,Male,35-64,99,BENZALKONIUM CHLORIDE,Non-spanish,Ex-smoker,Barcelona,2,Low
-356,Female,35-64,90,Divalproex Sodium,Spanish,Non-smoker,Barcelona,0,Very Low
-357,Male,>65,22,"Octinoxate ,Avobenzone",Spanish,Smoker,Barcelona,0,Low
-358,Male,>65,43,TITANIUM DIOXIDE,Spanish,Smoker,Barcelona,0,Low
-359,Female,>65,15,Ofloxaxin,Non-spanish,Ex-smoker,Barcelona,0,Low
-360,Female,,56,"Naproxen sodium, Pseudoephedrine HCl",Spanish,Smoker,Barcelona,0,Low
-361,Female,20-34,99,Iohexol,Spanish,Non-smoker,Barcelona,2,Moderate/Middle
-362,Male,>65,5,OCTINOXATE and TITANIUM DIOXIDE,Non-spanish,Ex-smoker,Terres de l’Ebre,0,Very Low
-363,Male,>65,30,Gabapentin,Spanish,Ex-smoker,Barcelona,2,Low
-364,Male,>65,75,Diazepam,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-365,Female,,22,Guaifenesin,Non-spanish,Ex-smoker,Central Catalonia,1,Low
-366,Male,35-64,53,MESALAMINE,Non-spanish,Smoker,Central Catalonia,2,Moderate/Middle
-367,Female,15-19,39,Zinc Oxide,Spanish,Non-smoker,Barcelona,0,
-368,Male,20-34,9,Octinoxate and Titanium Dioxide,Spanish,Smoker,Barcelona,1,Low
-369,Female,>65,20,Oxaliplatin,Spanish,Non-smoker,Barcelona,0,Low
-370,Male,35-64,4,Salicylic Acid,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-371,Male,35-64,79,"Ceanothus Americanus, Euphrasia Officinalis, Germanium Robertianum,",Non-spanish,Ex-smoker,Barcelona,1,Low
-372,Male,15-19,43,Water Hemp,Non-spanish,Smoker,Barcelona,0,
-373,Female,15-19,83,Norethindrone Acetate/Ethinyl Estradiol and Ferrous Fumarate,Non-spanish,Non-smoker,Girona,1,Moderate/Middle
-374,Male,35-64,66,Mirtazapine,Non-spanish,Ex-smoker,Barcelona,0,Very Low
-375,Male,>65,13,ISOPROPYL ALCOHOL,Non-spanish,Ex-smoker,Terres de l’Ebre,0,Low
-376,Female,35-64,40,Athomer,Spanish,Smoker,Barcelona,0,Low
-377,Female,>65,30,IRBESARTAN,Spanish,Non-smoker,Alt Pirineu,2,
-378,Female,20-34,65,phytonadione,Non-spanish,Ex-smoker,Girona,0,Low
-379,Female,>65,17,Miconazole nitrate,Spanish,Smoker,Barcelona,0,Moderate/Middle
-380,Male,20-34,67,DIETHYLPROPION HYDROCHLORIDE,Spanish,Ex-smoker,Barcelona,1,Low
-381,Female,20-34,6,Toothpaste,Spanish,Smoker,Barcelona,0,Low
-382,Female,15-19,52,Dimenhydrinate,Non-spanish,Ex-smoker,Barcelona,2,Moderate/Middle
-383,Male,>65,71,BEE VENOM,Spanish,Non-smoker,Barcelona,2,Moderate/Middle
-384,Male,35-64,38,Acidulated Phosphate Fluoride,Non-spanish,Non-smoker,Barcelona,1,Moderate/Middle
-385,Female,35-64,18,TRICLOSAN,Spanish,Smoker,Barcelona,0,Very Low
-386,Male,35-64,43,Phenylephrine HCl,Spanish,Non-smoker,Barcelona,1,
-387,Male,>65,42,Labetalol Hydrochloride,Spanish,Ex-smoker,Tarragona,1,Very Low
-388,Female,0-14,59,Hydrocodone Bitartrate and Acetaminophen,Non-spanish,Ex-smoker,Barcelona,2,Low
-389,Male,15-19,14,Nicotine Polacrilex,Spanish,Smoker,Girona,2,Low
-390,Male,>65,50,sotalol hydrochloride,Non-spanish,Non-smoker,Barcelona,0,
-391,Male,20-34,66,Silver Maple,Spanish,Smoker,Girona,0,Very Low
-392,Female,35-64,28,citalopram hydrobromide,Non-spanish,Non-smoker,Barcelona,1,
-393,Male,35-64,56,Carelessweed,Spanish,Ex-smoker,Barcelona,1,Low
-394,Male,>65,60,Dimethicone,Spanish,Non-smoker,Tarragona,1,Very Low
-395,Male,0-14,95,Helium Oxygen Mix 70/30,Non-spanish,Ex-smoker,Central Catalonia,2,Low
-396,Female,15-19,16,Oxygen,Spanish,Smoker,Barcelona,2,Low
-397,Female,20-34,70,rOPINIRole,Spanish,Ex-smoker,Tarragona,0,
-398,Male,35-64,18,Isopropyl alcohol,Spanish,Ex-smoker,Barcelona,2,Low
-399,Male,15-19,94,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate, Pseudoephedrine Hydrochloride",Spanish,Non-smoker,Barcelona,2,Low
-400,Female,20-34,64,GLYCERIN,Spanish,Ex-smoker,Barcelona,2,Very Low
-401,Female,35-64,51,Isopropyl Alcohol,Spanish,Ex-smoker,Barcelona,1,
-402,Female,,51,CETIRIZINE HYDROCHLORIDE,Spanish,Non-smoker,Lleida,0,
-403,Male,35-64,94,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,0,
-404,Male,15-19,53,"aluminum hydroxide, magnesium hydroxide, simethicone",Spanish,Ex-smoker,Central Catalonia,0,Very Low
-405,Female,0-14,58,Doxycycline Hyclate,Spanish,Ex-smoker,Girona,0,Moderate/Middle
-406,Male,35-64,24,Torsemide,Spanish,Non-smoker,Barcelona,1,Moderate/Middle
-407,Female,20-34,37,Aspirin,Spanish,Non-smoker,Girona,0,Very Low
-408,Female,0-14,97,Meclizine HCl,Spanish,Smoker,Barcelona,0,Low
-409,Female,35-64,92,FUROSEMIDE,Spanish,Smoker,Barcelona,0,Very Low
-410,Female,>65,20,"Undecylenic acid, Triclosan",Spanish,Smoker,Barcelona,2,Moderate/Middle
-411,Female,35-64,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Terres de l’Ebre,0,Low
-412,Female,,13,Flu-Cold,Spanish,Ex-smoker,Barcelona,0,Very Low
-413,Male,35-64,13,Standardized Timothy Grass Pollen,Spanish,Smoker,Barcelona,1,
-414,Female,15-19,50,Rifampin,Spanish,Smoker,Tarragona,1,Moderate/Middle
-415,Female,0-14,31,AZITHROMYCIN,Non-spanish,Non-smoker,Barcelona,1,Low
-416,Male,15-19,55,aminohippurate sodium,Non-spanish,Smoker,Barcelona,2,
-417,Female,20-34,15,ETHOSUXIMIDE,Spanish,Smoker,Barcelona,0,Low
-418,Female,0-14,5,"Acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",Spanish,Smoker,Barcelona,0,Low
-419,Male,20-34,27,MOMETASONE FUROATE,Non-spanish,Non-smoker,Lleida,0,Moderate/Middle
-420,Female,35-64,61,repaglinide,Spanish,Smoker,Terres de l’Ebre,1,Low
-421,Male,,31,Menthol and Benzocaine,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-422,Male,>65,39,METOPROLOL SUCCINATE,Spanish,Smoker,Tarragona,0,Low
-423,Male,35-64,89,Benzalkonium Chloride,Spanish,Smoker,Barcelona,0,Low
-424,Male,0-14,7,Octinoxate and Oxybenzone,Spanish,Non-smoker,Barcelona,0,
-425,Male,>65,82,"Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl",Spanish,Non-smoker,Central Catalonia,2,
-426,Female,35-64,63,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Barcelona,0,Very Low
-427,Female,15-19,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Barcelona,0,
-428,Female,35-64,75,Chlorhexidine Gluconate,Spanish,Ex-smoker,Barcelona,2,Very Low
-429,Male,35-64,65,"OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE",Spanish,Non-smoker,Tarragona,2,
-430,Female,0-14,28,White Alder,Spanish,Smoker,Central Catalonia,0,Moderate/Middle
-431,Female,20-34,36,SODIUM FLUORIDE,Spanish,Smoker,Girona,1,
-432,Male,0-14,55,levothyroxine sodium,Spanish,Non-smoker,Barcelona,0,
-433,Male,35-64,9,Cyclopentolate Hydrochloride,Spanish,Non-smoker,Tarragona,0,Very Low
-434,Female,35-64,23,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Girona,2,Very Low
-435,Male,>65,38,calcipotriene,Spanish,Non-smoker,Tarragona,1,Moderate/Middle
-436,Female,35-64,48,Acyclovir,Spanish,Ex-smoker,Barcelona,1,Moderate/Middle
-437,Female,20-34,63,Petrolatum,Spanish,Smoker,Barcelona,0,
-438,Female,35-64,58,Alcohol,Non-spanish,Smoker,Barcelona,2,
-439,Female,35-64,81,ULTRA-LIGHT SKIN PERFECTING MAKEUP,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-440,Female,35-64,72,"ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, AVOBENZONE",Spanish,Smoker,Barcelona,0,Very Low
-441,Male,>65,73,Ondansetron Hydrochloride,Spanish,Smoker,Lleida,0,
-442,Male,20-34,98,ATORVASTATIN CALCIUM,Spanish,Ex-smoker,Barcelona,0,
-443,Female,35-64,71,Standardized Mite D. pteronyssinus,Spanish,Ex-smoker,Barcelona,0,
-444,Male,>65,90,SODIUM FLUORIDE,Spanish,Smoker,Tarragona,1,Moderate/Middle
-445,Female,35-64,48,Baclofen,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-446,Male,15-19,18,"ARS ALB, PHOS,NUX VOM, PULS, SULPH, EUP, SOL, ECHI, BAPT",Spanish,Smoker,Lleida,2,Low
-447,Female,35-64,24,clonidine hydrochloride,Spanish,Non-smoker,Barcelona,1,Low
-448,Male,35-64,93,ALCOHOL,Spanish,Smoker,Barcelona,2,Low
-449,Male,15-19,23,Titanium Dioxide and Zinc Oxide,Non-spanish,Ex-smoker,Barcelona,2,
-450,Male,15-19,77,vigabatrin,Spanish,Ex-smoker,Tarragona,1,Very Low
-451,Male,0-14,10,Hydroxyzine Pamoate,Spanish,Smoker,Barcelona,0,Moderate/Middle
-452,Male,35-64,55,Quetiapine Fumarate,Spanish,Ex-smoker,Central Catalonia,0,Moderate/Middle
-453,Male,0-14,86,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Lleida,1,Low
-454,Male,>65,53,Hydralazine Hydrochloride,Non-spanish,Smoker,Girona,2,Moderate/Middle
-455,Male,>65,99,BENZALKONIUM CHLORIDE,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-456,Female,>65,90,Divalproex Sodium,Non-spanish,Non-smoker,Barcelona,2,Very Low
-457,Female,>65,22,"Octinoxate ,Avobenzone",Spanish,Smoker,Lleida,0,Low
-458,Male,35-64,43,TITANIUM DIOXIDE,Spanish,Smoker,Tarragona,0,
-459,Male,20-34,15,Ofloxaxin,Spanish,Ex-smoker,Barcelona,1,Low
-460,Male,15-19,56,"Naproxen sodium, Pseudoephedrine HCl",Spanish,Smoker,Central Catalonia,0,Very Low
-461,Male,35-64,99,Iohexol,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-462,Male,35-64,5,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,2,Moderate/Middle
-463,Male,20-34,30,Gabapentin,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-464,Female,>65,75,Diazepam,Spanish,Ex-smoker,Barcelona,1,
-465,Male,>65,22,Guaifenesin,Spanish,Ex-smoker,Barcelona,2,Low
-466,Male,20-34,53,MESALAMINE,Spanish,Smoker,Tarragona,0,Low
-467,Female,35-64,39,Zinc Oxide,Non-spanish,Non-smoker,Barcelona,1,Moderate/Middle
-468,Male,>65,9,Octinoxate and Titanium Dioxide,Spanish,Smoker,Barcelona,0,Very Low
-469,Female,20-34,20,Oxaliplatin,Spanish,Non-smoker,Barcelona,2,Low
-470,Female,35-64,4,Salicylic Acid,Spanish,Non-smoker,Barcelona,0,Low
-471,Male,15-19,79,"Ceanothus Americanus, Euphrasia Officinalis, Germanium Robertianum,",Spanish,Ex-smoker,Terres de l’Ebre,1,Moderate/Middle
-472,Female,35-64,43,Water Hemp,Spanish,Smoker,Barcelona,0,Moderate/Middle
-473,Female,>65,83,Norethindrone Acetate/Ethinyl Estradiol and Ferrous Fumarate,Spanish,Non-smoker,Girona,0,Moderate/Middle
-474,Male,20-34,66,Mirtazapine,Spanish,Ex-smoker,Barcelona,1,Moderate/Middle
-475,Male,35-64,13,ISOPROPYL ALCOHOL,Spanish,Ex-smoker,Barcelona,0,Low
-476,Female,35-64,40,Athomer,Spanish,Smoker,Barcelona,2,Low
-477,Female,>65,30,IRBESARTAN,Spanish,Non-smoker,Barcelona,2,Moderate/Middle
-478,Female,20-34,65,phytonadione,Spanish,Ex-smoker,Barcelona,0,
-479,Male,35-64,17,Miconazole nitrate,Spanish,Smoker,Barcelona,0,Moderate/Middle
-480,Female,35-64,67,DIETHYLPROPION HYDROCHLORIDE,Spanish,Ex-smoker,Barcelona,0,Very Low
-481,Male,0-14,6,Toothpaste,Spanish,Smoker,Barcelona,2,Low
-482,Female,35-64,52,Dimenhydrinate,Spanish,Ex-smoker,Lleida,2,Very Low
-483,Female,35-64,71,BEE VENOM,Spanish,Non-smoker,Barcelona,0,Low
-484,Female,35-64,38,Acidulated Phosphate Fluoride,Non-spanish,Non-smoker,Barcelona,0,
-485,Male,>65,18,TRICLOSAN,Non-spanish,Smoker,Barcelona,0,Low
-486,Female,>65,43,Phenylephrine HCl,Non-spanish,Non-smoker,Girona,2,
-487,Female,20-34,42,Labetalol Hydrochloride,Spanish,Ex-smoker,Barcelona,0,
-488,Male,20-34,59,Hydrocodone Bitartrate and Acetaminophen,Spanish,Ex-smoker,Tarragona,1,Low
-489,Male,15-19,14,Nicotine Polacrilex,Spanish,Smoker,Barcelona,0,Very Low
-490,Male,35-64,50,sotalol hydrochloride,Non-spanish,Non-smoker,Girona,0,
-491,Female,>65,66,Silver Maple,Spanish,Smoker,Barcelona,0,Very Low
-492,Female,35-64,28,citalopram hydrobromide,Spanish,Non-smoker,Barcelona,2,Low
-493,Male,35-64,56,Carelessweed,Spanish,Ex-smoker,Barcelona,1,Very Low
-494,Female,35-64,60,Dimethicone,Spanish,Non-smoker,Barcelona,0,Low
-495,Female,,95,Helium Oxygen Mix 70/30,Spanish,Ex-smoker,Girona,2,Very Low
-496,Male,35-64,16,Oxygen,Spanish,Smoker,Barcelona,2,Moderate/Middle
-497,Female,35-64,70,rOPINIRole,Spanish,Ex-smoker,Barcelona,0,
-498,Female,35-64,18,Isopropyl alcohol,Spanish,Ex-smoker,Barcelona,1,
-499,Male,35-64,94,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate, Pseudoephedrine Hydrochloride",Non-spanish,Non-smoker,Barcelona,0,Low
-500,Female,35-64,64,GLYCERIN,Spanish,Ex-smoker,Tarragona,0,Moderate/Middle
-501,Male,>65,51,Isopropyl Alcohol,Spanish,Ex-smoker,Lleida,0,
-502,Female,35-64,51,CETIRIZINE HYDROCHLORIDE,Spanish,Non-smoker,Barcelona,0,
-503,Female,,94,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,1,Very Low
-504,Male,35-64,53,"aluminum hydroxide, magnesium hydroxide, simethicone",Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-505,Female,0-14,58,Doxycycline Hyclate,Spanish,Ex-smoker,Barcelona,0,
-506,Female,35-64,24,Torsemide,Non-spanish,Non-smoker,Barcelona,0,Low
-507,Male,35-64,37,Aspirin,Spanish,Non-smoker,Barcelona,0,Low
-508,Female,35-64,97,Meclizine HCl,Spanish,Smoker,Barcelona,1,Moderate/Middle
-509,Female,20-34,92,FUROSEMIDE,Spanish,Smoker,Central Catalonia,0,Very Low
-510,Male,35-64,20,"Undecylenic acid, Triclosan",Spanish,Smoker,Barcelona,0,Very Low
-511,Female,0-14,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Barcelona,2,
-512,Female,,13,Flu-Cold,Non-spanish,Ex-smoker,Tarragona,0,Moderate/Middle
-513,Female,20-34,13,Standardized Timothy Grass Pollen,Spanish,Smoker,Barcelona,0,
-514,Male,35-64,50,Rifampin,Spanish,Smoker,Barcelona,2,Moderate/Middle
-515,Female,35-64,31,AZITHROMYCIN,Spanish,Non-smoker,Barcelona,2,Low
-516,Male,35-64,55,aminohippurate sodium,Spanish,Smoker,Central Catalonia,0,Moderate/Middle
-517,Male,20-34,15,ETHOSUXIMIDE,Spanish,Smoker,Barcelona,2,Low
-518,Female,>65,5,"Acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",Spanish,Smoker,Tarragona,2,Moderate/Middle
-519,Male,20-34,27,MOMETASONE FUROATE,Non-spanish,Non-smoker,Barcelona,0,
-520,Male,>65,61,repaglinide,Spanish,Smoker,Barcelona,1,
-521,Female,35-64,31,Menthol and Benzocaine,Spanish,Ex-smoker,Barcelona,0,Very Low
-522,Female,35-64,39,METOPROLOL SUCCINATE,Spanish,Smoker,Barcelona,2,Very Low
-523,Female,15-19,89,Benzalkonium Chloride,Spanish,Smoker,Barcelona,2,Low
-524,Male,>65,7,Octinoxate and Oxybenzone,Spanish,Non-smoker,Central Catalonia,2,Moderate/Middle
-525,Male,15-19,82,"Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl",Spanish,Non-smoker,Girona,1,Low
-526,Female,>65,63,"OCTINOXATE, TITANIUM DIOXIDE",Non-spanish,Smoker,Barcelona,1,Moderate/Middle
-527,Female,35-64,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-528,Female,,75,Chlorhexidine Gluconate,Non-spanish,Ex-smoker,Barcelona,0,Very Low
-529,Female,15-19,65,"OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE",Spanish,Non-smoker,Barcelona,0,Low
-530,Male,35-64,28,White Alder,Spanish,Smoker,Tarragona,1,Very Low
-531,Female,0-14,36,SODIUM FLUORIDE,Spanish,Smoker,Barcelona,0,Low
-532,Female,35-64,55,levothyroxine sodium,Spanish,Non-smoker,Lleida,0,Low
-533,Male,>65,9,Cyclopentolate Hydrochloride,Non-spanish,Non-smoker,Barcelona,0,Moderate/Middle
-534,Female,35-64,23,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Alt Pirineu,2,Low
-535,Male,>65,38,calcipotriene,Non-spanish,Non-smoker,Barcelona,0,Very Low
-536,Female,35-64,48,Acyclovir,Non-spanish,Ex-smoker,Barcelona,1,
-537,Female,35-64,63,Petrolatum,Spanish,Smoker,Barcelona,0,Low
-538,Female,35-64,58,Alcohol,Spanish,Smoker,Barcelona,0,Low
-539,Male,35-64,81,ULTRA-LIGHT SKIN PERFECTING MAKEUP,Spanish,Non-smoker,Barcelona,0,Very Low
-540,Male,35-64,72,"ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, AVOBENZONE",Spanish,Smoker,Barcelona,0,Very Low
-541,Female,35-64,73,Ondansetron Hydrochloride,Spanish,Smoker,Barcelona,0,Low
-542,Female,0-14,98,ATORVASTATIN CALCIUM,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-543,Male,>65,71,Standardized Mite D. pteronyssinus,Spanish,Ex-smoker,Barcelona,1,Low
-544,Female,35-64,90,SODIUM FLUORIDE,Spanish,Smoker,Barcelona,2,Very Low
-545,Female,35-64,48,Baclofen,Spanish,Non-smoker,Central Catalonia,2,Low
-546,Female,35-64,18,"ARS ALB, PHOS,NUX VOM, PULS, SULPH, EUP, SOL, ECHI, BAPT",Spanish,Smoker,Barcelona,0,Moderate/Middle
-547,Female,20-34,24,clonidine hydrochloride,Spanish,Non-smoker,Tarragona,2,Very Low
-548,Female,35-64,93,ALCOHOL,Non-spanish,Smoker,Barcelona,1,Low
-549,Female,35-64,23,Titanium Dioxide and Zinc Oxide,Spanish,Ex-smoker,Tarragona,0,Low
-550,Male,>65,77,vigabatrin,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-551,Male,35-64,10,Hydroxyzine Pamoate,Spanish,Smoker,Barcelona,1,Very Low
-552,Male,35-64,55,Quetiapine Fumarate,Spanish,Ex-smoker,Girona,2,Moderate/Middle
-553,Male,>65,86,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Barcelona,0,Moderate/Middle
-554,Male,35-64,53,Hydralazine Hydrochloride,Spanish,Smoker,Barcelona,0,
-555,Female,,99,BENZALKONIUM CHLORIDE,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-556,Female,35-64,90,Divalproex Sodium,Spanish,Non-smoker,Barcelona,1,Low
-557,Female,20-34,22,"Octinoxate ,Avobenzone",Spanish,Smoker,Barcelona,0,Low
-558,Male,15-19,43,TITANIUM DIOXIDE,Spanish,Smoker,Barcelona,2,Low
-559,Male,0-14,15,Ofloxaxin,Non-spanish,Ex-smoker,Barcelona,2,Low
-560,Female,20-34,56,"Naproxen sodium, Pseudoephedrine HCl",Spanish,Smoker,Barcelona,0,Moderate/Middle
-561,Male,20-34,99,Iohexol,Spanish,Non-smoker,Barcelona,2,Moderate/Middle
-562,Female,>65,5,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,2,Low
-563,Female,35-64,30,Gabapentin,Non-spanish,Ex-smoker,Barcelona,2,Low
-564,Female,35-64,75,Diazepam,Spanish,Ex-smoker,Barcelona,2,Moderate/Middle
-565,Female,20-34,22,Guaifenesin,Spanish,Ex-smoker,Girona,0,Low
-566,Female,20-34,53,MESALAMINE,Spanish,Smoker,Barcelona,1,Moderate/Middle
-567,Female,35-64,39,Zinc Oxide,Spanish,Non-smoker,Barcelona,0,Very Low
-568,Female,,9,Octinoxate and Titanium Dioxide,Spanish,Smoker,Central Catalonia,0,
-569,Female,20-34,20,Oxaliplatin,Non-spanish,Non-smoker,Lleida,0,Very Low
-570,Male,35-64,4,Salicylic Acid,Spanish,Non-smoker,Barcelona,0,Low
-571,Male,20-34,79,"Ceanothus Americanus, Euphrasia Officinalis, Germanium Robertianum,",Spanish,Ex-smoker,Tarragona,1,Low
-572,Male,15-19,43,Water Hemp,Spanish,Smoker,Central Catalonia,0,Low
-573,Female,35-64,83,Norethindrone Acetate/Ethinyl Estradiol and Ferrous Fumarate,Spanish,Non-smoker,Barcelona,0,Low
-574,Male,15-19,66,Mirtazapine,Spanish,Ex-smoker,Barcelona,0,Low
-575,Male,15-19,13,ISOPROPYL ALCOHOL,Spanish,Ex-smoker,Lleida,0,
-576,Female,,40,Athomer,Spanish,Smoker,Girona,1,
-577,Female,,30,IRBESARTAN,Spanish,Non-smoker,Barcelona,2,Very Low
-578,Male,35-64,65,phytonadione,Spanish,Ex-smoker,Barcelona,0,
-579,Male,,17,Miconazole nitrate,Spanish,Smoker,Girona,0,
-580,Male,20-34,67,DIETHYLPROPION HYDROCHLORIDE,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-581,Female,15-19,6,Toothpaste,Spanish,Smoker,Barcelona,2,Very Low
-582,Female,35-64,52,Dimenhydrinate,Spanish,Ex-smoker,Barcelona,0,
-583,Male,35-64,71,BEE VENOM,Spanish,Non-smoker,Lleida,0,
-584,Male,35-64,38,Acidulated Phosphate Fluoride,Spanish,Non-smoker,Barcelona,2,
-585,Female,20-34,18,TRICLOSAN,Spanish,Smoker,Barcelona,1,Low
-586,Male,20-34,43,Phenylephrine HCl,Non-spanish,Non-smoker,Tarragona,2,Moderate/Middle
-587,Male,20-34,42,Labetalol Hydrochloride,Spanish,Ex-smoker,Tarragona,2,Low
-588,Female,35-64,59,Hydrocodone Bitartrate and Acetaminophen,Spanish,Ex-smoker,Barcelona,0,
-589,Male,>65,14,Nicotine Polacrilex,Spanish,Smoker,Girona,2,Moderate/Middle
-590,Female,35-64,50,sotalol hydrochloride,Spanish,Non-smoker,Barcelona,0,Very Low
-591,Male,>65,66,Silver Maple,Spanish,Smoker,Barcelona,2,Moderate/Middle
-592,Male,0-14,28,citalopram hydrobromide,Non-spanish,Non-smoker,Barcelona,0,Moderate/Middle
-593,Female,35-64,56,Carelessweed,Spanish,Ex-smoker,Barcelona,0,Low
-594,Female,0-14,60,Dimethicone,Spanish,Non-smoker,Lleida,0,Low
-595,Female,15-19,95,Helium Oxygen Mix 70/30,Spanish,Ex-smoker,Barcelona,2,Very Low
-596,Male,20-34,16,Oxygen,Non-spanish,Smoker,Lleida,0,Moderate/Middle
-597,Female,35-64,70,rOPINIRole,Non-spanish,Ex-smoker,Barcelona,1,Very Low
-598,Male,,18,Isopropyl alcohol,Spanish,Ex-smoker,Barcelona,1,Low
-599,Female,>65,94,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate, Pseudoephedrine Hydrochloride",Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-600,Male,35-64,64,GLYCERIN,Spanish,Ex-smoker,Lleida,0,Moderate/Middle
-601,Male,35-64,51,Isopropyl Alcohol,Spanish,Ex-smoker,Barcelona,0,Very Low
-602,Male,>65,51,CETIRIZINE HYDROCHLORIDE,Spanish,Non-smoker,Tarragona,0,Very Low
-603,Male,15-19,94,OCTINOXATE and TITANIUM DIOXIDE,Non-spanish,Ex-smoker,Barcelona,1,Low
-604,Female,35-64,53,"aluminum hydroxide, magnesium hydroxide, simethicone",Spanish,Ex-smoker,Tarragona,1,Low
-605,Female,0-14,58,Doxycycline Hyclate,Spanish,Ex-smoker,Barcelona,1,Very Low
-606,Female,35-64,24,Torsemide,Spanish,Non-smoker,Barcelona,0,Low
-607,Male,35-64,37,Aspirin,Spanish,Non-smoker,Barcelona,0,
-608,Male,35-64,97,Meclizine HCl,Spanish,Smoker,Barcelona,0,Very Low
-609,Male,0-14,92,FUROSEMIDE,Spanish,Smoker,Barcelona,0,Moderate/Middle
-610,Male,>65,20,"Undecylenic acid, Triclosan",Spanish,Smoker,Central Catalonia,1,Moderate/Middle
-611,Male,35-64,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Girona,0,Very Low
-612,Female,35-64,13,Flu-Cold,Spanish,Ex-smoker,Barcelona,2,Very Low
-613,Female,,13,Standardized Timothy Grass Pollen,Non-spanish,Smoker,Lleida,0,Very Low
-614,Female,35-64,50,Rifampin,Spanish,Smoker,Barcelona,2,Low
-615,Male,15-19,31,AZITHROMYCIN,Spanish,Non-smoker,Barcelona,2,Low
-616,Female,20-34,55,aminohippurate sodium,Spanish,Smoker,Barcelona,0,Low
-617,Female,35-64,15,ETHOSUXIMIDE,Non-spanish,Smoker,Barcelona,0,Very Low
-618,Female,35-64,5,"Acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",Spanish,Smoker,Girona,1,Moderate/Middle
-619,Female,>65,27,MOMETASONE FUROATE,Spanish,Non-smoker,Barcelona,2,Low
-620,Male,35-64,61,repaglinide,Spanish,Smoker,Barcelona,1,Moderate/Middle
-621,Male,15-19,31,Menthol and Benzocaine,Non-spanish,Ex-smoker,Barcelona,1,Low
-622,Male,15-19,39,METOPROLOL SUCCINATE,Spanish,Smoker,Girona,1,Low
-623,Female,0-14,89,Benzalkonium Chloride,Spanish,Smoker,Barcelona,0,Moderate/Middle
-624,Female,>65,7,Octinoxate and Oxybenzone,Non-spanish,Non-smoker,Tarragona,0,
-625,Female,35-64,82,"Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl",Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-626,Female,0-14,63,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Barcelona,1,Low
-627,Female,>65,22,ETHYL ALCOHOL,Non-spanish,Ex-smoker,Central Catalonia,0,Low
-628,Female,35-64,75,Chlorhexidine Gluconate,Spanish,Ex-smoker,Lleida,1,Very Low
-629,Female,20-34,65,"OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE",Non-spanish,Non-smoker,Central Catalonia,1,
-630,Male,35-64,28,White Alder,Spanish,Smoker,Lleida,0,Low
-631,Female,20-34,36,SODIUM FLUORIDE,Spanish,Smoker,Barcelona,0,Moderate/Middle
-632,Female,35-64,55,levothyroxine sodium,Spanish,Non-smoker,Lleida,0,Moderate/Middle
-633,Female,35-64,9,Cyclopentolate Hydrochloride,Non-spanish,Non-smoker,Barcelona,1,
-634,Male,35-64,23,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,2,Very Low
-635,Female,35-64,38,calcipotriene,Spanish,Non-smoker,Barcelona,2,Moderate/Middle
-636,Female,0-14,48,Acyclovir,Spanish,Ex-smoker,Barcelona,0,Low
-637,Male,35-64,63,Petrolatum,Spanish,Smoker,Central Catalonia,0,
-638,Male,35-64,58,Alcohol,Spanish,Smoker,Terres de l’Ebre,1,
-639,Female,20-34,81,ULTRA-LIGHT SKIN PERFECTING MAKEUP,Spanish,Non-smoker,Tarragona,0,Moderate/Middle
-640,Female,35-64,72,"ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, AVOBENZONE",Spanish,Smoker,Barcelona,2,Low
-641,Female,0-14,73,Ondansetron Hydrochloride,Spanish,Smoker,Barcelona,2,Low
-642,Female,35-64,98,ATORVASTATIN CALCIUM,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-643,Male,20-34,71,Standardized Mite D. pteronyssinus,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-644,Female,0-14,90,SODIUM FLUORIDE,Spanish,Smoker,Barcelona,0,Moderate/Middle
-645,Female,35-64,48,Baclofen,Spanish,Non-smoker,Barcelona,2,
-646,Male,35-64,18,"ARS ALB, PHOS,NUX VOM, PULS, SULPH, EUP, SOL, ECHI, BAPT",Spanish,Smoker,Barcelona,0,Low
-647,Female,35-64,24,clonidine hydrochloride,Spanish,Non-smoker,Tarragona,0,Low
-648,Male,20-34,93,ALCOHOL,Non-spanish,Smoker,Barcelona,1,Moderate/Middle
-649,Male,35-64,23,Titanium Dioxide and Zinc Oxide,Non-spanish,Ex-smoker,Central Catalonia,2,Moderate/Middle
-650,Female,0-14,77,vigabatrin,Spanish,Ex-smoker,Girona,0,Moderate/Middle
-651,Male,>65,10,Hydroxyzine Pamoate,Spanish,Smoker,Tarragona,0,Low
-652,Female,15-19,55,Quetiapine Fumarate,Non-spanish,Ex-smoker,Barcelona,0,Very Low
-653,Female,0-14,86,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Central Catalonia,0,Moderate/Middle
-654,Female,15-19,53,Hydralazine Hydrochloride,Spanish,Smoker,Barcelona,0,Low
-655,Female,35-64,99,BENZALKONIUM CHLORIDE,Non-spanish,Ex-smoker,Barcelona,2,Very Low
-656,Female,35-64,90,Divalproex Sodium,Spanish,Non-smoker,Barcelona,1,Moderate/Middle
-657,Female,0-14,22,"Octinoxate ,Avobenzone",Spanish,Smoker,Barcelona,0,Low
-658,Female,>65,43,TITANIUM DIOXIDE,Spanish,Smoker,Barcelona,0,
-659,Female,35-64,15,Ofloxaxin,Spanish,Ex-smoker,Terres de l’Ebre,2,Low
-660,Female,>65,56,"Naproxen sodium, Pseudoephedrine HCl",Spanish,Smoker,Barcelona,2,Moderate/Middle
-661,Female,35-64,99,Iohexol,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-662,Male,>65,5,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,2,Low
-663,Female,35-64,30,Gabapentin,Spanish,Ex-smoker,Lleida,0,
-664,Female,35-64,75,Diazepam,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-665,Female,,22,Guaifenesin,Spanish,Ex-smoker,Central Catalonia,0,
-666,Female,>65,53,MESALAMINE,Spanish,Smoker,Barcelona,1,Low
-667,Female,35-64,39,Zinc Oxide,Non-spanish,Non-smoker,Central Catalonia,1,Low
-668,Male,35-64,9,Octinoxate and Titanium Dioxide,Spanish,Smoker,Tarragona,0,Low
-669,Male,20-34,20,Oxaliplatin,Spanish,Non-smoker,Tarragona,1,Low
-670,Female,20-34,4,Salicylic Acid,Non-spanish,Non-smoker,Barcelona,1,Low
-671,Female,,79,"Ceanothus Americanus, Euphrasia Officinalis, Germanium Robertianum,",Spanish,Ex-smoker,Barcelona,2,Moderate/Middle
-672,Male,35-64,43,Water Hemp,Spanish,Smoker,Barcelona,1,Moderate/Middle
-673,Female,20-34,83,Norethindrone Acetate/Ethinyl Estradiol and Ferrous Fumarate,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-674,Female,20-34,66,Mirtazapine,Spanish,Ex-smoker,Barcelona,1,Moderate/Middle
-675,Male,20-34,13,ISOPROPYL ALCOHOL,Spanish,Ex-smoker,Barcelona,1,Very Low
-676,Male,35-64,40,Athomer,Spanish,Smoker,Barcelona,2,
-677,Female,35-64,30,IRBESARTAN,Spanish,Non-smoker,Barcelona,0,Low
-678,Female,20-34,65,phytonadione,Spanish,Ex-smoker,Barcelona,0,
-679,Male,0-14,17,Miconazole nitrate,Spanish,Smoker,Barcelona,0,Moderate/Middle
-680,Male,35-64,67,DIETHYLPROPION HYDROCHLORIDE,Spanish,Ex-smoker,Barcelona,2,Moderate/Middle
-681,Female,35-64,6,Toothpaste,Non-spanish,Smoker,Barcelona,2,Moderate/Middle
-682,Male,>65,52,Dimenhydrinate,Spanish,Ex-smoker,Barcelona,1,Low
-683,Male,35-64,71,BEE VENOM,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-684,Female,35-64,38,Acidulated Phosphate Fluoride,Spanish,Non-smoker,Terres de l’Ebre,0,Moderate/Middle
-685,Female,35-64,18,TRICLOSAN,Spanish,Smoker,Barcelona,0,Very Low
-686,Male,35-64,43,Phenylephrine HCl,Non-spanish,Non-smoker,Barcelona,2,Moderate/Middle
-687,Female,0-14,42,Labetalol Hydrochloride,Spanish,Ex-smoker,Tarragona,0,Low
-688,Male,20-34,59,Hydrocodone Bitartrate and Acetaminophen,Spanish,Ex-smoker,Girona,1,Low
-689,Male,15-19,14,Nicotine Polacrilex,Spanish,Smoker,Barcelona,1,Low
-690,Female,20-34,50,sotalol hydrochloride,Non-spanish,Non-smoker,Tarragona,2,Low
-691,Male,35-64,66,Silver Maple,Spanish,Smoker,Barcelona,0,Moderate/Middle
-692,Female,35-64,28,citalopram hydrobromide,Spanish,Non-smoker,Girona,1,Moderate/Middle
-693,Male,>65,56,Carelessweed,Spanish,Ex-smoker,Barcelona,1,Low
-694,Female,35-64,60,Dimethicone,Spanish,Non-smoker,Girona,1,
-695,Female,>65,95,Helium Oxygen Mix 70/30,Spanish,Ex-smoker,Barcelona,0,Low
-696,Male,35-64,16,Oxygen,Spanish,Smoker,Tarragona,2,Moderate/Middle
-697,Female,20-34,70,rOPINIRole,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-698,Male,35-64,18,Isopropyl alcohol,Spanish,Ex-smoker,Barcelona,0,Low
-699,Female,,94,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate, Pseudoephedrine Hydrochloride",Spanish,Non-smoker,Barcelona,1,
-700,Male,35-64,64,GLYCERIN,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-701,Male,35-64,51,Isopropyl Alcohol,Non-spanish,Ex-smoker,Barcelona,0,
-702,Male,,51,CETIRIZINE HYDROCHLORIDE,Spanish,Non-smoker,Barcelona,0,
-703,Male,20-34,94,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Central Catalonia,2,Low
-704,Male,35-64,53,"aluminum hydroxide, magnesium hydroxide, simethicone",Spanish,Ex-smoker,Lleida,1,Low
-705,Female,35-64,58,Doxycycline Hyclate,Spanish,Ex-smoker,Tarragona,0,Low
-706,Male,0-14,24,Torsemide,Spanish,Non-smoker,Barcelona,1,Low
-707,Female,35-64,37,Aspirin,Spanish,Non-smoker,Lleida,0,Moderate/Middle
-708,Male,15-19,97,Meclizine HCl,Spanish,Smoker,Barcelona,2,Low
-709,Female,>65,92,FUROSEMIDE,Non-spanish,Smoker,Barcelona,0,
-710,Female,35-64,20,"Undecylenic acid, Triclosan",Spanish,Smoker,Barcelona,0,Moderate/Middle
-711,Male,0-14,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Barcelona,1,Moderate/Middle
-712,Male,20-34,13,Flu-Cold,Non-spanish,Ex-smoker,Barcelona,2,Moderate/Middle
-713,Male,35-64,13,Standardized Timothy Grass Pollen,Spanish,Smoker,Central Catalonia,1,Low
-714,Male,35-64,50,Rifampin,Spanish,Smoker,Barcelona,0,Low
-715,Female,15-19,31,AZITHROMYCIN,Non-spanish,Non-smoker,Tarragona,2,Moderate/Middle
-716,Male,>65,55,aminohippurate sodium,Spanish,Smoker,Central Catalonia,0,Low
-717,Male,35-64,15,ETHOSUXIMIDE,Spanish,Smoker,Barcelona,0,Low
-718,Female,>65,5,"Acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",Spanish,Smoker,Lleida,1,Low
-719,Female,>65,27,MOMETASONE FUROATE,Non-spanish,Non-smoker,Barcelona,2,Moderate/Middle
-720,Male,>65,61,repaglinide,Spanish,Smoker,Barcelona,0,
-721,Male,,31,Menthol and Benzocaine,Spanish,Ex-smoker,Girona,2,Low
-722,Male,>65,39,METOPROLOL SUCCINATE,Spanish,Smoker,Central Catalonia,0,
-723,Male,,89,Benzalkonium Chloride,Spanish,Smoker,Barcelona,0,Low
-724,Female,20-34,7,Octinoxate and Oxybenzone,Spanish,Non-smoker,Barcelona,1,Low
-725,Male,35-64,82,"Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl",Spanish,Non-smoker,Alt Pirineu,0,Moderate/Middle
-726,Female,,63,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Girona,0,High
-727,Female,0-14,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Central Catalonia,1,
-728,Male,0-14,75,Chlorhexidine Gluconate,Spanish,Ex-smoker,Barcelona,0,Low
-729,Male,35-64,65,"OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE",Non-spanish,Non-smoker,Barcelona,2,Low
-730,Male,15-19,28,White Alder,Spanish,Smoker,Central Catalonia,2,Low
-731,Female,0-14,36,SODIUM FLUORIDE,Spanish,Smoker,Barcelona,1,Very Low
-732,Male,20-34,55,levothyroxine sodium,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-733,Male,35-64,9,Cyclopentolate Hydrochloride,Spanish,Non-smoker,Girona,2,Low
-734,Female,35-64,23,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Alt Pirineu,0,
-735,Male,>65,38,calcipotriene,Non-spanish,Non-smoker,Barcelona,0,Moderate/Middle
-736,Male,35-64,48,Acyclovir,Spanish,Ex-smoker,Barcelona,0,Low
-737,Female,>65,63,Petrolatum,Spanish,Smoker,Barcelona,0,Low
-738,Female,35-64,58,Alcohol,Spanish,Smoker,Barcelona,1,Low
-739,Female,35-64,81,ULTRA-LIGHT SKIN PERFECTING MAKEUP,Spanish,Non-smoker,Girona,2,Low
-740,Female,>65,72,"ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, AVOBENZONE",Spanish,Smoker,Barcelona,1,Moderate/Middle
-741,Female,20-34,73,Ondansetron Hydrochloride,Non-spanish,Smoker,Barcelona,0,Low
-742,Female,35-64,98,ATORVASTATIN CALCIUM,Spanish,Ex-smoker,Barcelona,0,Very Low
-743,Male,20-34,71,Standardized Mite D. pteronyssinus,Spanish,Ex-smoker,Barcelona,0,Low
-744,Female,>65,90,SODIUM FLUORIDE,Spanish,Smoker,Barcelona,0,Very Low
-745,Male,35-64,48,Baclofen,Spanish,Non-smoker,Girona,2,
-746,Male,20-34,18,"ARS ALB, PHOS,NUX VOM, PULS, SULPH, EUP, SOL, ECHI, BAPT",Spanish,Smoker,Barcelona,0,Moderate/Middle
-747,Male,35-64,24,clonidine hydrochloride,Spanish,Non-smoker,Barcelona,0,Very Low
-748,Female,35-64,93,ALCOHOL,Spanish,Smoker,Barcelona,0,Very Low
-749,Female,0-14,23,Titanium Dioxide and Zinc Oxide,Non-spanish,Ex-smoker,Girona,1,Low
-750,Female,0-14,77,vigabatrin,Spanish,Ex-smoker,Tarragona,0,Moderate/Middle
-751,Female,35-64,10,Hydroxyzine Pamoate,Spanish,Smoker,Barcelona,1,Low
-752,Female,35-64,55,Quetiapine Fumarate,Spanish,Ex-smoker,Central Catalonia,2,Low
-753,Male,>65,86,"OCTINOXATE, TITANIUM DIOXIDE",Non-spanish,Smoker,Barcelona,1,Moderate/Middle
-754,Female,35-64,53,Hydralazine Hydrochloride,Non-spanish,Smoker,Barcelona,0,Low
-755,Male,0-14,99,BENZALKONIUM CHLORIDE,Non-spanish,Ex-smoker,Barcelona,2,Moderate/Middle
-756,Male,>65,90,Divalproex Sodium,Spanish,Non-smoker,Barcelona,0,Low
-757,Male,20-34,22,"Octinoxate ,Avobenzone",Spanish,Smoker,Barcelona,1,Low
-758,Female,35-64,43,TITANIUM DIOXIDE,Non-spanish,Smoker,Barcelona,0,Moderate/Middle
-759,Female,35-64,15,Ofloxaxin,Spanish,Ex-smoker,Tarragona,2,Moderate/Middle
-760,Male,15-19,56,"Naproxen sodium, Pseudoephedrine HCl",Spanish,Smoker,Girona,1,Moderate/Middle
-761,Male,>65,99,Iohexol,Spanish,Non-smoker,Barcelona,0,Low
-762,Female,35-64,5,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,1,Very Low
-763,Female,35-64,30,Gabapentin,Non-spanish,Ex-smoker,Girona,0,Moderate/Middle
-764,Female,35-64,75,Diazepam,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-765,Female,0-14,22,Guaifenesin,Spanish,Ex-smoker,Terres de l’Ebre,1,Moderate/Middle
-766,Female,35-64,53,MESALAMINE,Non-spanish,Smoker,Barcelona,0,Very Low
-767,Female,35-64,39,Zinc Oxide,Spanish,Non-smoker,Girona,0,Low
-768,Male,35-64,9,Octinoxate and Titanium Dioxide,Spanish,Smoker,Girona,1,Moderate/Middle
-769,Female,,20,Oxaliplatin,Spanish,Non-smoker,Lleida,0,Moderate/Middle
-770,Female,35-64,4,Salicylic Acid,Spanish,Non-smoker,Barcelona,0,
-771,Male,35-64,79,"Ceanothus Americanus, Euphrasia Officinalis, Germanium Robertianum,",Non-spanish,Ex-smoker,Lleida,1,Low
-772,Female,35-64,43,Water Hemp,Spanish,Smoker,Barcelona,2,Moderate/Middle
-773,Male,35-64,83,Norethindrone Acetate/Ethinyl Estradiol and Ferrous Fumarate,Spanish,Non-smoker,Barcelona,0,Low
-774,Male,35-64,66,Mirtazapine,Spanish,Ex-smoker,Barcelona,1,Very Low
-775,Female,35-64,13,ISOPROPYL ALCOHOL,Spanish,Ex-smoker,Barcelona,2,Low
-776,Male,35-64,40,Athomer,Spanish,Smoker,Barcelona,0,Very Low
-777,Female,20-34,30,IRBESARTAN,Spanish,Non-smoker,Central Catalonia,1,Low
-778,Female,35-64,65,phytonadione,Spanish,Ex-smoker,Tarragona,2,
-779,Male,20-34,17,Miconazole nitrate,Spanish,Smoker,Barcelona,1,Low
-780,Male,0-14,67,DIETHYLPROPION HYDROCHLORIDE,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-781,Male,,6,Toothpaste,Spanish,Smoker,Barcelona,2,Very Low
-782,Male,35-64,52,Dimenhydrinate,Spanish,Ex-smoker,Barcelona,1,Low
-783,Male,15-19,71,BEE VENOM,Spanish,Non-smoker,Terres de l’Ebre,0,Moderate/Middle
-784,Male,0-14,38,Acidulated Phosphate Fluoride,Spanish,Non-smoker,Lleida,1,Low
-785,Male,35-64,18,TRICLOSAN,Spanish,Smoker,Tarragona,0,Low
-786,Male,0-14,43,Phenylephrine HCl,Spanish,Non-smoker,Barcelona,0,Low
-787,Male,15-19,42,Labetalol Hydrochloride,Spanish,Ex-smoker,Central Catalonia,1,Moderate/Middle
-788,Female,35-64,59,Hydrocodone Bitartrate and Acetaminophen,Spanish,Ex-smoker,Lleida,1,Moderate/Middle
-789,Female,35-64,14,Nicotine Polacrilex,Spanish,Smoker,Barcelona,1,Moderate/Middle
-790,Male,35-64,50,sotalol hydrochloride,Spanish,Non-smoker,Barcelona,0,Low
-791,Female,35-64,66,Silver Maple,Non-spanish,Smoker,Lleida,2,Moderate/Middle
-792,Female,>65,28,citalopram hydrobromide,Spanish,Non-smoker,Barcelona,0,Low
-793,Male,15-19,56,Carelessweed,Spanish,Ex-smoker,Barcelona,1,Low
-794,Male,15-19,60,Dimethicone,Spanish,Non-smoker,Lleida,0,
-795,Male,20-34,95,Helium Oxygen Mix 70/30,Spanish,Ex-smoker,Barcelona,0,Low
-796,Female,>65,16,Oxygen,Spanish,Smoker,Central Catalonia,2,Moderate/Middle
-797,Female,>65,70,rOPINIRole,Spanish,Ex-smoker,Barcelona,0,Low
-798,Male,35-64,18,Isopropyl alcohol,Spanish,Ex-smoker,Barcelona,1,Low
-799,Female,>65,94,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate, Pseudoephedrine Hydrochloride",Spanish,Non-smoker,Girona,0,Low
-800,Male,35-64,64,GLYCERIN,Spanish,Ex-smoker,Barcelona,1,
-801,Male,>65,51,Isopropyl Alcohol,Spanish,Ex-smoker,Barcelona,0,Low
-802,Male,35-64,51,CETIRIZINE HYDROCHLORIDE,Spanish,Non-smoker,Barcelona,2,Low
-803,Female,>65,94,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,1,Low
-804,Male,35-64,53,"aluminum hydroxide, magnesium hydroxide, simethicone",Spanish,Ex-smoker,Tarragona,2,Low
-805,Male,15-19,58,Doxycycline Hyclate,Spanish,Ex-smoker,Barcelona,0,Very Low
-806,Female,35-64,24,Torsemide,Spanish,Non-smoker,Barcelona,0,Very Low
-807,Female,35-64,37,Aspirin,Spanish,Non-smoker,Barcelona,0,Low
-808,Female,15-19,97,Meclizine HCl,Spanish,Smoker,Barcelona,0,Low
-809,Male,15-19,92,FUROSEMIDE,Spanish,Smoker,Girona,0,Very Low
-810,Male,35-64,20,"Undecylenic acid, Triclosan",Spanish,Smoker,Central Catalonia,1,
-811,Female,>65,22,ETHYL ALCOHOL,Non-spanish,Ex-smoker,Central Catalonia,0,Moderate/Middle
-812,Female,15-19,13,Flu-Cold,Spanish,Ex-smoker,Girona,1,Low
-813,Female,15-19,13,Standardized Timothy Grass Pollen,Spanish,Smoker,Barcelona,0,Very Low
-814,Male,35-64,50,Rifampin,Spanish,Smoker,Lleida,0,Very Low
-815,Male,>65,31,AZITHROMYCIN,Spanish,Non-smoker,Barcelona,0,Low
-816,Female,0-14,55,aminohippurate sodium,Spanish,Smoker,Barcelona,0,
-817,Female,35-64,15,ETHOSUXIMIDE,Spanish,Smoker,Barcelona,0,
-818,Female,15-19,5,"Acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",Spanish,Smoker,Central Catalonia,1,Low
-819,Male,35-64,27,MOMETASONE FUROATE,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-820,Female,>65,61,repaglinide,Non-spanish,Smoker,Barcelona,0,Moderate/Middle
-821,Male,>65,31,Menthol and Benzocaine,Spanish,Ex-smoker,Barcelona,1,Moderate/Middle
-822,Female,15-19,39,METOPROLOL SUCCINATE,Spanish,Smoker,Central Catalonia,2,Low
-823,Female,15-19,89,Benzalkonium Chloride,Spanish,Smoker,Alt Pirineu,1,Low
-824,Female,35-64,7,Octinoxate and Oxybenzone,Spanish,Non-smoker,Barcelona,2,Moderate/Middle
-825,Male,>65,82,"Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl",Non-spanish,Non-smoker,Barcelona,0,Low
-826,Female,35-64,63,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Terres de l’Ebre,0,Moderate/Middle
-827,Female,35-64,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Barcelona,0,Low
-828,Female,>65,75,Chlorhexidine Gluconate,Spanish,Ex-smoker,Lleida,2,Low
-829,Male,>65,65,"OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE",Non-spanish,Non-smoker,Barcelona,0,Low
-830,Male,15-19,28,White Alder,Non-spanish,Smoker,Central Catalonia,0,Low
-831,Female,35-64,36,SODIUM FLUORIDE,Spanish,Smoker,Central Catalonia,0,Low
-832,Male,35-64,55,levothyroxine sodium,Spanish,Non-smoker,Barcelona,0,Low
-833,Female,20-34,9,Cyclopentolate Hydrochloride,Spanish,Non-smoker,Barcelona,1,Low
-834,Male,35-64,23,OCTINOXATE and TITANIUM DIOXIDE,Non-spanish,Ex-smoker,Girona,0,Low
-835,Female,35-64,38,calcipotriene,Spanish,Non-smoker,Tarragona,2,Moderate/Middle
-836,Female,0-14,48,Acyclovir,Spanish,Ex-smoker,Girona,0,
-837,Female,35-64,63,Petrolatum,Spanish,Smoker,Barcelona,0,
-838,Female,0-14,58,Alcohol,Spanish,Smoker,Barcelona,1,Low
-839,Female,20-34,81,ULTRA-LIGHT SKIN PERFECTING MAKEUP,Spanish,Non-smoker,Barcelona,1,Moderate/Middle
-840,Female,,72,"ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, AVOBENZONE",Non-spanish,Smoker,Barcelona,2,Low
-841,Female,35-64,73,Ondansetron Hydrochloride,Spanish,Smoker,Central Catalonia,0,Low
-842,Female,35-64,98,ATORVASTATIN CALCIUM,Spanish,Ex-smoker,Lleida,1,Low
-843,Female,35-64,71,Standardized Mite D. pteronyssinus,Spanish,Ex-smoker,Girona,2,Low
-844,Female,35-64,90,SODIUM FLUORIDE,Non-spanish,Smoker,Barcelona,1,Very Low
-845,Male,35-64,48,Baclofen,Spanish,Non-smoker,Barcelona,1,Very Low
-846,Female,20-34,18,"ARS ALB, PHOS,NUX VOM, PULS, SULPH, EUP, SOL, ECHI, BAPT",Spanish,Smoker,Lleida,0,Moderate/Middle
-847,Male,0-14,24,clonidine hydrochloride,Spanish,Non-smoker,Barcelona,0,
-848,Female,35-64,93,ALCOHOL,Non-spanish,Smoker,Tarragona,0,Low
-849,Male,20-34,23,Titanium Dioxide and Zinc Oxide,Spanish,Ex-smoker,Barcelona,0,Low
-850,Female,0-14,77,vigabatrin,Spanish,Ex-smoker,Barcelona,0,Very Low
-851,Female,20-34,10,Hydroxyzine Pamoate,Spanish,Smoker,Barcelona,2,Low
-852,Male,>65,55,Quetiapine Fumarate,Spanish,Ex-smoker,Barcelona,2,Low
-853,Male,35-64,86,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Alt Pirineu,0,Low
-854,Female,>65,53,Hydralazine Hydrochloride,Spanish,Smoker,Barcelona,2,
-855,Male,35-64,99,BENZALKONIUM CHLORIDE,Spanish,Ex-smoker,Tarragona,0,
-856,Female,20-34,90,Divalproex Sodium,Spanish,Non-smoker,Barcelona,0,Very Low
-857,Female,35-64,22,"Octinoxate ,Avobenzone",Non-spanish,Smoker,Barcelona,1,Low
-858,Male,35-64,43,TITANIUM DIOXIDE,Spanish,Smoker,Barcelona,1,Very Low
-859,Male,15-19,15,Ofloxaxin,Spanish,Ex-smoker,Barcelona,2,Very Low
-860,Female,20-34,56,"Naproxen sodium, Pseudoephedrine HCl",Spanish,Smoker,Barcelona,2,Low
-861,Female,15-19,99,Iohexol,Spanish,Non-smoker,Barcelona,2,
-862,Female,>65,5,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,2,
-863,Female,15-19,30,Gabapentin,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-864,Female,35-64,75,Diazepam,Non-spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-865,Male,20-34,22,Guaifenesin,Spanish,Ex-smoker,Barcelona,1,Low
-866,Female,>65,53,MESALAMINE,Spanish,Smoker,Barcelona,0,Low
-867,Female,15-19,39,Zinc Oxide,Spanish,Non-smoker,Barcelona,1,Low
-868,Male,20-34,9,Octinoxate and Titanium Dioxide,Non-spanish,Smoker,Barcelona,0,
-869,Male,35-64,20,Oxaliplatin,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-870,Male,15-19,4,Salicylic Acid,Spanish,Non-smoker,Barcelona,1,High
-871,Female,15-19,79,"Ceanothus Americanus, Euphrasia Officinalis, Germanium Robertianum,",Spanish,Ex-smoker,Girona,0,Moderate/Middle
-872,Female,35-64,43,Water Hemp,Spanish,Smoker,Central Catalonia,2,Moderate/Middle
-873,Male,35-64,83,Norethindrone Acetate/Ethinyl Estradiol and Ferrous Fumarate,Spanish,Non-smoker,Barcelona,1,Moderate/Middle
-874,Female,35-64,66,Mirtazapine,Spanish,Ex-smoker,Barcelona,1,Low
-875,Male,35-64,13,ISOPROPYL ALCOHOL,Spanish,Ex-smoker,Tarragona,0,Low
-876,Female,20-34,40,Athomer,Spanish,Smoker,Barcelona,0,Moderate/Middle
-877,Female,35-64,30,IRBESARTAN,Spanish,Non-smoker,Barcelona,0,
-878,Male,0-14,65,phytonadione,Spanish,Ex-smoker,Barcelona,1,Low
-879,Female,35-64,17,Miconazole nitrate,Spanish,Smoker,Barcelona,0,
-880,Female,>65,67,DIETHYLPROPION HYDROCHLORIDE,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-881,Male,35-64,6,Toothpaste,Spanish,Smoker,Barcelona,2,Low
-882,Male,35-64,52,Dimenhydrinate,Non-spanish,Ex-smoker,Girona,0,Low
-883,Female,15-19,71,BEE VENOM,Non-spanish,Non-smoker,Tarragona,0,Low
-884,Male,20-34,38,Acidulated Phosphate Fluoride,Spanish,Non-smoker,Tarragona,0,Low
-885,Female,20-34,18,TRICLOSAN,Spanish,Smoker,Barcelona,1,
-886,Male,35-64,43,Phenylephrine HCl,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-887,Male,35-64,42,Labetalol Hydrochloride,Spanish,Ex-smoker,Girona,1,Low
-888,Male,35-64,59,Hydrocodone Bitartrate and Acetaminophen,Non-spanish,Ex-smoker,Barcelona,0,Low
-889,Male,35-64,14,Nicotine Polacrilex,Spanish,Smoker,Barcelona,0,Low
-890,Female,35-64,50,sotalol hydrochloride,Spanish,Non-smoker,Girona,2,
-891,Female,20-34,66,Silver Maple,Spanish,Smoker,Barcelona,0,Low
-892,Male,>65,28,citalopram hydrobromide,Spanish,Non-smoker,Barcelona,0,Moderate/Middle
-893,Female,>65,56,Carelessweed,Spanish,Ex-smoker,Central Catalonia,0,Low
-894,Male,>65,60,Dimethicone,Spanish,Non-smoker,Barcelona,2,Low
-895,Female,35-64,95,Helium Oxygen Mix 70/30,Spanish,Ex-smoker,Barcelona,2,
-896,Female,35-64,16,Oxygen,Spanish,Smoker,Barcelona,0,Low
-897,Female,35-64,70,rOPINIRole,Spanish,Ex-smoker,Barcelona,2,Low
-898,Female,35-64,18,Isopropyl alcohol,Spanish,Ex-smoker,Lleida,0,Moderate/Middle
-899,Female,35-64,94,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate, Pseudoephedrine Hydrochloride",Spanish,Non-smoker,Barcelona,0,
-900,Female,35-64,64,GLYCERIN,Non-spanish,Ex-smoker,Barcelona,0,Low
-901,Female,35-64,51,Isopropyl Alcohol,Spanish,Ex-smoker,Barcelona,0,
-902,Male,35-64,51,CETIRIZINE HYDROCHLORIDE,Spanish,Non-smoker,Lleida,1,Very Low
-903,Female,20-34,94,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,2,Very Low
-904,Male,20-34,53,"aluminum hydroxide, magnesium hydroxide, simethicone",Spanish,Ex-smoker,Barcelona,2,Moderate/Middle
-905,Male,35-64,58,Doxycycline Hyclate,Non-spanish,Ex-smoker,Barcelona,0,Low
-906,Female,35-64,24,Torsemide,Spanish,Non-smoker,Barcelona,2,Moderate/Middle
-907,Female,0-14,37,Aspirin,Spanish,Non-smoker,Central Catalonia,0,Very Low
-908,Female,35-64,97,Meclizine HCl,Spanish,Smoker,Girona,0,Low
-909,Male,35-64,92,FUROSEMIDE,Spanish,Smoker,Barcelona,1,Low
-910,Male,35-64,20,"Undecylenic acid, Triclosan",Spanish,Smoker,Lleida,2,Low
-911,Male,35-64,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Central Catalonia,2,Moderate/Middle
-912,Female,>65,13,Flu-Cold,Non-spanish,Ex-smoker,Barcelona,0,Very Low
-913,Male,35-64,13,Standardized Timothy Grass Pollen,Spanish,Smoker,Barcelona,0,Moderate/Middle
-914,Male,0-14,50,Rifampin,Spanish,Smoker,Barcelona,0,Low
-915,Male,,31,AZITHROMYCIN,Spanish,Non-smoker,Barcelona,0,Low
-916,Female,35-64,55,aminohippurate sodium,Spanish,Smoker,Barcelona,2,
-917,Male,0-14,15,ETHOSUXIMIDE,Spanish,Smoker,Girona,1,Low
-918,Female,0-14,5,"Acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",Spanish,Smoker,Girona,1,Moderate/Middle
-919,Female,35-64,27,MOMETASONE FUROATE,Spanish,Non-smoker,Barcelona,0,Low
-920,Female,35-64,61,repaglinide,Spanish,Smoker,Girona,0,Low
-921,Female,20-34,31,Menthol and Benzocaine,Spanish,Ex-smoker,Barcelona,2,Low
-922,Male,35-64,39,METOPROLOL SUCCINATE,Spanish,Smoker,Tarragona,0,Low
-923,Male,35-64,89,Benzalkonium Chloride,Spanish,Smoker,Barcelona,1,Low
-924,Female,35-64,7,Octinoxate and Oxybenzone,Spanish,Non-smoker,Barcelona,1,Low
-925,Female,35-64,82,"Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl",Spanish,Non-smoker,Barcelona,0,Low
-926,Male,20-34,63,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Central Catalonia,0,Low
-927,Male,20-34,22,ETHYL ALCOHOL,Spanish,Ex-smoker,Girona,0,Moderate/Middle
-928,Female,35-64,75,Chlorhexidine Gluconate,Spanish,Ex-smoker,Barcelona,2,Moderate/Middle
-929,Male,35-64,65,"OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE",Spanish,Non-smoker,Barcelona,0,Very Low
-930,Female,20-34,28,White Alder,Spanish,Smoker,Barcelona,0,Moderate/Middle
-931,Male,>65,36,SODIUM FLUORIDE,Spanish,Smoker,Barcelona,2,Low
-932,Male,35-64,55,levothyroxine sodium,Spanish,Non-smoker,Barcelona,0,Low
-933,Female,,9,Cyclopentolate Hydrochloride,Spanish,Non-smoker,Barcelona,2,Moderate/Middle
-934,Female,>65,23,OCTINOXATE and TITANIUM DIOXIDE,Non-spanish,Ex-smoker,Girona,2,
-935,Female,35-64,38,calcipotriene,Spanish,Non-smoker,Barcelona,2,Very Low
-936,Male,0-14,48,Acyclovir,Non-spanish,Ex-smoker,Barcelona,1,Moderate/Middle
-937,Female,20-34,63,Petrolatum,Spanish,Smoker,Central Catalonia,0,Low
-938,Female,35-64,58,Alcohol,Non-spanish,Smoker,Barcelona,0,Very Low
-939,Male,,81,ULTRA-LIGHT SKIN PERFECTING MAKEUP,Spanish,Non-smoker,Barcelona,2,Low
-940,Male,35-64,72,"ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, AVOBENZONE",Spanish,Smoker,Barcelona,0,Very Low
-941,Female,35-64,73,Ondansetron Hydrochloride,Spanish,Smoker,Barcelona,0,Low
-942,Male,35-64,98,ATORVASTATIN CALCIUM,Spanish,Ex-smoker,Alt Pirineu,0,Low
-943,Male,,71,Standardized Mite D. pteronyssinus,Spanish,Ex-smoker,Tarragona,1,Moderate/Middle
-944,Female,35-64,90,SODIUM FLUORIDE,Spanish,Smoker,Barcelona,0,
-945,Male,35-64,48,Baclofen,Spanish,Non-smoker,Barcelona,2,Low
-946,Female,20-34,18,"ARS ALB, PHOS,NUX VOM, PULS, SULPH, EUP, SOL, ECHI, BAPT",Spanish,Smoker,Barcelona,2,Low
-947,Male,15-19,24,clonidine hydrochloride,Spanish,Non-smoker,Barcelona,1,Moderate/Middle
-948,Female,,93,ALCOHOL,Spanish,Smoker,Lleida,2,Moderate/Middle
-949,Female,35-64,23,Titanium Dioxide and Zinc Oxide,Non-spanish,Ex-smoker,Girona,0,Low
-950,Female,35-64,77,vigabatrin,Spanish,Ex-smoker,Girona,0,Low
-951,Male,20-34,10,Hydroxyzine Pamoate,Spanish,Smoker,Girona,2,Low
-952,Male,35-64,55,Quetiapine Fumarate,Spanish,Ex-smoker,Barcelona,1,Very Low
-953,Female,35-64,86,"OCTINOXATE, TITANIUM DIOXIDE",Spanish,Smoker,Barcelona,0,Low
-954,Female,35-64,53,Hydralazine Hydrochloride,Spanish,Smoker,Barcelona,0,Low
-955,Male,15-19,99,BENZALKONIUM CHLORIDE,Spanish,Ex-smoker,Barcelona,0,Very Low
-956,Male,15-19,90,Divalproex Sodium,Spanish,Non-smoker,Barcelona,0,Very Low
-957,Male,35-64,22,"Octinoxate ,Avobenzone",Spanish,Smoker,Alt Pirineu,0,Low
-958,Male,35-64,43,TITANIUM DIOXIDE,Spanish,Smoker,Tarragona,0,
-959,Male,35-64,15,Ofloxaxin,Spanish,Ex-smoker,Barcelona,2,Moderate/Middle
-960,Male,35-64,56,"Naproxen sodium, Pseudoephedrine HCl",Spanish,Smoker,Barcelona,0,Moderate/Middle
-961,Female,>65,99,Iohexol,Non-spanish,Non-smoker,Barcelona,2,Moderate/Middle
-962,Male,20-34,5,OCTINOXATE and TITANIUM DIOXIDE,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-963,Female,20-34,30,Gabapentin,Non-spanish,Ex-smoker,Lleida,1,Low
-964,Male,35-64,75,Diazepam,Non-spanish,Ex-smoker,Barcelona,2,
-965,Female,35-64,22,Guaifenesin,Spanish,Ex-smoker,Barcelona,0,Moderate/Middle
-966,Female,0-14,53,MESALAMINE,Spanish,Smoker,Barcelona,0,Moderate/Middle
-967,Female,35-64,39,Zinc Oxide,Spanish,Non-smoker,Central Catalonia,2,Low
-968,Female,>65,9,Octinoxate and Titanium Dioxide,Spanish,Smoker,Central Catalonia,2,Low
-969,Female,20-34,20,Oxaliplatin,Spanish,Non-smoker,Barcelona,1,Low
-970,Female,0-14,4,Salicylic Acid,Non-spanish,Non-smoker,Barcelona,1,Very Low
-971,Male,0-14,79,"Ceanothus Americanus, Euphrasia Officinalis, Germanium Robertianum,",Spanish,Ex-smoker,Barcelona,1,Low
-972,Female,35-64,43,Water Hemp,Spanish,Smoker,Barcelona,1,Low
-973,Male,35-64,83,Norethindrone Acetate/Ethinyl Estradiol and Ferrous Fumarate,Non-spanish,Non-smoker,Central Catalonia,2,Moderate/Middle
-974,Male,20-34,66,Mirtazapine,Spanish,Ex-smoker,Barcelona,1,
-975,Male,0-14,13,ISOPROPYL ALCOHOL,Spanish,Ex-smoker,Terres de l’Ebre,1,Very Low
-976,Female,20-34,40,Athomer,Spanish,Smoker,Barcelona,2,Moderate/Middle
-977,Male,35-64,30,IRBESARTAN,Spanish,Non-smoker,Lleida,0,Moderate/Middle
-978,Female,>65,65,phytonadione,Spanish,Ex-smoker,Barcelona,1,
-979,Male,15-19,17,Miconazole nitrate,Non-spanish,Smoker,Barcelona,0,Low
-980,Female,35-64,67,DIETHYLPROPION HYDROCHLORIDE,Spanish,Ex-smoker,Barcelona,0,Low
-981,Male,15-19,6,Toothpaste,Spanish,Smoker,Barcelona,2,
-982,Male,35-64,52,Dimenhydrinate,Spanish,Ex-smoker,Barcelona,0,Very Low
-983,Male,35-64,71,BEE VENOM,Non-spanish,Non-smoker,Barcelona,0,Moderate/Middle
-984,Female,35-64,38,Acidulated Phosphate Fluoride,Spanish,Non-smoker,Barcelona,1,
-985,Female,35-64,18,TRICLOSAN,Spanish,Smoker,Barcelona,0,Low
-986,Male,20-34,43,Phenylephrine HCl,Spanish,Non-smoker,Tarragona,1,Moderate/Middle
-987,Female,20-34,42,Labetalol Hydrochloride,Spanish,Ex-smoker,Barcelona,0,Low
-988,Female,15-19,59,Hydrocodone Bitartrate and Acetaminophen,Spanish,Ex-smoker,Barcelona,1,Low
-989,Male,15-19,14,Nicotine Polacrilex,Non-spanish,Smoker,Barcelona,1,Low
-990,Female,35-64,50,sotalol hydrochloride,Spanish,Non-smoker,Central Catalonia,1,Low
-991,Male,35-64,66,Silver Maple,Spanish,Smoker,Barcelona,1,Moderate/Middle
-992,Male,,28,citalopram hydrobromide,Spanish,Non-smoker,Tarragona,1,Low
-993,Female,>65,56,Carelessweed,Spanish,Ex-smoker,Barcelona,0,Low
-994,Male,35-64,60,Dimethicone,Non-spanish,Non-smoker,Barcelona,2,Low
-995,Male,15-19,95,Helium Oxygen Mix 70/30,Spanish,Ex-smoker,Barcelona,2,Low
-996,Male,35-64,16,Oxygen,Spanish,Smoker,Central Catalonia,2,Low
-997,Male,35-64,70,rOPINIRole,Spanish,Ex-smoker,Tarragona,1,
-998,Female,35-64,18,Isopropyl alcohol,Spanish,Ex-smoker,Barcelona,0,Very Low
-999,Female,15-19,94,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate, Pseudoephedrine Hydrochloride",Spanish,Non-smoker,Girona,0,Low
-1000,Male,35-64,64,GLYCERIN,Spanish,Ex-smoker,Barcelona,2,Moderate/Middle
+id,sex,age,nationality,smoking_status,healthcare_region,comorbidities,Socioeconomic_levels
+1,Female,62,Spanish,,Central Catalonia,2,Very Low
+2,Male,27,Spanish,Never smoker,Barcelona,2,Low
+3,Male,36,Spanish,,Central Catalonia,0,Low
+4,Male,42,Spanish,,Barcelona,0,Very Low
+5,Male,52,Non-spanish,Ever smoker,Barcelona,1,Low
+6,Male,19,Non-spanish,Never smoker,Barcelona,1,Low
+7,Female,39,Spanish,Ever smoker,Barcelona,0,Moderate/Middle
+8,Male,20,Spanish,,Barcelona,2,Moderate/Middle
+9,Male,41,Spanish,Never smoker,Lleida,0,Moderate/Middle
+10,Male,10,Spanish,,Barcelona,0,Low
+11,Female,27,Spanish,,Barcelona,0,Moderate/Middle
+12,Female,71,Non-spanish,,Lleida,0,Very Low
+13,Male,67,Spanish,,Terres de l’Ebre,0,Moderate/Middle
+14,Male,95,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+15,Female,43,Spanish,,Tarragona,0,Low
+16,Female,8,Spanish,,Central Catalonia,1,
+17,Male,7,Spanish,Never smoker,Barcelona,1,Low
+18,Female,37,Spanish,,Barcelona,2,Low
+19,Male,14,Spanish,,Tarragona,0,Moderate/Middle
+20,Male,50,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+21,Female,17,Spanish,,Terres de l’Ebre,1,Very Low
+22,Male,19,Non-spanish,,Barcelona,2,Low
+23,Male,22,Spanish,,Barcelona,2,Moderate/Middle
+24,Male,88,Spanish,,Barcelona,0,Low
+25,Male,25,Non-spanish,Never smoker,Barcelona,0,Low
+26,Male,16,Spanish,Ever smoker,Barcelona,0,Very Low
+27,Female,45,Spanish,,Barcelona,0,Moderate/Middle
+28,Male,84,Spanish,,Girona,0,Moderate/Middle
+29,Male,64,Spanish,Never smoker,Barcelona,2,Very Low
+30,Female,28,Spanish,Never smoker,Alt Pirineu,1,Moderate/Middle
+31,Female,57,Non-spanish,,Lleida,0,Moderate/Middle
+32,Male,17,Spanish,,Barcelona,2,Low
+33,Male,73,Spanish,,Tarragona,0,Low
+34,Female,70,Spanish,,Girona,0,Low
+35,Male,37,Spanish,Ever smoker,Girona,0,Very Low
+36,Female,23,Spanish,Never smoker,Barcelona,0,Very Low
+37,Female,58,Spanish,,Alt Pirineu,2,
+38,Female,76,Spanish,Ever smoker,Barcelona,0,Low
+39,Female,38,Non-spanish,,Barcelona,0,
+40,Female,44,Spanish,,Barcelona,0,Moderate/Middle
+41,Female,78,Spanish,,Lleida,2,Moderate/Middle
+42,Male,54,Spanish,,Barcelona,1,Moderate/Middle
+43,Male,26,Spanish,,Barcelona,2,Moderate/Middle
+44,Female,4,Non-spanish,Never smoker,Girona,0,Low
+45,Female,47,Non-spanish,Ever smoker,Girona,2,Moderate/Middle
+46,Male,40,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+47,Male,60,Spanish,,Central Catalonia,0,
+48,Female,77,Spanish,Ever smoker,Girona,0,Low
+49,Female,61,Spanish,Ever smoker,Barcelona,0,
+50,Male,73,Spanish,Never smoker,Barcelona,0,Low
+51,Female,99,Spanish,Never smoker,Central Catalonia,0,Low
+52,Male,35,Spanish,Never smoker,Barcelona,2,
+53,Male,6,Spanish,,Barcelona,0,Low
+54,Female,47,Spanish,Never smoker,Barcelona,1,Very Low
+55,Male,71,Spanish,,Barcelona,2,Low
+56,Male,38,Non-spanish,Never smoker,Barcelona,2,
+57,Female,18,Spanish,,Barcelona,2,Low
+58,Female,23,Spanish,,Barcelona,1,Very Low
+59,Female,59,Spanish,,Barcelona,0,Moderate/Middle
+60,Male,35,Non-spanish,,Barcelona,0,Low
+61,Female,23,Non-spanish,Never smoker,Tarragona,1,Low
+62,Female,41,Spanish,,Barcelona,1,Low
+63,Female,15,Non-spanish,Never smoker,Barcelona,2,Moderate/Middle
+64,Male,26,Non-spanish,,Barcelona,0,Low
+65,Male,16,Spanish,,Barcelona,1,Very Low
+66,Male,54,Spanish,Never smoker,Central Catalonia,0,Low
+67,Male,49,Spanish,Ever smoker,Girona,0,Low
+68,Male,33,Spanish,Never smoker,Barcelona,2,Very Low
+69,Female,35,Spanish,Ever smoker,Barcelona,0,Moderate/Middle
+70,Female,25,Spanish,Ever smoker,Barcelona,1,Low
+71,Male,14,Spanish,Ever smoker,Barcelona,2,
+72,Female,57,Spanish,Never smoker,Barcelona,2,Moderate/Middle
+73,Male,85,Spanish,Never smoker,Barcelona,0,Very Low
+74,Male,61,Spanish,Never smoker,Barcelona,2,Low
+75,Female,43,Spanish,,Barcelona,2,Low
+76,Female,10,Spanish,Ever smoker,Central Catalonia,1,Moderate/Middle
+77,Female,48,Spanish,Never smoker,Barcelona,1,
+78,Male,22,Spanish,,Barcelona,1,Low
+79,Male,43,Spanish,,Barcelona,0,Low
+80,Female,54,Spanish,,Barcelona,0,Low
+81,Female,49,Spanish,,Barcelona,1,Low
+82,Female,21,Spanish,,Girona,0,
+83,Female,26,Spanish,,Barcelona,1,Very Low
+84,Male,46,Spanish,Ever smoker,Barcelona,0,Very Low
+85,Male,41,Spanish,,Barcelona,2,Moderate/Middle
+86,Female,50,Non-spanish,,Barcelona,0,
+87,Female,7,Spanish,,Barcelona,0,Very Low
+88,Female,54,Non-spanish,Never smoker,Barcelona,0,Low
+89,Male,36,Spanish,,Barcelona,0,Low
+90,Female,79,Spanish,Never smoker,Barcelona,2,
+91,Male,9,Spanish,,Barcelona,1,Low
+92,Male,39,Non-spanish,Never smoker,Girona,2,
+93,Male,77,Spanish,,Barcelona,2,Moderate/Middle
+94,Female,21,Spanish,,Girona,0,Very Low
+95,Female,17,Spanish,Never smoker,Terres de l’Ebre,0,Moderate/Middle
+96,Male,25,Spanish,Never smoker,Barcelona,0,Low
+97,Female,61,Spanish,Ever smoker,Barcelona,0,Low
+98,Female,46,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+99,Male,9,Spanish,,Barcelona,0,Moderate/Middle
+100,Female,60,Non-spanish,Never smoker,Barcelona,0,Low
+101,Male,27,Spanish,,Central Catalonia,2,Very Low
+102,Female,78,Spanish,Ever smoker,Barcelona,2,Moderate/Middle
+103,Female,68,Spanish,,Lleida,2,Low
+104,Male,64,Spanish,,Central Catalonia,0,Very Low
+105,Female,43,Spanish,Ever smoker,Girona,1,Low
+106,Female,40,Non-spanish,Never smoker,Barcelona,0,Low
+107,Male,96,Non-spanish,,Barcelona,0,Moderate/Middle
+108,Female,43,Spanish,Ever smoker,Girona,0,Very Low
+109,Male,58,Spanish,,Barcelona,0,Low
+110,Female,58,Spanish,Ever smoker,Barcelona,0,Moderate/Middle
+111,Female,18,Spanish,,Barcelona,0,Very Low
+112,Female,18,Spanish,Never smoker,Barcelona,1,Low
+113,Male,34,Spanish,Ever smoker,Barcelona,1,Low
+114,Female,44,Spanish,,Girona,1,
+115,Female,19,Spanish,Never smoker,Barcelona,0,Very Low
+116,Female,81,Spanish,,Barcelona,0,
+117,Female,49,Non-spanish,Never smoker,Barcelona,0,Low
+118,Female,92,Spanish,Ever smoker,Barcelona,1,Very Low
+119,Male,15,Non-spanish,Never smoker,Tarragona,2,Low
+120,Female,16,Spanish,Ever smoker,Lleida,1,Low
+121,Male,67,Spanish,Never smoker,Barcelona,0,Low
+122,Male,53,Spanish,,Terres de l’Ebre,0,
+123,Female,71,Spanish,Ever smoker,Central Catalonia,0,Low
+124,Female,8,Non-spanish,Never smoker,Barcelona,1,
+125,Female,63,Non-spanish,Never smoker,Barcelona,0,Low
+126,Female,25,Spanish,,Barcelona,0,
+127,Male,55,Spanish,Never smoker,Lleida,1,Low
+128,Male,46,Spanish,,Barcelona,0,Low
+129,Female,29,Non-spanish,Never smoker,Tarragona,0,
+130,Female,19,Spanish,,Barcelona,1,Low
+131,Female,56,Spanish,Never smoker,Barcelona,2,High
+132,Male,88,Spanish,Ever smoker,Barcelona,1,Low
+133,Male,56,Spanish,Ever smoker,Barcelona,0,Low
+134,Female,40,Spanish,,Barcelona,0,Moderate/Middle
+135,Male,24,Spanish,,Lleida,0,Very Low
+136,Female,25,Non-spanish,,Barcelona,0,Very Low
+137,Female,77,Spanish,,Barcelona,2,Very Low
+138,Female,59,Spanish,,Barcelona,0,Moderate/Middle
+139,Male,35,Spanish,Ever smoker,Barcelona,2,Low
+140,Male,16,Spanish,,Central Catalonia,1,Low
+141,Female,67,Spanish,,Barcelona,1,Low
+142,Male,75,Spanish,Ever smoker,Barcelona,1,Low
+143,Female,9,Spanish,,Central Catalonia,0,Low
+144,Female,25,Spanish,,Barcelona,0,
+145,Male,62,Non-spanish,Ever smoker,Girona,0,Moderate/Middle
+146,Male,1,Spanish,Never smoker,Barcelona,0,Low
+147,Male,51,Non-spanish,Ever smoker,Barcelona,0,Low
+148,Female,16,Non-spanish,Never smoker,Barcelona,0,Moderate/Middle
+149,Female,13,Spanish,,Barcelona,2,Low
+150,Female,19,Spanish,Ever smoker,Barcelona,0,Very Low
+151,Female,60,Non-spanish,Ever smoker,Girona,2,Low
+152,Female,42,Spanish,Never smoker,Barcelona,0,Very Low
+153,Female,0,Spanish,,Girona,2,Moderate/Middle
+154,Female,37,Spanish,,Tarragona,0,Low
+155,Male,92,Non-spanish,,Barcelona,0,
+156,Female,56,Spanish,,Barcelona,1,Low
+157,Female,62,Spanish,,Barcelona,0,Low
+158,Male,64,Spanish,,Barcelona,1,
+159,Male,99,Spanish,,Barcelona,0,Low
+160,Female,37,Spanish,Never smoker,Lleida,1,Moderate/Middle
+161,Male,55,Spanish,,Barcelona,0,Very Low
+162,Male,86,Spanish,,Barcelona,0,Low
+163,Female,16,Spanish,Never smoker,Barcelona,0,Very Low
+164,Female,62,Spanish,Ever smoker,Central Catalonia,2,
+165,Male,7,Non-spanish,,Tarragona,1,Moderate/Middle
+166,Male,62,Spanish,,Barcelona,0,Very Low
+167,Female,17,Non-spanish,,Barcelona,2,
+168,Male,26,Spanish,Never smoker,Barcelona,0,Very Low
+169,Female,41,Spanish,Never smoker,Barcelona,0,Low
+170,Male,59,Non-spanish,,Barcelona,0,Low
+171,Female,32,Spanish,Ever smoker,Barcelona,0,Moderate/Middle
+172,Male,68,Non-spanish,Ever smoker,Barcelona,0,Low
+173,Female,58,Non-spanish,Ever smoker,Barcelona,0,Low
+174,Female,55,Spanish,,Barcelona,1,
+175,Female,91,Spanish,,Barcelona,2,Moderate/Middle
+176,Male,18,Spanish,,Girona,0,Low
+177,Female,19,Spanish,,Barcelona,0,Moderate/Middle
+178,Female,39,Spanish,Never smoker,Girona,2,
+179,Female,40,Spanish,Never smoker,Girona,0,Low
+180,Female,36,Spanish,Ever smoker,Girona,0,Moderate/Middle
+181,Male,17,Spanish,Ever smoker,Lleida,0,Moderate/Middle
+182,Female,50,Spanish,Never smoker,Terres de l’Ebre,0,Low
+183,Female,53,Non-spanish,,Girona,0,Low
+184,Female,27,Spanish,,Barcelona,0,
+185,Female,20,Spanish,,Barcelona,0,Low
+186,Female,17,Spanish,,Barcelona,0,Very Low
+187,Female,67,Spanish,,Barcelona,2,Very Low
+188,Male,79,Spanish,,Girona,2,Moderate/Middle
+189,Male,73,Non-spanish,,Tarragona,1,Low
+190,Female,92,Non-spanish,Never smoker,Barcelona,0,Moderate/Middle
+191,Male,32,Spanish,Never smoker,Barcelona,2,Low
+192,Female,94,Non-spanish,Never smoker,Barcelona,0,Low
+193,Female,62,Spanish,Never smoker,Barcelona,2,High
+194,Male,53,Spanish,Ever smoker,Girona,2,Very Low
+195,Male,55,Non-spanish,Never smoker,Barcelona,2,Low
+196,Female,47,Non-spanish,Ever smoker,Girona,2,Moderate/Middle
+197,Male,51,Spanish,Ever smoker,Girona,0,Moderate/Middle
+198,Male,15,Spanish,Ever smoker,Barcelona,1,Low
+199,Female,36,Non-spanish,Ever smoker,Barcelona,0,Moderate/Middle
+200,Male,55,Spanish,Ever smoker,Lleida,0,Moderate/Middle
+201,Female,61,Non-spanish,,Barcelona,0,Low
+202,Male,1,Non-spanish,,Barcelona,1,
+203,Male,59,Spanish,Never smoker,Lleida,0,
+204,Female,87,Non-spanish,,Terres de l’Ebre,2,Low
+205,Female,93,Spanish,,Barcelona,2,Low
+206,Male,27,Spanish,,Girona,0,Moderate/Middle
+207,Male,4,Spanish,,Girona,0,Moderate/Middle
+208,Female,54,Spanish,Never smoker,Barcelona,2,Low
+209,Male,16,Non-spanish,Ever smoker,Barcelona,0,
+210,Female,56,Spanish,Never smoker,Barcelona,0,Very Low
+211,Female,63,Spanish,Ever smoker,Barcelona,1,Moderate/Middle
+212,Female,32,Spanish,,Barcelona,2,Very Low
+213,Male,60,Spanish,,Girona,1,Very Low
+214,Male,77,Spanish,Never smoker,Barcelona,2,Low
+215,Female,54,Spanish,,Barcelona,1,Moderate/Middle
+216,Female,27,Spanish,,Barcelona,0,Moderate/Middle
+217,Male,38,Spanish,,Barcelona,1,
+218,Female,10,Spanish,Never smoker,Girona,0,Moderate/Middle
+219,Female,67,Spanish,Never smoker,Central Catalonia,2,Low
+220,Male,58,Spanish,Ever smoker,Barcelona,0,Moderate/Middle
+221,Female,86,Non-spanish,Ever smoker,Barcelona,0,High
+222,Male,50,Non-spanish,Never smoker,Barcelona,1,
+223,Male,24,Spanish,Never smoker,Barcelona,0,Low
+224,Male,60,Spanish,Never smoker,Barcelona,2,Low
+225,Female,10,Spanish,Ever smoker,Barcelona,0,Low
+226,Female,49,Spanish,,Barcelona,0,Low
+227,Female,64,Spanish,Ever smoker,Girona,0,Low
+228,Female,17,Spanish,,Girona,0,Low
+229,Female,10,Non-spanish,Ever smoker,Barcelona,1,Low
+230,Male,98,Spanish,,Central Catalonia,0,Very Low
+231,Female,20,Non-spanish,,Barcelona,0,Low
+232,Female,60,Spanish,Ever smoker,Barcelona,2,Very Low
+233,Female,57,Spanish,Never smoker,Terres de l’Ebre,2,Low
+234,Male,89,Spanish,Never smoker,Lleida,0,Moderate/Middle
+235,Female,0,Spanish,,Barcelona,0,Moderate/Middle
+236,Male,46,Spanish,,Barcelona,2,Low
+237,Male,64,Spanish,Never smoker,Barcelona,2,Low
+238,Male,65,Spanish,Never smoker,Barcelona,2,Very Low
+239,Female,43,Non-spanish,,Central Catalonia,2,Low
+240,Male,4,Spanish,Never smoker,Central Catalonia,2,Low
+241,Male,12,Spanish,,Barcelona,1,Low
+242,Male,39,Spanish,Never smoker,Barcelona,2,Low
+243,Female,40,Spanish,Ever smoker,Barcelona,1,Moderate/Middle
+244,Male,44,Spanish,Ever smoker,Central Catalonia,0,Moderate/Middle
+245,Female,4,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+246,Female,20,Non-spanish,Never smoker,Barcelona,0,Very Low
+247,Male,18,Spanish,Never smoker,Girona,2,Moderate/Middle
+248,Male,42,Spanish,,Barcelona,1,Low
+249,Male,17,Spanish,,Barcelona,0,Moderate/Middle
+250,Male,15,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+251,Female,38,Spanish,,Barcelona,0,Moderate/Middle
+252,Female,8,Spanish,Ever smoker,Girona,2,Low
+253,Female,80,Non-spanish,Never smoker,Girona,1,Low
+254,Female,86,Spanish,,Barcelona,0,Very Low
+255,Male,16,Spanish,Ever smoker,Barcelona,2,
+256,Female,79,Spanish,Ever smoker,Girona,0,Very Low
+257,Male,45,Spanish,Never smoker,Tarragona,1,Low
+258,Female,45,Spanish,Ever smoker,Barcelona,1,Moderate/Middle
+259,Male,91,Spanish,,Barcelona,2,Low
+260,Female,40,Non-spanish,,Barcelona,0,
+261,Female,52,Spanish,,Central Catalonia,1,Low
+262,Female,17,Spanish,,Barcelona,2,Low
+263,Female,53,Spanish,,Barcelona,0,Low
+264,Female,58,Spanish,,Tarragona,0,Low
+265,Male,36,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+266,Male,40,Spanish,,Barcelona,0,Very Low
+267,Male,63,Non-spanish,,Barcelona,0,Low
+268,Female,16,Spanish,,Barcelona,1,Low
+269,Female,48,Spanish,Ever smoker,Barcelona,0,Very Low
+270,Female,51,Spanish,Never smoker,Lleida,1,Low
+271,Male,65,Spanish,Never smoker,Barcelona,0,Low
+272,Female,60,Spanish,Ever smoker,Barcelona,2,Low
+273,Female,24,Spanish,Never smoker,Barcelona,0,Very Low
+274,Female,78,Spanish,Ever smoker,Barcelona,2,Low
+275,Female,54,Spanish,,Barcelona,0,Moderate/Middle
+276,Female,32,Spanish,Never smoker,Central Catalonia,0,Very Low
+277,Male,62,Spanish,,Barcelona,0,Low
+278,Female,31,Spanish,Never smoker,Barcelona,1,Low
+279,Female,40,Spanish,Never smoker,Girona,1,Moderate/Middle
+280,Male,20,Spanish,,Barcelona,0,Low
+281,Male,19,Spanish,Never smoker,Barcelona,0,Low
+282,Male,40,Non-spanish,Never smoker,Alt Pirineu,0,Moderate/Middle
+283,Male,54,Spanish,Never smoker,Barcelona,2,Moderate/Middle
+284,Male,34,Spanish,,Tarragona,1,Low
+285,Female,80,Non-spanish,Never smoker,Central Catalonia,0,
+286,Male,96,Spanish,,Barcelona,2,Moderate/Middle
+287,Female,5,Spanish,Never smoker,Terres de l’Ebre,2,Low
+288,Female,61,Spanish,Never smoker,Barcelona,0,Low
+289,Female,32,Spanish,Never smoker,Girona,2,Low
+290,Female,39,Non-spanish,Ever smoker,Central Catalonia,2,Very Low
+291,Male,15,Spanish,Ever smoker,Barcelona,2,Low
+292,Female,7,Spanish,Never smoker,Barcelona,1,Low
+293,Male,11,Spanish,,Barcelona,1,Moderate/Middle
+294,Male,4,Spanish,,Barcelona,0,Low
+295,Female,20,Spanish,,Lleida,1,Low
+296,Female,50,Non-spanish,,Lleida,2,Very Low
+297,Male,11,Spanish,Ever smoker,Tarragona,0,Moderate/Middle
+298,Female,17,Spanish,Ever smoker,Tarragona,0,Low
+299,Female,20,Spanish,Ever smoker,Barcelona,2,Low
+300,Male,57,Spanish,,Barcelona,2,Very Low
+301,Male,41,Spanish,Ever smoker,Girona,0,
+302,Female,40,Spanish,,Barcelona,1,Low
+303,Male,85,Spanish,Never smoker,Barcelona,1,Very Low
+304,Female,56,Non-spanish,,Central Catalonia,0,
+305,Male,38,Spanish,Never smoker,Lleida,2,
+306,Male,6,Spanish,,Barcelona,0,
+307,Male,22,Spanish,Ever smoker,Barcelona,0,Low
+308,Female,38,Spanish,Ever smoker,Barcelona,0,
+309,Male,63,Spanish,Never smoker,Barcelona,2,Very Low
+310,Female,58,Non-spanish,,Central Catalonia,2,
+311,Male,27,Spanish,Never smoker,Barcelona,0,Low
+312,Male,17,Non-spanish,Ever smoker,Barcelona,0,Low
+313,Male,64,Non-spanish,Never smoker,Barcelona,2,
+314,Male,33,Non-spanish,Never smoker,Barcelona,2,Low
+315,Female,33,Spanish,Ever smoker,Barcelona,2,Low
+316,Male,61,Spanish,Never smoker,Barcelona,0,Low
+317,Female,60,Non-spanish,Ever smoker,Barcelona,1,Low
+318,Male,20,Spanish,,Barcelona,1,Moderate/Middle
+319,Male,34,Non-spanish,Ever smoker,Tarragona,0,Very Low
+320,Female,54,Spanish,Never smoker,Barcelona,1,Moderate/Middle
+321,Male,43,Spanish,Ever smoker,Barcelona,2,Low
+322,Female,89,Spanish,Ever smoker,Barcelona,2,Low
+323,Male,67,Non-spanish,Ever smoker,Barcelona,2,Low
+324,Male,15,Spanish,Never smoker,Barcelona,0,Low
+325,Male,42,Spanish,Ever smoker,Barcelona,0,Moderate/Middle
+326,Male,52,Spanish,Never smoker,Barcelona,0,
+327,Female,28,Spanish,Never smoker,Girona,2,Low
+328,Male,35,Non-spanish,Ever smoker,Girona,0,Very Low
+329,Male,13,Spanish,,Barcelona,0,Low
+330,Male,49,Non-spanish,,Barcelona,2,
+331,Female,25,Spanish,,Barcelona,2,Low
+332,Male,61,Non-spanish,,Barcelona,0,Moderate/Middle
+333,Female,31,Spanish,Never smoker,Central Catalonia,0,
+334,Male,48,Spanish,,Barcelona,2,Low
+335,Male,32,Spanish,Ever smoker,Barcelona,0,Low
+336,Female,37,Spanish,Never smoker,Central Catalonia,0,Moderate/Middle
+337,Female,52,Non-spanish,,Girona,2,Moderate/Middle
+338,Female,73,Spanish,Ever smoker,Barcelona,1,Very Low
+339,Male,28,Non-spanish,Ever smoker,Barcelona,0,Very Low
+340,Male,16,Non-spanish,,Barcelona,2,Moderate/Middle
+341,Male,37,Non-spanish,Ever smoker,Tarragona,2,Low
+342,Female,15,Spanish,Ever smoker,Central Catalonia,0,Moderate/Middle
+343,Female,52,Spanish,Never smoker,Barcelona,0,Very Low
+344,Male,25,Spanish,,Barcelona,0,Moderate/Middle
+345,Female,60,Spanish,,Central Catalonia,1,Low
+346,Female,54,Spanish,,Barcelona,0,Very Low
+347,Female,97,Spanish,,Central Catalonia,1,Moderate/Middle
+348,Female,40,Spanish,,Barcelona,0,Moderate/Middle
+349,Female,52,Spanish,Ever smoker,Terres de l’Ebre,2,Moderate/Middle
+350,Female,50,Spanish,Never smoker,Barcelona,2,Low
+351,Female,58,Spanish,,Terres de l’Ebre,0,Moderate/Middle
+352,Male,30,Spanish,Never smoker,Barcelona,0,Low
+353,Female,18,Spanish,Ever smoker,Tarragona,0,Low
+354,Female,18,Spanish,Ever smoker,Central Catalonia,0,Moderate/Middle
+355,Male,53,Non-spanish,,Barcelona,2,Low
+356,Female,76,Spanish,Never smoker,Barcelona,0,Very Low
+357,Male,72,Spanish,Never smoker,Barcelona,0,Low
+358,Male,36,Spanish,Never smoker,Barcelona,0,Low
+359,Female,44,Non-spanish,Never smoker,Barcelona,0,Low
+360,Female,84,Spanish,Ever smoker,Barcelona,0,Low
+361,Female,19,Spanish,,Barcelona,2,Moderate/Middle
+362,Male,38,Non-spanish,Never smoker,Terres de l’Ebre,0,Very Low
+363,Male,86,Spanish,Never smoker,Barcelona,2,Low
+364,Male,59,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+365,Female,63,Non-spanish,Never smoker,Central Catalonia,1,Low
+366,Male,35,Non-spanish,Never smoker,Central Catalonia,2,Moderate/Middle
+367,Female,6,Spanish,,Barcelona,0,
+368,Male,17,Spanish,Never smoker,Barcelona,1,Low
+369,Female,21,Spanish,,Barcelona,0,Low
+370,Male,18,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+371,Male,55,Non-spanish,Ever smoker,Barcelona,1,Low
+372,Male,98,Non-spanish,Ever smoker,Barcelona,0,
+373,Female,26,Non-spanish,,Girona,1,Moderate/Middle
+374,Male,69,Non-spanish,,Barcelona,0,Very Low
+375,Male,86,Non-spanish,Never smoker,Terres de l’Ebre,0,Low
+376,Female,31,Spanish,,Barcelona,0,Low
+377,Female,89,Spanish,Ever smoker,Alt Pirineu,2,
+378,Female,51,Non-spanish,Ever smoker,Girona,0,Low
+379,Female,92,Spanish,,Barcelona,0,Moderate/Middle
+380,Male,61,Spanish,,Barcelona,1,Low
+381,Female,5,Spanish,,Barcelona,0,Low
+382,Female,57,Non-spanish,Ever smoker,Barcelona,2,Moderate/Middle
+383,Male,15,Spanish,Never smoker,Barcelona,2,Moderate/Middle
+384,Male,36,Non-spanish,,Barcelona,1,Moderate/Middle
+385,Female,18,Spanish,,Barcelona,0,Very Low
+386,Male,15,Spanish,,Barcelona,1,
+387,Male,40,Spanish,,Tarragona,1,Very Low
+388,Female,35,Non-spanish,Ever smoker,Barcelona,2,Low
+389,Male,48,Spanish,Never smoker,Girona,2,Low
+390,Male,52,Non-spanish,,Barcelona,0,
+391,Male,43,Spanish,,Girona,0,Very Low
+392,Female,32,Non-spanish,Ever smoker,Barcelona,1,
+393,Male,12,Spanish,Never smoker,Barcelona,1,Low
+394,Male,15,Spanish,,Tarragona,1,Very Low
+395,Male,38,Non-spanish,Ever smoker,Central Catalonia,2,Low
+396,Female,40,Spanish,,Barcelona,2,Low
+397,Female,54,Spanish,Never smoker,Tarragona,0,
+398,Male,17,Spanish,Ever smoker,Barcelona,2,Low
+399,Male,12,Spanish,Ever smoker,Barcelona,2,Low
+400,Female,12,Spanish,Ever smoker,Barcelona,2,Very Low
+401,Female,58,Spanish,,Barcelona,1,
+402,Female,41,Spanish,,Lleida,0,
+403,Male,64,Spanish,,Barcelona,0,
+404,Male,53,Spanish,Ever smoker,Central Catalonia,0,Very Low
+405,Female,13,Spanish,Never smoker,Girona,0,Moderate/Middle
+406,Male,3,Spanish,,Barcelona,1,Moderate/Middle
+407,Female,42,Spanish,,Girona,0,Very Low
+408,Female,41,Spanish,Never smoker,Barcelona,0,Low
+409,Female,32,Spanish,Ever smoker,Barcelona,0,Very Low
+410,Female,64,Spanish,Ever smoker,Barcelona,2,Moderate/Middle
+411,Female,47,Spanish,Ever smoker,Terres de l’Ebre,0,Low
+412,Female,52,Spanish,Ever smoker,Barcelona,0,Very Low
+413,Male,56,Spanish,Never smoker,Barcelona,1,
+414,Female,54,Spanish,,Tarragona,1,Moderate/Middle
+415,Female,16,Non-spanish,,Barcelona,1,Low
+416,Male,93,Non-spanish,Never smoker,Barcelona,2,
+417,Female,6,Spanish,,Barcelona,0,Low
+418,Female,58,Spanish,,Barcelona,0,Low
+419,Male,61,Non-spanish,Never smoker,Lleida,0,Moderate/Middle
+420,Female,13,Spanish,Ever smoker,Terres de l’Ebre,1,Low
+421,Male,17,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+422,Male,59,Spanish,Never smoker,Tarragona,0,Low
+423,Male,16,Spanish,,Barcelona,0,Low
+424,Male,23,Spanish,Never smoker,Barcelona,0,
+425,Male,75,Spanish,,Central Catalonia,2,
+426,Female,58,Spanish,Ever smoker,Barcelona,0,Very Low
+427,Female,35,Spanish,Never smoker,Barcelona,0,
+428,Female,52,Spanish,,Barcelona,2,Very Low
+429,Male,40,Spanish,,Tarragona,2,
+430,Female,55,Spanish,,Central Catalonia,0,Moderate/Middle
+431,Female,25,Spanish,Ever smoker,Girona,1,
+432,Male,90,Spanish,Never smoker,Barcelona,0,
+433,Male,32,Spanish,,Tarragona,0,Very Low
+434,Female,22,Spanish,Never smoker,Girona,2,Very Low
+435,Male,63,Spanish,Ever smoker,Tarragona,1,Moderate/Middle
+436,Female,19,Spanish,Never smoker,Barcelona,1,Moderate/Middle
+437,Female,89,Spanish,Never smoker,Barcelona,0,
+438,Female,50,Non-spanish,,Barcelona,2,
+439,Female,16,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+440,Female,59,Spanish,Ever smoker,Barcelona,0,Very Low
+441,Male,13,Spanish,Ever smoker,Lleida,0,
+442,Male,48,Spanish,Ever smoker,Barcelona,0,
+443,Female,61,Spanish,,Barcelona,0,
+444,Male,46,Spanish,,Tarragona,1,Moderate/Middle
+445,Female,80,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+446,Male,47,Spanish,Never smoker,Lleida,2,Low
+447,Female,47,Spanish,,Barcelona,1,Low
+448,Male,42,Spanish,,Barcelona,2,Low
+449,Male,40,Non-spanish,Ever smoker,Barcelona,2,
+450,Male,17,Spanish,Ever smoker,Tarragona,1,Very Low
+451,Male,56,Spanish,,Barcelona,0,Moderate/Middle
+452,Male,35,Spanish,Ever smoker,Central Catalonia,0,Moderate/Middle
+453,Male,47,Spanish,,Lleida,1,Low
+454,Male,41,Non-spanish,Never smoker,Girona,2,Moderate/Middle
+455,Male,15,Spanish,,Barcelona,0,Moderate/Middle
+456,Female,93,Non-spanish,Never smoker,Barcelona,2,Very Low
+457,Female,90,Spanish,,Lleida,0,Low
+458,Male,15,Spanish,,Tarragona,0,
+459,Male,41,Spanish,Never smoker,Barcelona,1,Low
+460,Male,66,Spanish,Ever smoker,Central Catalonia,0,Very Low
+461,Male,51,Spanish,,Barcelona,0,Moderate/Middle
+462,Male,80,Spanish,,Barcelona,2,Moderate/Middle
+463,Male,58,Spanish,,Barcelona,0,Moderate/Middle
+464,Female,96,Spanish,,Barcelona,1,
+465,Male,90,Spanish,Never smoker,Barcelona,2,Low
+466,Male,41,Spanish,,Tarragona,0,Low
+467,Female,20,Non-spanish,,Barcelona,1,Moderate/Middle
+468,Male,25,Spanish,Ever smoker,Barcelona,0,Very Low
+469,Female,9,Spanish,Never smoker,Barcelona,2,Low
+470,Female,27,Spanish,Ever smoker,Barcelona,0,Low
+471,Male,16,Spanish,,Terres de l’Ebre,1,Moderate/Middle
+472,Female,38,Spanish,,Barcelona,0,Moderate/Middle
+473,Female,48,Spanish,Never smoker,Girona,0,Moderate/Middle
+474,Male,71,Spanish,Never smoker,Barcelona,1,Moderate/Middle
+475,Male,30,Spanish,,Barcelona,0,Low
+476,Female,38,Spanish,,Barcelona,2,Low
+477,Female,3,Spanish,,Barcelona,2,Moderate/Middle
+478,Female,18,Spanish,,Barcelona,0,
+479,Male,17,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+480,Female,28,Spanish,,Barcelona,0,Very Low
+481,Male,53,Spanish,,Barcelona,2,Low
+482,Female,49,Spanish,Never smoker,Lleida,2,Very Low
+483,Female,18,Spanish,Ever smoker,Barcelona,0,Low
+484,Female,93,Non-spanish,Ever smoker,Barcelona,0,
+485,Male,91,Non-spanish,,Barcelona,0,Low
+486,Female,1,Non-spanish,,Girona,2,
+487,Female,18,Spanish,Never smoker,Barcelona,0,
+488,Male,30,Spanish,Never smoker,Tarragona,1,Low
+489,Male,30,Spanish,,Barcelona,0,Very Low
+490,Male,3,Non-spanish,Ever smoker,Girona,0,
+491,Female,49,Spanish,Never smoker,Barcelona,0,Very Low
+492,Female,21,Spanish,,Barcelona,2,Low
+493,Male,20,Spanish,,Barcelona,1,Very Low
+494,Female,61,Spanish,Never smoker,Barcelona,0,Low
+495,Female,52,Spanish,Never smoker,Girona,2,Very Low
+496,Male,77,Spanish,,Barcelona,2,Moderate/Middle
+497,Female,2,Spanish,,Barcelona,0,
+498,Female,53,Spanish,Ever smoker,Barcelona,1,
+499,Male,42,Non-spanish,,Barcelona,0,Low
+500,Female,53,Spanish,Never smoker,Tarragona,0,Moderate/Middle
+501,Male,56,Spanish,Never smoker,Lleida,0,
+502,Female,28,Spanish,Never smoker,Barcelona,0,
+503,Female,94,Spanish,Never smoker,Barcelona,1,Very Low
+504,Male,35,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+505,Female,87,Spanish,,Barcelona,0,
+506,Female,1,Non-spanish,,Barcelona,0,Low
+507,Male,90,Spanish,,Barcelona,0,Low
+508,Female,95,Spanish,,Barcelona,1,Moderate/Middle
+509,Female,48,Spanish,,Central Catalonia,0,Very Low
+510,Male,26,Spanish,Never smoker,Barcelona,0,Very Low
+511,Female,0,Spanish,,Barcelona,2,
+512,Female,39,Non-spanish,Ever smoker,Tarragona,0,Moderate/Middle
+513,Female,48,Spanish,,Barcelona,0,
+514,Male,10,Spanish,,Barcelona,2,Moderate/Middle
+515,Female,45,Spanish,,Barcelona,2,Low
+516,Male,18,Spanish,Never smoker,Central Catalonia,0,Moderate/Middle
+517,Male,30,Spanish,Ever smoker,Barcelona,2,Low
+518,Female,41,Spanish,Ever smoker,Tarragona,2,Moderate/Middle
+519,Male,31,Non-spanish,Never smoker,Barcelona,0,
+520,Male,29,Spanish,Never smoker,Barcelona,1,
+521,Female,76,Spanish,Never smoker,Barcelona,0,Very Low
+522,Female,89,Spanish,Ever smoker,Barcelona,2,Very Low
+523,Female,42,Spanish,Never smoker,Barcelona,2,Low
+524,Male,51,Spanish,Ever smoker,Central Catalonia,2,Moderate/Middle
+525,Male,19,Spanish,Never smoker,Girona,1,Low
+526,Female,19,Non-spanish,,Barcelona,1,Moderate/Middle
+527,Female,37,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+528,Female,15,Non-spanish,,Barcelona,0,Very Low
+529,Female,29,Spanish,Never smoker,Barcelona,0,Low
+530,Male,39,Spanish,Never smoker,Tarragona,1,Very Low
+531,Female,66,Spanish,,Barcelona,0,Low
+532,Female,55,Spanish,,Lleida,0,Low
+533,Male,19,Non-spanish,Never smoker,Barcelona,0,Moderate/Middle
+534,Female,52,Spanish,,Alt Pirineu,2,Low
+535,Male,24,Non-spanish,,Barcelona,0,Very Low
+536,Female,16,Non-spanish,Ever smoker,Barcelona,1,
+537,Female,60,Spanish,Ever smoker,Barcelona,0,Low
+538,Female,64,Spanish,,Barcelona,0,Low
+539,Male,23,Spanish,Never smoker,Barcelona,0,Very Low
+540,Male,67,Spanish,,Barcelona,0,Very Low
+541,Female,30,Spanish,Never smoker,Barcelona,0,Low
+542,Female,46,Spanish,Ever smoker,Barcelona,0,Moderate/Middle
+543,Male,51,Spanish,Never smoker,Barcelona,1,Low
+544,Female,39,Spanish,,Barcelona,2,Very Low
+545,Female,59,Spanish,,Central Catalonia,2,Low
+546,Female,5,Spanish,Ever smoker,Barcelona,0,Moderate/Middle
+547,Female,62,Spanish,,Tarragona,2,Very Low
+548,Female,60,Non-spanish,Never smoker,Barcelona,1,Low
+549,Female,56,Spanish,Ever smoker,Tarragona,0,Low
+550,Male,15,Spanish,,Barcelona,0,Moderate/Middle
+551,Male,4,Spanish,Never smoker,Barcelona,1,Very Low
+552,Male,37,Spanish,Never smoker,Girona,2,Moderate/Middle
+553,Male,82,Spanish,,Barcelona,0,Moderate/Middle
+554,Male,55,Spanish,,Barcelona,0,
+555,Female,22,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+556,Female,26,Spanish,,Barcelona,1,Low
+557,Female,30,Spanish,,Barcelona,0,Low
+558,Male,25,Spanish,,Barcelona,2,Low
+559,Male,50,Non-spanish,Never smoker,Barcelona,2,Low
+560,Female,79,Spanish,Ever smoker,Barcelona,0,Moderate/Middle
+561,Male,50,Spanish,,Barcelona,2,Moderate/Middle
+562,Female,55,Spanish,Never smoker,Barcelona,2,Low
+563,Female,18,Non-spanish,,Barcelona,2,Low
+564,Female,55,Spanish,Never smoker,Barcelona,2,Moderate/Middle
+565,Female,15,Spanish,Never smoker,Girona,0,Low
+566,Female,5,Spanish,,Barcelona,1,Moderate/Middle
+567,Female,15,Spanish,Ever smoker,Barcelona,0,Very Low
+568,Female,1,Spanish,Ever smoker,Central Catalonia,0,
+569,Female,69,Non-spanish,Never smoker,Lleida,0,Very Low
+570,Male,20,Spanish,Never smoker,Barcelona,0,Low
+571,Male,51,Spanish,Ever smoker,Tarragona,1,Low
+572,Male,74,Spanish,,Central Catalonia,0,Low
+573,Female,47,Spanish,Never smoker,Barcelona,0,Low
+574,Male,5,Spanish,Ever smoker,Barcelona,0,Low
+575,Male,37,Spanish,,Lleida,0,
+576,Female,6,Spanish,Never smoker,Girona,1,
+577,Female,34,Spanish,,Barcelona,2,Very Low
+578,Male,47,Spanish,,Barcelona,0,
+579,Male,88,Spanish,Ever smoker,Girona,0,
+580,Male,42,Spanish,,Barcelona,0,Moderate/Middle
+581,Female,23,Spanish,,Barcelona,2,Very Low
+582,Female,20,Spanish,Ever smoker,Barcelona,0,
+583,Male,24,Spanish,Ever smoker,Lleida,0,
+584,Male,63,Spanish,Never smoker,Barcelona,2,
+585,Female,24,Spanish,,Barcelona,1,Low
+586,Male,39,Non-spanish,Never smoker,Tarragona,2,Moderate/Middle
+587,Male,94,Spanish,,Tarragona,2,Low
+588,Female,51,Spanish,,Barcelona,0,
+589,Male,3,Spanish,Never smoker,Girona,2,Moderate/Middle
+590,Female,62,Spanish,Never smoker,Barcelona,0,Very Low
+591,Male,59,Spanish,Ever smoker,Barcelona,2,Moderate/Middle
+592,Male,34,Non-spanish,,Barcelona,0,Moderate/Middle
+593,Female,86,Spanish,,Barcelona,0,Low
+594,Female,48,Spanish,Never smoker,Lleida,0,Low
+595,Female,44,Spanish,,Barcelona,2,Very Low
+596,Male,47,Non-spanish,Ever smoker,Lleida,0,Moderate/Middle
+597,Female,85,Non-spanish,,Barcelona,1,Very Low
+598,Male,32,Spanish,Never smoker,Barcelona,1,Low
+599,Female,50,Spanish,Ever smoker,Barcelona,0,Moderate/Middle
+600,Male,26,Spanish,,Lleida,0,Moderate/Middle
+601,Male,58,Spanish,,Barcelona,0,Very Low
+602,Male,54,Spanish,Never smoker,Tarragona,0,Very Low
+603,Male,47,Non-spanish,,Barcelona,1,Low
+604,Female,74,Spanish,Never smoker,Tarragona,1,Low
+605,Female,20,Spanish,,Barcelona,1,Very Low
+606,Female,43,Spanish,,Barcelona,0,Low
+607,Male,22,Spanish,,Barcelona,0,
+608,Male,16,Spanish,,Barcelona,0,Very Low
+609,Male,25,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+610,Male,63,Spanish,,Central Catalonia,1,Moderate/Middle
+611,Male,21,Spanish,Ever smoker,Girona,0,Very Low
+612,Female,64,Spanish,,Barcelona,2,Very Low
+613,Female,19,Non-spanish,,Lleida,0,Very Low
+614,Female,48,Spanish,,Barcelona,2,Low
+615,Male,66,Spanish,Never smoker,Barcelona,2,Low
+616,Female,51,Spanish,Ever smoker,Barcelona,0,Low
+617,Female,2,Non-spanish,,Barcelona,0,Very Low
+618,Female,16,Spanish,Ever smoker,Girona,1,Moderate/Middle
+619,Female,39,Spanish,Never smoker,Barcelona,2,Low
+620,Male,3,Spanish,Never smoker,Barcelona,1,Moderate/Middle
+621,Male,45,Non-spanish,Never smoker,Barcelona,1,Low
+622,Male,80,Spanish,,Girona,1,Low
+623,Female,58,Spanish,,Barcelona,0,Moderate/Middle
+624,Female,60,Non-spanish,,Tarragona,0,
+625,Female,56,Spanish,,Barcelona,0,Moderate/Middle
+626,Female,19,Spanish,Never smoker,Barcelona,1,Low
+627,Female,7,Non-spanish,,Central Catalonia,0,Low
+628,Female,5,Spanish,Ever smoker,Lleida,1,Very Low
+629,Female,79,Non-spanish,,Central Catalonia,1,
+630,Male,37,Spanish,Never smoker,Lleida,0,Low
+631,Female,57,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+632,Female,47,Spanish,Ever smoker,Lleida,0,Moderate/Middle
+633,Female,17,Non-spanish,Never smoker,Barcelona,1,
+634,Male,63,Spanish,Never smoker,Barcelona,2,Very Low
+635,Female,78,Spanish,,Barcelona,2,Moderate/Middle
+636,Female,13,Spanish,Ever smoker,Barcelona,0,Low
+637,Male,57,Spanish,,Central Catalonia,0,
+638,Male,93,Spanish,Ever smoker,Terres de l’Ebre,1,
+639,Female,41,Spanish,Never smoker,Tarragona,0,Moderate/Middle
+640,Female,8,Spanish,Ever smoker,Barcelona,2,Low
+641,Female,37,Spanish,,Barcelona,2,Low
+642,Female,44,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+643,Male,76,Spanish,,Barcelona,0,Moderate/Middle
+644,Female,7,Spanish,Ever smoker,Barcelona,0,Moderate/Middle
+645,Female,49,Spanish,Ever smoker,Barcelona,2,
+646,Male,78,Spanish,,Barcelona,0,Low
+647,Female,73,Spanish,Never smoker,Tarragona,0,Low
+648,Male,56,Non-spanish,Ever smoker,Barcelona,1,Moderate/Middle
+649,Male,79,Non-spanish,Never smoker,Central Catalonia,2,Moderate/Middle
+650,Female,34,Spanish,,Girona,0,Moderate/Middle
+651,Male,47,Spanish,,Tarragona,0,Low
+652,Female,70,Non-spanish,,Barcelona,0,Very Low
+653,Female,64,Spanish,,Central Catalonia,0,Moderate/Middle
+654,Female,84,Spanish,Never smoker,Barcelona,0,Low
+655,Female,7,Non-spanish,Never smoker,Barcelona,2,Very Low
+656,Female,56,Spanish,,Barcelona,1,Moderate/Middle
+657,Female,7,Spanish,Ever smoker,Barcelona,0,Low
+658,Female,38,Spanish,Never smoker,Barcelona,0,
+659,Female,61,Spanish,,Terres de l’Ebre,2,Low
+660,Female,13,Spanish,,Barcelona,2,Moderate/Middle
+661,Female,10,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+662,Male,41,Spanish,,Barcelona,2,Low
+663,Female,59,Spanish,,Lleida,0,
+664,Female,21,Spanish,,Barcelona,0,Moderate/Middle
+665,Female,9,Spanish,Never smoker,Central Catalonia,0,
+666,Female,56,Spanish,Ever smoker,Barcelona,1,Low
+667,Female,7,Non-spanish,Never smoker,Central Catalonia,1,Low
+668,Male,41,Spanish,Never smoker,Tarragona,0,Low
+669,Male,2,Spanish,Never smoker,Tarragona,1,Low
+670,Female,56,Non-spanish,Ever smoker,Barcelona,1,Low
+671,Female,16,Spanish,Ever smoker,Barcelona,2,Moderate/Middle
+672,Male,61,Spanish,Never smoker,Barcelona,1,Moderate/Middle
+673,Female,17,Spanish,,Barcelona,0,Moderate/Middle
+674,Female,64,Spanish,Never smoker,Barcelona,1,Moderate/Middle
+675,Male,38,Spanish,Ever smoker,Barcelona,1,Very Low
+676,Male,30,Spanish,Ever smoker,Barcelona,2,
+677,Female,58,Spanish,Never smoker,Barcelona,0,Low
+678,Female,48,Spanish,Ever smoker,Barcelona,0,
+679,Male,41,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+680,Male,15,Spanish,Ever smoker,Barcelona,2,Moderate/Middle
+681,Female,26,Non-spanish,Never smoker,Barcelona,2,Moderate/Middle
+682,Male,82,Spanish,,Barcelona,1,Low
+683,Male,44,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+684,Female,38,Spanish,Never smoker,Terres de l’Ebre,0,Moderate/Middle
+685,Female,23,Spanish,Ever smoker,Barcelona,0,Very Low
+686,Male,58,Non-spanish,Never smoker,Barcelona,2,Moderate/Middle
+687,Female,26,Spanish,Ever smoker,Tarragona,0,Low
+688,Male,69,Spanish,Ever smoker,Girona,1,Low
+689,Male,15,Spanish,Never smoker,Barcelona,1,Low
+690,Female,55,Non-spanish,,Tarragona,2,Low
+691,Male,58,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+692,Female,45,Spanish,,Girona,1,Moderate/Middle
+693,Male,37,Spanish,Never smoker,Barcelona,1,Low
+694,Female,35,Spanish,Ever smoker,Girona,1,
+695,Female,62,Spanish,,Barcelona,0,Low
+696,Male,41,Spanish,,Tarragona,2,Moderate/Middle
+697,Female,92,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+698,Male,51,Spanish,Never smoker,Barcelona,0,Low
+699,Female,99,Spanish,Never smoker,Barcelona,1,
+700,Male,53,Spanish,,Barcelona,0,Moderate/Middle
+701,Male,7,Non-spanish,Never smoker,Barcelona,0,
+702,Male,39,Spanish,Ever smoker,Barcelona,0,
+703,Male,49,Spanish,,Central Catalonia,2,Low
+704,Male,39,Spanish,,Lleida,1,Low
+705,Female,0,Spanish,,Tarragona,0,Low
+706,Male,12,Spanish,,Barcelona,1,Low
+707,Female,44,Spanish,,Lleida,0,Moderate/Middle
+708,Male,51,Spanish,,Barcelona,2,Low
+709,Female,17,Non-spanish,,Barcelona,0,
+710,Female,33,Spanish,,Barcelona,0,Moderate/Middle
+711,Male,46,Spanish,,Barcelona,1,Moderate/Middle
+712,Male,42,Non-spanish,Never smoker,Barcelona,2,Moderate/Middle
+713,Male,57,Spanish,Never smoker,Central Catalonia,1,Low
+714,Male,57,Spanish,Never smoker,Barcelona,0,Low
+715,Female,37,Non-spanish,Never smoker,Tarragona,2,Moderate/Middle
+716,Male,10,Spanish,Never smoker,Central Catalonia,0,Low
+717,Male,25,Spanish,Never smoker,Barcelona,0,Low
+718,Female,19,Spanish,,Lleida,1,Low
+719,Female,64,Non-spanish,,Barcelona,2,Moderate/Middle
+720,Male,99,Spanish,Never smoker,Barcelona,0,
+721,Male,18,Spanish,Ever smoker,Girona,2,Low
+722,Male,22,Spanish,Ever smoker,Central Catalonia,0,
+723,Male,88,Spanish,Never smoker,Barcelona,0,Low
+724,Female,43,Spanish,Never smoker,Barcelona,1,Low
+725,Male,2,Spanish,,Alt Pirineu,0,Moderate/Middle
+726,Female,22,Spanish,,Girona,0,High
+727,Female,22,Spanish,Never smoker,Central Catalonia,1,
+728,Male,20,Spanish,,Barcelona,0,Low
+729,Male,19,Non-spanish,,Barcelona,2,Low
+730,Male,27,Spanish,,Central Catalonia,2,Low
+731,Female,29,Spanish,Never smoker,Barcelona,1,Very Low
+732,Male,42,Spanish,,Barcelona,0,Moderate/Middle
+733,Male,25,Spanish,,Girona,2,Low
+734,Female,50,Spanish,Never smoker,Alt Pirineu,0,
+735,Male,77,Non-spanish,Ever smoker,Barcelona,0,Moderate/Middle
+736,Male,71,Spanish,,Barcelona,0,Low
+737,Female,38,Spanish,Never smoker,Barcelona,0,Low
+738,Female,60,Spanish,,Barcelona,1,Low
+739,Female,64,Spanish,Ever smoker,Girona,2,Low
+740,Female,94,Spanish,,Barcelona,1,Moderate/Middle
+741,Female,38,Non-spanish,,Barcelona,0,Low
+742,Female,8,Spanish,,Barcelona,0,Very Low
+743,Male,15,Spanish,Never smoker,Barcelona,0,Low
+744,Female,69,Spanish,,Barcelona,0,Very Low
+745,Male,17,Spanish,Ever smoker,Girona,2,
+746,Male,49,Spanish,,Barcelona,0,Moderate/Middle
+747,Male,43,Spanish,,Barcelona,0,Very Low
+748,Female,24,Spanish,Never smoker,Barcelona,0,Very Low
+749,Female,21,Non-spanish,Never smoker,Girona,1,Low
+750,Female,85,Spanish,,Tarragona,0,Moderate/Middle
+751,Female,44,Spanish,,Barcelona,1,Low
+752,Female,85,Spanish,Never smoker,Central Catalonia,2,Low
+753,Male,62,Non-spanish,Never smoker,Barcelona,1,Moderate/Middle
+754,Female,60,Non-spanish,Ever smoker,Barcelona,0,Low
+755,Male,59,Non-spanish,Ever smoker,Barcelona,2,Moderate/Middle
+756,Male,51,Spanish,Never smoker,Barcelona,0,Low
+757,Male,64,Spanish,,Barcelona,1,Low
+758,Female,59,Non-spanish,,Barcelona,0,Moderate/Middle
+759,Female,57,Spanish,Ever smoker,Tarragona,2,Moderate/Middle
+760,Male,18,Spanish,,Girona,1,Moderate/Middle
+761,Male,20,Spanish,,Barcelona,0,Low
+762,Female,25,Spanish,Never smoker,Barcelona,1,Very Low
+763,Female,55,Non-spanish,Ever smoker,Girona,0,Moderate/Middle
+764,Female,63,Spanish,,Barcelona,0,Moderate/Middle
+765,Female,10,Spanish,,Terres de l’Ebre,1,Moderate/Middle
+766,Female,82,Non-spanish,Ever smoker,Barcelona,0,Very Low
+767,Female,48,Spanish,Never smoker,Girona,0,Low
+768,Male,52,Spanish,Never smoker,Girona,1,Moderate/Middle
+769,Female,51,Spanish,Never smoker,Lleida,0,Moderate/Middle
+770,Female,98,Spanish,,Barcelona,0,
+771,Male,30,Non-spanish,Never smoker,Lleida,1,Low
+772,Female,72,Spanish,,Barcelona,2,Moderate/Middle
+773,Male,45,Spanish,Never smoker,Barcelona,0,Low
+774,Male,48,Spanish,,Barcelona,1,Very Low
+775,Female,28,Spanish,Ever smoker,Barcelona,2,Low
+776,Male,17,Spanish,,Barcelona,0,Very Low
+777,Female,43,Spanish,Never smoker,Central Catalonia,1,Low
+778,Female,59,Spanish,Never smoker,Tarragona,2,
+779,Male,54,Spanish,Ever smoker,Barcelona,1,Low
+780,Male,50,Spanish,,Barcelona,0,Moderate/Middle
+781,Male,44,Spanish,,Barcelona,2,Very Low
+782,Male,27,Spanish,,Barcelona,1,Low
+783,Male,12,Spanish,,Terres de l’Ebre,0,Moderate/Middle
+784,Male,80,Spanish,,Lleida,1,Low
+785,Male,42,Spanish,Never smoker,Tarragona,0,Low
+786,Male,40,Spanish,Never smoker,Barcelona,0,Low
+787,Male,16,Spanish,,Central Catalonia,1,Moderate/Middle
+788,Female,67,Spanish,,Lleida,1,Moderate/Middle
+789,Female,21,Spanish,,Barcelona,1,Moderate/Middle
+790,Male,32,Spanish,,Barcelona,0,Low
+791,Female,18,Non-spanish,,Lleida,2,Moderate/Middle
+792,Female,86,Spanish,Never smoker,Barcelona,0,Low
+793,Male,46,Spanish,Ever smoker,Barcelona,1,Low
+794,Male,54,Spanish,,Lleida,0,
+795,Male,22,Spanish,Never smoker,Barcelona,0,Low
+796,Female,17,Spanish,,Central Catalonia,2,Moderate/Middle
+797,Female,22,Spanish,Never smoker,Barcelona,0,Low
+798,Male,39,Spanish,,Barcelona,1,Low
+799,Female,87,Spanish,,Girona,0,Low
+800,Male,37,Spanish,Ever smoker,Barcelona,1,
+801,Male,18,Spanish,,Barcelona,0,Low
+802,Male,41,Spanish,Ever smoker,Barcelona,2,Low
+803,Female,50,Spanish,Ever smoker,Barcelona,1,Low
+804,Male,58,Spanish,,Tarragona,2,Low
+805,Male,69,Spanish,Never smoker,Barcelona,0,Very Low
+806,Female,51,Spanish,,Barcelona,0,Very Low
+807,Female,65,Spanish,,Barcelona,0,Low
+808,Female,17,Spanish,,Barcelona,0,Low
+809,Male,16,Spanish,,Girona,0,Very Low
+810,Male,74,Spanish,,Central Catalonia,1,
+811,Female,18,Non-spanish,Ever smoker,Central Catalonia,0,Moderate/Middle
+812,Female,19,Spanish,,Girona,1,Low
+813,Female,73,Spanish,,Barcelona,0,Very Low
+814,Male,59,Spanish,Ever smoker,Lleida,0,Very Low
+815,Male,37,Spanish,,Barcelona,0,Low
+816,Female,54,Spanish,,Barcelona,0,
+817,Female,71,Spanish,Never smoker,Barcelona,0,
+818,Female,19,Spanish,,Central Catalonia,1,Low
+819,Male,36,Spanish,Ever smoker,Barcelona,0,Moderate/Middle
+820,Female,71,Non-spanish,Ever smoker,Barcelona,0,Moderate/Middle
+821,Male,35,Spanish,Never smoker,Barcelona,1,Moderate/Middle
+822,Female,26,Spanish,Never smoker,Central Catalonia,2,Low
+823,Female,28,Spanish,,Alt Pirineu,1,Low
+824,Female,27,Spanish,,Barcelona,2,Moderate/Middle
+825,Male,17,Non-spanish,,Barcelona,0,Low
+826,Female,11,Spanish,Never smoker,Terres de l’Ebre,0,Moderate/Middle
+827,Female,38,Spanish,Never smoker,Barcelona,0,Low
+828,Female,11,Spanish,,Lleida,2,Low
+829,Male,13,Non-spanish,Ever smoker,Barcelona,0,Low
+830,Male,61,Non-spanish,Ever smoker,Central Catalonia,0,Low
+831,Female,39,Spanish,Ever smoker,Central Catalonia,0,Low
+832,Male,38,Spanish,,Barcelona,0,Low
+833,Female,61,Spanish,,Barcelona,1,Low
+834,Male,29,Non-spanish,Never smoker,Girona,0,Low
+835,Female,53,Spanish,Never smoker,Tarragona,2,Moderate/Middle
+836,Female,66,Spanish,Ever smoker,Girona,0,
+837,Female,85,Spanish,Ever smoker,Barcelona,0,
+838,Female,80,Spanish,,Barcelona,1,Low
+839,Female,17,Spanish,,Barcelona,1,Moderate/Middle
+840,Female,0,Non-spanish,Never smoker,Barcelona,2,Low
+841,Female,46,Spanish,,Central Catalonia,0,Low
+842,Female,33,Spanish,,Lleida,1,Low
+843,Female,81,Spanish,,Girona,2,Low
+844,Female,52,Non-spanish,,Barcelona,1,Very Low
+845,Male,48,Spanish,Never smoker,Barcelona,1,Very Low
+846,Female,5,Spanish,,Lleida,0,Moderate/Middle
+847,Male,18,Spanish,,Barcelona,0,
+848,Female,28,Non-spanish,,Tarragona,0,Low
+849,Male,90,Spanish,,Barcelona,0,Low
+850,Female,21,Spanish,,Barcelona,0,Very Low
+851,Female,35,Spanish,Never smoker,Barcelona,2,Low
+852,Male,50,Spanish,Ever smoker,Barcelona,2,Low
+853,Male,91,Spanish,Ever smoker,Alt Pirineu,0,Low
+854,Female,18,Spanish,,Barcelona,2,
+855,Male,21,Spanish,Ever smoker,Tarragona,0,
+856,Female,15,Spanish,Ever smoker,Barcelona,0,Very Low
+857,Female,54,Non-spanish,Ever smoker,Barcelona,1,Low
+858,Male,24,Spanish,,Barcelona,1,Very Low
+859,Male,61,Spanish,Never smoker,Barcelona,2,Very Low
+860,Female,68,Spanish,Ever smoker,Barcelona,2,Low
+861,Female,17,Spanish,Ever smoker,Barcelona,2,
+862,Female,23,Spanish,Ever smoker,Barcelona,2,
+863,Female,15,Spanish,,Barcelona,0,Moderate/Middle
+864,Female,39,Non-spanish,Ever smoker,Barcelona,0,Moderate/Middle
+865,Male,56,Spanish,Never smoker,Barcelona,1,Low
+866,Female,37,Spanish,Never smoker,Barcelona,0,Low
+867,Female,79,Spanish,,Barcelona,1,Low
+868,Male,44,Non-spanish,Ever smoker,Barcelona,0,
+869,Male,15,Spanish,,Barcelona,0,Moderate/Middle
+870,Male,54,Spanish,,Barcelona,1,High
+871,Female,47,Spanish,Never smoker,Girona,0,Moderate/Middle
+872,Female,27,Spanish,Never smoker,Central Catalonia,2,Moderate/Middle
+873,Male,42,Spanish,,Barcelona,1,Moderate/Middle
+874,Female,7,Spanish,Ever smoker,Barcelona,1,Low
+875,Male,33,Spanish,,Tarragona,0,Low
+876,Female,48,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+877,Female,65,Spanish,Never smoker,Barcelona,0,
+878,Male,38,Spanish,Ever smoker,Barcelona,1,Low
+879,Female,69,Spanish,,Barcelona,0,
+880,Female,47,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+881,Male,38,Spanish,Ever smoker,Barcelona,2,Low
+882,Male,57,Non-spanish,Never smoker,Girona,0,Low
+883,Female,66,Non-spanish,Never smoker,Tarragona,0,Low
+884,Male,81,Spanish,Never smoker,Tarragona,0,Low
+885,Female,12,Spanish,Ever smoker,Barcelona,1,
+886,Male,38,Spanish,Ever smoker,Barcelona,0,Moderate/Middle
+887,Male,64,Spanish,,Girona,1,Low
+888,Male,34,Non-spanish,,Barcelona,0,Low
+889,Male,15,Spanish,,Barcelona,0,Low
+890,Female,38,Spanish,,Girona,2,
+891,Female,72,Spanish,,Barcelona,0,Low
+892,Male,27,Spanish,Ever smoker,Barcelona,0,Moderate/Middle
+893,Female,26,Spanish,Ever smoker,Central Catalonia,0,Low
+894,Male,50,Spanish,,Barcelona,2,Low
+895,Female,88,Spanish,Never smoker,Barcelona,2,
+896,Female,78,Spanish,,Barcelona,0,Low
+897,Female,53,Spanish,,Barcelona,2,Low
+898,Female,24,Spanish,,Lleida,0,Moderate/Middle
+899,Female,31,Spanish,Ever smoker,Barcelona,0,
+900,Female,43,Non-spanish,Never smoker,Barcelona,0,Low
+901,Female,41,Spanish,,Barcelona,0,
+902,Male,58,Spanish,,Lleida,1,Very Low
+903,Female,23,Spanish,Never smoker,Barcelona,2,Very Low
+904,Male,54,Spanish,Never smoker,Barcelona,2,Moderate/Middle
+905,Male,90,Non-spanish,Ever smoker,Barcelona,0,Low
+906,Female,77,Spanish,,Barcelona,2,Moderate/Middle
+907,Female,44,Spanish,Never smoker,Central Catalonia,0,Very Low
+908,Female,17,Spanish,Never smoker,Girona,0,Low
+909,Male,24,Spanish,,Barcelona,1,Low
+910,Male,52,Spanish,Ever smoker,Lleida,2,Low
+911,Male,17,Spanish,,Central Catalonia,2,Moderate/Middle
+912,Female,17,Non-spanish,,Barcelona,0,Very Low
+913,Male,25,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+914,Male,76,Spanish,,Barcelona,0,Low
+915,Male,88,Spanish,Ever smoker,Barcelona,0,Low
+916,Female,29,Spanish,Ever smoker,Barcelona,2,
+917,Male,50,Spanish,Ever smoker,Girona,1,Low
+918,Female,5,Spanish,Ever smoker,Girona,1,Moderate/Middle
+919,Female,46,Spanish,Never smoker,Barcelona,0,Low
+920,Female,15,Spanish,,Girona,0,Low
+921,Female,55,Spanish,,Barcelona,2,Low
+922,Male,62,Spanish,Never smoker,Tarragona,0,Low
+923,Male,31,Spanish,,Barcelona,1,Low
+924,Female,32,Spanish,Ever smoker,Barcelona,1,Low
+925,Female,44,Spanish,,Barcelona,0,Low
+926,Male,61,Spanish,Ever smoker,Central Catalonia,0,Low
+927,Male,64,Spanish,Never smoker,Girona,0,Moderate/Middle
+928,Female,99,Spanish,Ever smoker,Barcelona,2,Moderate/Middle
+929,Male,61,Spanish,Never smoker,Barcelona,0,Very Low
+930,Female,55,Spanish,,Barcelona,0,Moderate/Middle
+931,Male,21,Spanish,Never smoker,Barcelona,2,Low
+932,Male,12,Spanish,Never smoker,Barcelona,0,Low
+933,Female,5,Spanish,,Barcelona,2,Moderate/Middle
+934,Female,83,Non-spanish,Ever smoker,Girona,2,
+935,Female,22,Spanish,,Barcelona,2,Very Low
+936,Male,98,Non-spanish,,Barcelona,1,Moderate/Middle
+937,Female,52,Spanish,,Central Catalonia,0,Low
+938,Female,44,Non-spanish,Ever smoker,Barcelona,0,Very Low
+939,Male,41,Spanish,Never smoker,Barcelona,2,Low
+940,Male,53,Spanish,,Barcelona,0,Very Low
+941,Female,59,Spanish,Ever smoker,Barcelona,0,Low
+942,Male,60,Spanish,,Alt Pirineu,0,Low
+943,Male,17,Spanish,,Tarragona,1,Moderate/Middle
+944,Female,24,Spanish,,Barcelona,0,
+945,Male,88,Spanish,Never smoker,Barcelona,2,Low
+946,Female,60,Spanish,,Barcelona,2,Low
+947,Male,54,Spanish,,Barcelona,1,Moderate/Middle
+948,Female,66,Spanish,Ever smoker,Lleida,2,Moderate/Middle
+949,Female,62,Non-spanish,,Girona,0,Low
+950,Female,66,Spanish,,Girona,0,Low
+951,Male,20,Spanish,,Girona,2,Low
+952,Male,16,Spanish,,Barcelona,1,Very Low
+953,Female,42,Spanish,,Barcelona,0,Low
+954,Female,23,Spanish,,Barcelona,0,Low
+955,Male,15,Spanish,Ever smoker,Barcelona,0,Very Low
+956,Male,54,Spanish,,Barcelona,0,Very Low
+957,Male,0,Spanish,Never smoker,Alt Pirineu,0,Low
+958,Male,77,Spanish,Ever smoker,Tarragona,0,
+959,Male,64,Spanish,,Barcelona,2,Moderate/Middle
+960,Male,85,Spanish,,Barcelona,0,Moderate/Middle
+961,Female,58,Non-spanish,Ever smoker,Barcelona,2,Moderate/Middle
+962,Male,44,Spanish,,Barcelona,0,Moderate/Middle
+963,Female,15,Non-spanish,Ever smoker,Lleida,1,Low
+964,Male,31,Non-spanish,,Barcelona,2,
+965,Female,22,Spanish,Never smoker,Barcelona,0,Moderate/Middle
+966,Female,87,Spanish,,Barcelona,0,Moderate/Middle
+967,Female,34,Spanish,Ever smoker,Central Catalonia,2,Low
+968,Female,96,Spanish,Never smoker,Central Catalonia,2,Low
+969,Female,51,Spanish,Ever smoker,Barcelona,1,Low
+970,Female,38,Non-spanish,Never smoker,Barcelona,1,Very Low
+971,Male,81,Spanish,,Barcelona,1,Low
+972,Female,36,Spanish,,Barcelona,1,Low
+973,Male,23,Non-spanish,Ever smoker,Central Catalonia,2,Moderate/Middle
+974,Male,35,Spanish,,Barcelona,1,
+975,Male,60,Spanish,,Terres de l’Ebre,1,Very Low
+976,Female,49,Spanish,,Barcelona,2,Moderate/Middle
+977,Male,47,Spanish,Never smoker,Lleida,0,Moderate/Middle
+978,Female,59,Spanish,,Barcelona,1,
+979,Male,49,Non-spanish,Ever smoker,Barcelona,0,Low
+980,Female,43,Spanish,Never smoker,Barcelona,0,Low
+981,Male,11,Spanish,,Barcelona,2,
+982,Male,47,Spanish,,Barcelona,0,Very Low
+983,Male,39,Non-spanish,Never smoker,Barcelona,0,Moderate/Middle
+984,Female,43,Spanish,,Barcelona,1,
+985,Female,29,Spanish,,Barcelona,0,Low
+986,Male,44,Spanish,Never smoker,Tarragona,1,Moderate/Middle
+987,Female,40,Spanish,Ever smoker,Barcelona,0,Low
+988,Female,19,Spanish,,Barcelona,1,Low
+989,Male,44,Non-spanish,,Barcelona,1,Low
+990,Female,63,Spanish,Ever smoker,Central Catalonia,1,Low
+991,Male,69,Spanish,,Barcelona,1,Moderate/Middle
+992,Male,87,Spanish,,Tarragona,1,Low
+993,Female,4,Spanish,,Barcelona,0,Low
+994,Male,64,Non-spanish,,Barcelona,2,Low
+995,Male,17,Spanish,,Barcelona,2,Low
+996,Male,16,Spanish,Never smoker,Central Catalonia,2,Low
+997,Male,35,Spanish,Never smoker,Tarragona,1,
+998,Female,63,Spanish,,Barcelona,0,Very Low
+999,Female,9,Spanish,Ever smoker,Girona,0,Low
+1000,Male,23,Spanish,Never smoker,Barcelona,2,Moderate/Middle
