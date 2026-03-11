@@ -29,7 +29,7 @@ weights_age = [0.095, 0.119, 0.161, 0.458, 0.167]
 df['age'] = np.random.choice(rangs_age, size=len(df), p=weights_age)
 
 # 4. Aplicar el buidatge (si vols mantenir la coherència del 85% de cobertura)
-# Tot i que l'edat sol tenir una cobertura alta (98-100%), apliquem un soroll del 5% per realisme [cite: 238]
+# Soroll del 5% per realisme
 num_buits_age = int(len(df) * 0.05)
 indexs_buits_age = np.random.choice(df.index, size=num_buits_age, replace=False)
 df.loc[indexs_buits_age, 'age'] = np.nan
