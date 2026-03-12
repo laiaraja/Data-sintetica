@@ -1,1001 +1,1001 @@
-id,sex,age,comorbidities,comorbidities_esp_1,comorbidities_esp_2,smoking_status
-1,Female,62,2,Musculoskeletal Disorders,Arthritis,
-2,Male,27,2,Arthrosis,Hypertension,Never smoker
-3,Male,36,0,0,0,
-4,Male,42,0,0,0,
-5,Male,52,1,Hypertension,0,Ever smoker
-6,Male,19,1,Arthrosis,0,Never smoker
-7,Female,39,0,0,0,Ever smoker
-8,Male,20,2,Diabetes,Musculoskeletal Disorders,
-9,Male,41,0,0,0,Never smoker
-10,Male,10,0,0,0,
-11,Female,27,0,0,0,
-12,Female,71,0,0,0,
-13,Male,67,0,0,0,
-14,Male,95,0,0,0,Never smoker
-15,Female,43,0,0,0,
-16,Female,8,1,COPD,0,
-17,Male,7,1,Arthrosis,0,Never smoker
-18,Female,37,2,Arthritis,Osteoporosis,
-19,Male,14,0,0,0,
-20,Male,50,0,0,0,Never smoker
-21,Female,17,1,Diabetes,0,
-22,Male,19,2,Hypertension,Arthrosis,
-23,Male,22,2,Ischemic stroke,Musculoskeletal Disorders,
-24,Male,88,0,0,0,
-25,Male,25,0,0,0,Never smoker
-26,Male,16,0,0,0,Ever smoker
-27,Female,45,0,0,0,
-28,Male,84,0,0,0,
-29,Male,64,2,Musculoskeletal Disorders,Hypertension,Never smoker
-30,Female,28,1,Arthrosis,0,Never smoker
-31,Female,57,0,0,0,
-32,Male,17,2,Asthma,Hypertension,
-33,Male,73,0,0,0,
-34,Female,70,0,0,0,
-35,Male,37,0,0,0,Ever smoker
-36,Female,23,0,0,0,Never smoker
-37,Female,58,2,Neoplasms,COPD,
-38,Female,76,0,0,0,Ever smoker
-39,Female,38,0,0,0,
-40,Female,44,0,0,0,
-41,Female,78,2,Arthritis,Diabetes,
-42,Male,54,1,Arthrosis,0,
-43,Male,26,2,Musculoskeletal Disorders,Chronic kidney disease,
-44,Female,4,0,0,0,Never smoker
-45,Female,47,2,Hypertension,Arthritis,Ever smoker
-46,Male,40,0,0,0,Never smoker
-47,Male,60,0,0,0,
-48,Female,77,0,0,0,Ever smoker
-49,Female,61,0,0,0,Ever smoker
-50,Male,73,0,0,0,Never smoker
-51,Female,99,0,0,0,Never smoker
-52,Male,35,2,Diabetes,Ischemic stroke,Never smoker
-53,Male,6,0,0,0,
-54,Female,47,1,Arthrosis,0,Never smoker
-55,Male,71,2,Neoplasms,Asthma,
-56,Male,38,2,Osteoporosis,Hypertension,Never smoker
-57,Female,18,2,Diabetes,Musculoskeletal Disorders,
-58,Female,23,1,Chronic kidney disease,0,
-59,Female,59,0,0,0,
-60,Male,35,0,0,0,
-61,Female,23,1,COPD,0,Never smoker
-62,Female,41,1,Arthrosis,0,
-63,Female,15,2,Musculoskeletal Disorders,Hypertension,Never smoker
-64,Male,26,0,0,0,
-65,Male,16,1,Osteoporosis,0,
-66,Male,54,0,0,0,Never smoker
-67,Male,49,0,0,0,Ever smoker
-68,Male,33,2,Musculoskeletal Disorders,Hypertension,Never smoker
-69,Female,35,0,0,0,Ever smoker
-70,Female,25,1,Chronic kidney disease,0,Ever smoker
-71,Male,14,2,Hypertension,Musculoskeletal Disorders,Ever smoker
-72,Female,57,2,Neoplasms,COPD,Never smoker
-73,Male,85,0,0,0,Never smoker
-74,Male,61,2,Diabetes,Ischemic stroke,Never smoker
-75,Female,43,2,Dementia,Neoplasms,
-76,Female,10,1,COPD,0,Ever smoker
-77,Female,48,1,Arthrosis,0,Never smoker
-78,Male,22,1,Asthma,0,
-79,Male,43,0,0,0,
-80,Female,54,0,0,0,
-81,Female,49,1,Musculoskeletal Disorders,0,
-82,Female,21,0,0,0,
-83,Female,26,1,Asthma,0,
-84,Male,46,0,0,0,Ever smoker
-85,Male,41,2,Heart failure,Musculoskeletal Disorders,
-86,Female,50,0,0,0,
-87,Female,7,0,0,0,
-88,Female,54,0,0,0,Never smoker
-89,Male,36,0,0,0,
-90,Female,79,2,Asthma,Neoplasms,Never smoker
-91,Male,9,1,Heart failure,0,
-92,Male,39,2,Arthritis,Diabetes,Never smoker
-93,Male,77,2,Dementia,COPD,
-94,Female,21,0,0,0,
-95,Female,17,0,0,0,Never smoker
-96,Male,25,0,0,0,Never smoker
-97,Female,61,0,0,0,Ever smoker
-98,Female,46,0,0,0,Never smoker
-99,Male,9,0,0,0,
-100,Female,60,0,0,0,Never smoker
-101,Male,27,2,Arthrosis,Chronic kidney disease,
-102,Female,78,2,Heart failure,Diabetes,Ever smoker
-103,Female,68,2,Hypertension,Asthma,
-104,Male,64,0,0,0,
-105,Female,43,1,Hypertension,0,Ever smoker
-106,Female,40,0,0,0,Never smoker
-107,Male,96,0,0,0,
-108,Female,43,0,0,0,Ever smoker
-109,Male,58,0,0,0,
-110,Female,58,0,0,0,Ever smoker
-111,Female,18,0,0,0,
-112,Female,18,1,Arthritis,0,Never smoker
-113,Male,34,1,Arthrosis,0,Ever smoker
-114,Female,44,1,Dementia,0,
-115,Female,19,0,0,0,Never smoker
-116,Female,81,0,0,0,
-117,Female,49,0,0,0,Never smoker
-118,Female,92,1,Osteoporosis,0,Ever smoker
-119,Male,15,2,Diabetes,Hypertension,Never smoker
-120,Female,16,1,Ischemic stroke,0,Ever smoker
-121,Male,67,0,0,0,Never smoker
-122,Male,53,0,0,0,
-123,Female,71,0,0,0,Ever smoker
-124,Female,8,1,Hypertension,0,Never smoker
-125,Female,63,0,0,0,Never smoker
-126,Female,25,0,0,0,
-127,Male,55,1,Musculoskeletal Disorders,0,Never smoker
-128,Male,46,0,0,0,
-129,Female,29,0,0,0,Never smoker
-130,Female,19,1,Arthrosis,0,
-131,Female,56,2,Arthritis,Heart failure,Never smoker
-132,Male,88,1,Musculoskeletal Disorders,0,Ever smoker
-133,Male,56,0,0,0,Ever smoker
-134,Female,40,0,0,0,
-135,Male,24,0,0,0,
-136,Female,25,0,0,0,
-137,Female,77,2,Diabetes,Arthrosis,
-138,Female,59,0,0,0,
-139,Male,35,2,Osteoporosis,Musculoskeletal Disorders,Ever smoker
-140,Male,16,1,Arthrosis,0,
-141,Female,67,1,Neoplasms,0,
-142,Male,75,1,Arthritis,0,Ever smoker
-143,Female,9,0,0,0,
-144,Female,25,0,0,0,
-145,Male,62,0,0,0,Ever smoker
-146,Male,1,0,0,0,Never smoker
-147,Male,51,0,0,0,Ever smoker
-148,Female,16,0,0,0,Never smoker
-149,Female,13,2,Hypertension,Arthritis,
-150,Female,19,0,0,0,Ever smoker
-151,Female,60,2,Asthma,Diabetes,Ever smoker
-152,Female,42,0,0,0,Never smoker
-153,Female,0,2,Diabetes,Arthrosis,
-154,Female,37,0,0,0,
-155,Male,92,0,0,0,
-156,Female,56,1,Hypertension,0,
-157,Female,62,0,0,0,
-158,Male,64,1,Diabetes,0,
-159,Male,99,0,0,0,
-160,Female,37,1,Chronic kidney disease,0,Never smoker
-161,Male,55,0,0,0,
-162,Male,86,0,0,0,
-163,Female,16,0,0,0,Never smoker
-164,Female,62,2,Asthma,Osteoporosis,Ever smoker
-165,Male,7,1,Dementia,0,
-166,Male,62,0,0,0,
-167,Female,17,2,Hypertension,Arthrosis,
-168,Male,26,0,0,0,Never smoker
-169,Female,41,0,0,0,Never smoker
-170,Male,59,0,0,0,
-171,Female,32,0,0,0,Ever smoker
-172,Male,68,0,0,0,Ever smoker
-173,Female,58,0,0,0,Ever smoker
-174,Female,55,1,Musculoskeletal Disorders,0,
-175,Female,91,2,Neoplasms,Hypertension,
-176,Male,18,0,0,0,
-177,Female,19,0,0,0,
-178,Female,39,2,Musculoskeletal Disorders,Osteoporosis,Never smoker
-179,Female,40,0,0,0,Never smoker
-180,Female,36,0,0,0,Ever smoker
-181,Male,17,0,0,0,Ever smoker
-182,Female,50,0,0,0,Never smoker
-183,Female,53,0,0,0,
-184,Female,27,0,0,0,
-185,Female,20,0,0,0,
-186,Female,17,0,0,0,
-187,Female,67,2,Diabetes,Dementia,
-188,Male,79,2,Musculoskeletal Disorders,Hypertension,
-189,Male,73,1,Hypertension,0,
-190,Female,92,0,0,0,Never smoker
-191,Male,32,2,Arthrosis,Musculoskeletal Disorders,Never smoker
-192,Female,94,0,0,0,Never smoker
-193,Female,62,2,Dementia,Diabetes,Never smoker
-194,Male,53,2,Musculoskeletal Disorders,Ischemic stroke,Ever smoker
-195,Male,55,2,Arthrosis,Chronic kidney disease,Never smoker
-196,Female,47,2,Hypertension,Asthma,Ever smoker
-197,Male,51,0,0,0,Ever smoker
-198,Male,15,1,Musculoskeletal Disorders,0,Ever smoker
-199,Female,36,0,0,0,Ever smoker
-200,Male,55,0,0,0,Ever smoker
-201,Female,61,0,0,0,
-202,Male,1,1,Arthritis,0,
-203,Male,59,0,0,0,Never smoker
-204,Female,87,2,Dementia,Diabetes,
-205,Female,93,2,Ischemic stroke,Neoplasms,
-206,Male,27,0,0,0,
-207,Male,4,0,0,0,
-208,Female,54,2,Musculoskeletal Disorders,Asthma,Never smoker
-209,Male,16,0,0,0,Ever smoker
-210,Female,56,0,0,0,Never smoker
-211,Female,63,1,Arthritis,0,Ever smoker
-212,Female,32,2,Ischemic stroke,Heart failure,
-213,Male,60,1,Asthma,0,
-214,Male,77,2,Chronic kidney disease,Musculoskeletal Disorders,Never smoker
-215,Female,54,1,Diabetes,0,
-216,Female,27,0,0,0,
-217,Male,38,1,Ischemic stroke,0,
-218,Female,10,0,0,0,Never smoker
-219,Female,67,2,Arthrosis,Osteoporosis,Never smoker
-220,Male,58,0,0,0,Ever smoker
-221,Female,86,0,0,0,Ever smoker
-222,Male,50,1,Arthrosis,0,Never smoker
-223,Male,24,0,0,0,Never smoker
-224,Male,60,2,Diabetes,Musculoskeletal Disorders,Never smoker
-225,Female,10,0,0,0,Ever smoker
-226,Female,49,0,0,0,
-227,Female,64,0,0,0,Ever smoker
-228,Female,17,0,0,0,
-229,Female,10,1,Hypertension,0,Ever smoker
-230,Male,98,0,0,0,
-231,Female,20,0,0,0,
-232,Female,60,2,Musculoskeletal Disorders,Arthrosis,Ever smoker
-233,Female,57,2,Chronic kidney disease,Musculoskeletal Disorders,Never smoker
-234,Male,89,0,0,0,Never smoker
-235,Female,0,0,0,0,
-236,Male,46,2,Asthma,Diabetes,
-237,Male,64,2,Dementia,Neoplasms,Never smoker
-238,Male,65,2,Musculoskeletal Disorders,Asthma,Never smoker
-239,Female,43,2,Musculoskeletal Disorders,Arthrosis,
-240,Male,4,2,Hypertension,Musculoskeletal Disorders,Never smoker
-241,Male,12,1,Asthma,0,
-242,Male,39,2,Heart failure,Osteoporosis,Never smoker
-243,Female,40,1,Diabetes,0,Ever smoker
-244,Male,44,0,0,0,Ever smoker
-245,Female,4,0,0,0,Never smoker
-246,Female,20,0,0,0,Never smoker
-247,Male,18,2,COPD,Osteoporosis,Never smoker
-248,Male,42,1,Arthrosis,0,
-249,Male,17,0,0,0,
-250,Male,15,0,0,0,Never smoker
-251,Female,38,0,0,0,
-252,Female,8,2,Asthma,Dementia,Ever smoker
-253,Female,80,1,Dementia,0,Never smoker
-254,Female,86,0,0,0,
-255,Male,16,2,Osteoporosis,Musculoskeletal Disorders,Ever smoker
-256,Female,79,0,0,0,Ever smoker
-257,Male,45,1,Heart failure,0,Never smoker
-258,Female,45,1,Musculoskeletal Disorders,0,Ever smoker
-259,Male,91,2,Osteoporosis,Arthrosis,
-260,Female,40,0,0,0,
-261,Female,52,1,Ischemic stroke,0,
-262,Female,17,2,Arthrosis,COPD,
-263,Female,53,0,0,0,
-264,Female,58,0,0,0,
-265,Male,36,0,0,0,Never smoker
-266,Male,40,0,0,0,
-267,Male,63,0,0,0,
-268,Female,16,1,Musculoskeletal Disorders,0,
-269,Female,48,0,0,0,Ever smoker
-270,Female,51,1,Arthrosis,0,Never smoker
-271,Male,65,0,0,0,Never smoker
-272,Female,60,2,Neoplasms,Asthma,Ever smoker
-273,Female,24,0,0,0,Never smoker
-274,Female,78,2,Musculoskeletal Disorders,COPD,Ever smoker
-275,Female,54,0,0,0,
-276,Female,32,0,0,0,Never smoker
-277,Male,62,0,0,0,
-278,Female,31,1,Arthritis,0,Never smoker
-279,Female,40,1,Arthrosis,0,Never smoker
-280,Male,20,0,0,0,
-281,Male,19,0,0,0,Never smoker
-282,Male,40,0,0,0,Never smoker
-283,Male,54,2,Diabetes,Musculoskeletal Disorders,Never smoker
-284,Male,34,1,Diabetes,0,
-285,Female,80,0,0,0,Never smoker
-286,Male,96,2,COPD,Neoplasms,
-287,Female,5,2,Musculoskeletal Disorders,Chronic kidney disease,Never smoker
-288,Female,61,0,0,0,Never smoker
-289,Female,32,2,Diabetes,Asthma,Never smoker
-290,Female,39,2,Arthrosis,Hypertension,Ever smoker
-291,Male,15,2,Asthma,Arthrosis,Ever smoker
-292,Female,7,1,Arthritis,0,Never smoker
-293,Male,11,1,Hypertension,0,
-294,Male,4,0,0,0,
-295,Female,20,1,Arthrosis,0,
-296,Female,50,2,Asthma,Arthritis,
-297,Male,11,0,0,0,Ever smoker
-298,Female,17,0,0,0,Ever smoker
-299,Female,20,2,COPD,Chronic kidney disease,Ever smoker
-300,Male,57,2,Arthrosis,Asthma,
-301,Male,41,0,0,0,Ever smoker
-302,Female,40,1,Chronic kidney disease,0,
-303,Male,85,1,Chronic kidney disease,0,Never smoker
-304,Female,56,0,0,0,
-305,Male,38,2,Musculoskeletal Disorders,Neoplasms,Never smoker
-306,Male,6,0,0,0,
-307,Male,22,0,0,0,Ever smoker
-308,Female,38,0,0,0,Ever smoker
-309,Male,63,2,Musculoskeletal Disorders,Heart failure,Never smoker
-310,Female,58,2,Neoplasms,Asthma,
-311,Male,27,0,0,0,Never smoker
-312,Male,17,0,0,0,Ever smoker
-313,Male,64,2,Arthrosis,Hypertension,Never smoker
-314,Male,33,2,Musculoskeletal Disorders,Dementia,Never smoker
-315,Female,33,2,Osteoporosis,Ischemic stroke,Ever smoker
-316,Male,61,0,0,0,Never smoker
-317,Female,60,1,Dementia,0,Ever smoker
-318,Male,20,1,Hypertension,0,
-319,Male,34,0,0,0,Ever smoker
-320,Female,54,1,Arthrosis,0,Never smoker
-321,Male,43,2,Asthma,Chronic kidney disease,Ever smoker
-322,Female,89,2,Chronic kidney disease,Arthritis,Ever smoker
-323,Male,67,2,Musculoskeletal Disorders,COPD,Ever smoker
-324,Male,15,0,0,0,Never smoker
-325,Male,42,0,0,0,Ever smoker
-326,Male,52,0,0,0,Never smoker
-327,Female,28,2,Musculoskeletal Disorders,Chronic kidney disease,Never smoker
-328,Male,35,0,0,0,Ever smoker
-329,Male,13,0,0,0,
-330,Male,49,2,Hypertension,Arthrosis,
-331,Female,25,2,Musculoskeletal Disorders,Heart failure,
-332,Male,61,0,0,0,
-333,Female,31,0,0,0,Never smoker
-334,Male,48,2,Musculoskeletal Disorders,Ischemic stroke,
-335,Male,32,0,0,0,Ever smoker
-336,Female,37,0,0,0,Never smoker
-337,Female,52,2,Ischemic stroke,Musculoskeletal Disorders,
-338,Female,73,1,Hypertension,0,Ever smoker
-339,Male,28,0,0,0,Ever smoker
-340,Male,16,2,Arthrosis,COPD,
-341,Male,37,2,Dementia,Heart failure,Ever smoker
-342,Female,15,0,0,0,Ever smoker
-343,Female,52,0,0,0,Never smoker
-344,Male,25,0,0,0,
-345,Female,60,1,Hypertension,0,
-346,Female,54,0,0,0,
-347,Female,97,1,Arthrosis,0,
-348,Female,40,0,0,0,
-349,Female,52,2,Asthma,COPD,Ever smoker
-350,Female,50,2,Diabetes,COPD,Never smoker
-351,Female,58,0,0,0,
-352,Male,30,0,0,0,Never smoker
-353,Female,18,0,0,0,Ever smoker
-354,Female,18,0,0,0,Ever smoker
-355,Male,53,2,Dementia,Arthritis,
-356,Female,76,0,0,0,Never smoker
-357,Male,72,0,0,0,Never smoker
-358,Male,36,0,0,0,Never smoker
-359,Female,44,0,0,0,Never smoker
-360,Female,84,0,0,0,Ever smoker
-361,Female,19,2,Musculoskeletal Disorders,Dementia,
-362,Male,38,0,0,0,Never smoker
-363,Male,86,2,Neoplasms,COPD,Never smoker
-364,Male,59,0,0,0,Never smoker
-365,Female,63,1,Arthritis,0,Never smoker
-366,Male,35,2,Osteoporosis,Ischemic stroke,Never smoker
-367,Female,6,0,0,0,
-368,Male,17,1,Musculoskeletal Disorders,0,Never smoker
-369,Female,21,0,0,0,
-370,Male,18,0,0,0,Never smoker
-371,Male,55,1,Ischemic stroke,0,Ever smoker
-372,Male,98,0,0,0,Ever smoker
-373,Female,26,1,Arthrosis,0,
-374,Male,69,0,0,0,
-375,Male,86,0,0,0,Never smoker
-376,Female,31,0,0,0,
-377,Female,89,2,Osteoporosis,Diabetes,Ever smoker
-378,Female,51,0,0,0,Ever smoker
-379,Female,92,0,0,0,
-380,Male,61,1,Arthritis,0,
-381,Female,5,0,0,0,
-382,Female,57,2,Arthrosis,Asthma,Ever smoker
-383,Male,15,2,Ischemic stroke,Arthrosis,Never smoker
-384,Male,36,1,Diabetes,0,
-385,Female,18,0,0,0,
-386,Male,15,1,Dementia,0,
-387,Male,40,1,COPD,0,
-388,Female,35,2,Diabetes,Chronic kidney disease,Ever smoker
-389,Male,48,2,Ischemic stroke,Osteoporosis,Never smoker
-390,Male,52,0,0,0,
-391,Male,43,0,0,0,
-392,Female,32,1,Ischemic stroke,0,Ever smoker
-393,Male,12,1,Asthma,0,Never smoker
-394,Male,15,1,COPD,0,
-395,Male,38,2,Chronic kidney disease,Neoplasms,Ever smoker
-396,Female,40,2,Asthma,Hypertension,
-397,Female,54,0,0,0,Never smoker
-398,Male,17,2,Arthrosis,Musculoskeletal Disorders,Ever smoker
-399,Male,12,2,Hypertension,Arthrosis,Ever smoker
-400,Female,12,2,Osteoporosis,Musculoskeletal Disorders,Ever smoker
-401,Female,58,1,COPD,0,
-402,Female,41,0,0,0,
-403,Male,64,0,0,0,
-404,Male,53,0,0,0,Ever smoker
-405,Female,13,0,0,0,Never smoker
-406,Male,3,1,Hypertension,0,
-407,Female,42,0,0,0,
-408,Female,41,0,0,0,Never smoker
-409,Female,32,0,0,0,Ever smoker
-410,Female,64,2,Osteoporosis,Asthma,Ever smoker
-411,Female,47,0,0,0,Ever smoker
-412,Female,52,0,0,0,Ever smoker
-413,Male,56,1,Chronic kidney disease,0,Never smoker
-414,Female,54,1,Diabetes,0,
-415,Female,16,1,Chronic kidney disease,0,
-416,Male,93,2,Musculoskeletal Disorders,Dementia,Never smoker
-417,Female,6,0,0,0,
-418,Female,58,0,0,0,
-419,Male,61,0,0,0,Never smoker
-420,Female,13,1,Chronic kidney disease,0,Ever smoker
-421,Male,17,0,0,0,Never smoker
-422,Male,59,0,0,0,Never smoker
-423,Male,16,0,0,0,
-424,Male,23,0,0,0,Never smoker
-425,Male,75,2,Dementia,Dementia,
-426,Female,58,0,0,0,Ever smoker
-427,Female,35,0,0,0,Never smoker
-428,Female,52,2,Asthma,Arthrosis,
-429,Male,40,2,Arthritis,Osteoporosis,
-430,Female,55,0,0,0,
-431,Female,25,1,Hypertension,0,Ever smoker
-432,Male,90,0,0,0,Never smoker
-433,Male,32,0,0,0,
-434,Female,22,2,Hypertension,Ischemic stroke,Never smoker
-435,Male,63,1,COPD,0,Ever smoker
-436,Female,19,1,Chronic kidney disease,0,Never smoker
-437,Female,89,0,0,0,Never smoker
-438,Female,50,2,Asthma,COPD,
-439,Female,16,0,0,0,Never smoker
-440,Female,59,0,0,0,Ever smoker
-441,Male,13,0,0,0,Ever smoker
-442,Male,48,0,0,0,Ever smoker
-443,Female,61,0,0,0,
-444,Male,46,1,Arthrosis,0,
-445,Female,80,0,0,0,Never smoker
-446,Male,47,2,Ischemic stroke,Osteoporosis,Never smoker
-447,Female,47,1,Neoplasms,0,
-448,Male,42,2,Dementia,Asthma,
-449,Male,40,2,Musculoskeletal Disorders,Hypertension,Ever smoker
-450,Male,17,1,Heart failure,0,Ever smoker
-451,Male,56,0,0,0,
-452,Male,35,0,0,0,Ever smoker
-453,Male,47,1,Musculoskeletal Disorders,0,
-454,Male,41,2,Neoplasms,Asthma,Never smoker
-455,Male,15,0,0,0,
-456,Female,93,2,Arthrosis,Neoplasms,Never smoker
-457,Female,90,0,0,0,
-458,Male,15,0,0,0,
-459,Male,41,1,Arthritis,0,Never smoker
-460,Male,66,0,0,0,Ever smoker
-461,Male,51,0,0,0,
-462,Male,80,2,Chronic kidney disease,COPD,
-463,Male,58,0,0,0,
-464,Female,96,1,Ischemic stroke,0,
-465,Male,90,2,Musculoskeletal Disorders,Hypertension,Never smoker
-466,Male,41,0,0,0,
-467,Female,20,1,Osteoporosis,0,
-468,Male,25,0,0,0,Ever smoker
-469,Female,9,2,Musculoskeletal Disorders,Hypertension,Never smoker
-470,Female,27,0,0,0,Ever smoker
-471,Male,16,1,Heart failure,0,
-472,Female,38,0,0,0,
-473,Female,48,0,0,0,Never smoker
-474,Male,71,1,Osteoporosis,0,Never smoker
-475,Male,30,0,0,0,
-476,Female,38,2,Hypertension,Chronic kidney disease,
-477,Female,3,2,Diabetes,Musculoskeletal Disorders,
-478,Female,18,0,0,0,
-479,Male,17,0,0,0,Never smoker
-480,Female,28,0,0,0,
-481,Male,53,2,Hypertension,Arthrosis,
-482,Female,49,2,Heart failure,Diabetes,Never smoker
-483,Female,18,0,0,0,Ever smoker
-484,Female,93,0,0,0,Ever smoker
-485,Male,91,0,0,0,
-486,Female,1,2,Arthritis,Diabetes,
-487,Female,18,0,0,0,Never smoker
-488,Male,30,1,Arthrosis,0,Never smoker
-489,Male,30,0,0,0,
-490,Male,3,0,0,0,Ever smoker
-491,Female,49,0,0,0,Never smoker
-492,Female,21,2,Musculoskeletal Disorders,Arthrosis,
-493,Male,20,1,Diabetes,0,
-494,Female,61,0,0,0,Never smoker
-495,Female,52,2,Asthma,Hypertension,Never smoker
-496,Male,77,2,Neoplasms,Osteoporosis,
-497,Female,2,0,0,0,
-498,Female,53,1,Neoplasms,0,Ever smoker
-499,Male,42,0,0,0,
-500,Female,53,0,0,0,Never smoker
-501,Male,56,0,0,0,Never smoker
-502,Female,28,0,0,0,Never smoker
-503,Female,94,1,Diabetes,0,Never smoker
-504,Male,35,0,0,0,Never smoker
-505,Female,87,0,0,0,
-506,Female,1,0,0,0,
-507,Male,90,0,0,0,
-508,Female,95,1,Ischemic stroke,0,
-509,Female,48,0,0,0,
-510,Male,26,0,0,0,Never smoker
-511,Female,0,2,Diabetes,Heart failure,
-512,Female,39,0,0,0,Ever smoker
-513,Female,48,0,0,0,
-514,Male,10,2,COPD,Arthritis,
-515,Female,45,2,Musculoskeletal Disorders,Heart failure,
-516,Male,18,0,0,0,Never smoker
-517,Male,30,2,Diabetes,Heart failure,Ever smoker
-518,Female,41,2,COPD,Musculoskeletal Disorders,Ever smoker
-519,Male,31,0,0,0,Never smoker
-520,Male,29,1,Chronic kidney disease,0,Never smoker
-521,Female,76,0,0,0,Never smoker
-522,Female,89,2,COPD,Arthrosis,Ever smoker
-523,Female,42,2,Heart failure,Chronic kidney disease,Never smoker
-524,Male,51,2,COPD,Musculoskeletal Disorders,Ever smoker
-525,Male,19,1,COPD,0,Never smoker
-526,Female,19,1,Ischemic stroke,0,
-527,Female,37,0,0,0,Never smoker
-528,Female,15,0,0,0,
-529,Female,29,0,0,0,Never smoker
-530,Male,39,1,Arthrosis,0,Never smoker
-531,Female,66,0,0,0,
-532,Female,55,0,0,0,
-533,Male,19,0,0,0,Never smoker
-534,Female,52,2,Chronic kidney disease,Ischemic stroke,
-535,Male,24,0,0,0,
-536,Female,16,1,Arthrosis,0,Ever smoker
-537,Female,60,0,0,0,Ever smoker
-538,Female,64,0,0,0,
-539,Male,23,0,0,0,Never smoker
-540,Male,67,0,0,0,
-541,Female,30,0,0,0,Never smoker
-542,Female,46,0,0,0,Ever smoker
-543,Male,51,1,Osteoporosis,0,Never smoker
-544,Female,39,2,Musculoskeletal Disorders,Chronic kidney disease,
-545,Female,59,2,Hypertension,Asthma,
-546,Female,5,0,0,0,Ever smoker
-547,Female,62,2,Hypertension,Osteoporosis,
-548,Female,60,1,Osteoporosis,0,Never smoker
-549,Female,56,0,0,0,Ever smoker
-550,Male,15,0,0,0,
-551,Male,4,1,Diabetes,0,Never smoker
-552,Male,37,2,Arthrosis,Musculoskeletal Disorders,Never smoker
-553,Male,82,0,0,0,
-554,Male,55,0,0,0,
-555,Female,22,0,0,0,Never smoker
-556,Female,26,1,Neoplasms,0,
-557,Female,30,0,0,0,
-558,Male,25,2,Diabetes,Musculoskeletal Disorders,
-559,Male,50,2,Musculoskeletal Disorders,Hypertension,Never smoker
-560,Female,79,0,0,0,Ever smoker
-561,Male,50,2,Asthma,Arthritis,
-562,Female,55,2,Chronic kidney disease,COPD,Never smoker
-563,Female,18,2,Dementia,Musculoskeletal Disorders,
-564,Female,55,2,Asthma,Hypertension,Never smoker
-565,Female,15,0,0,0,Never smoker
-566,Female,5,1,COPD,0,
-567,Female,15,0,0,0,Ever smoker
-568,Female,1,0,0,0,Ever smoker
-569,Female,69,0,0,0,Never smoker
-570,Male,20,0,0,0,Never smoker
-571,Male,51,1,Musculoskeletal Disorders,0,Ever smoker
-572,Male,74,0,0,0,
-573,Female,47,0,0,0,Never smoker
-574,Male,5,0,0,0,Ever smoker
-575,Male,37,0,0,0,
-576,Female,6,1,Dementia,0,Never smoker
-577,Female,34,2,Musculoskeletal Disorders,Osteoporosis,
-578,Male,47,0,0,0,
-579,Male,88,0,0,0,Ever smoker
-580,Male,42,0,0,0,
-581,Female,23,2,Musculoskeletal Disorders,Dementia,
-582,Female,20,0,0,0,Ever smoker
-583,Male,24,0,0,0,Ever smoker
-584,Male,63,2,Chronic kidney disease,Musculoskeletal Disorders,Never smoker
-585,Female,24,1,Diabetes,0,
-586,Male,39,2,Musculoskeletal Disorders,Chronic kidney disease,Never smoker
-587,Male,94,2,Hypertension,Ischemic stroke,
-588,Female,51,0,0,0,
-589,Male,3,2,Ischemic stroke,Asthma,Never smoker
-590,Female,62,0,0,0,Never smoker
-591,Male,59,2,Musculoskeletal Disorders,Osteoporosis,Ever smoker
-592,Male,34,0,0,0,
-593,Female,86,0,0,0,
-594,Female,48,0,0,0,Never smoker
-595,Female,44,2,Hypertension,Dementia,
-596,Male,47,0,0,0,Ever smoker
-597,Female,85,1,COPD,0,
-598,Male,32,1,Ischemic stroke,0,Never smoker
-599,Male,29,0,0,0,Ever smoker
-600,Male,26,0,0,0,
-601,Male,58,0,0,0,
-602,Male,54,0,0,0,Never smoker
-603,Male,47,1,Arthrosis,0,
-604,Female,74,1,Hypertension,0,Never smoker
-605,Female,20,1,Arthrosis,0,
-606,Female,43,0,0,0,
-607,Male,22,0,0,0,
-608,Male,16,0,0,0,
-609,Male,25,0,0,0,Never smoker
-610,Male,63,1,Osteoporosis,0,
-611,Male,21,0,0,0,Ever smoker
-612,Female,64,2,Ischemic stroke,COPD,
-613,Female,19,0,0,0,
-614,Female,48,2,Heart failure,Musculoskeletal Disorders,
-615,Male,66,2,Osteoporosis,Musculoskeletal Disorders,Never smoker
-616,Female,51,0,0,0,Ever smoker
-617,Female,2,0,0,0,
-618,Female,16,1,Arthrosis,0,Ever smoker
-619,Female,39,2,Musculoskeletal Disorders,COPD,Never smoker
-620,Male,3,1,Hypertension,0,Never smoker
-621,Male,45,1,Musculoskeletal Disorders,0,Never smoker
-622,Male,80,1,Neoplasms,0,
-623,Female,58,0,0,0,
-624,Female,60,0,0,0,
-625,Female,56,0,0,0,
-626,Female,19,1,Arthrosis,0,Never smoker
-627,Female,7,0,0,0,
-628,Female,5,1,Arthritis,0,Ever smoker
-629,Female,79,1,Osteoporosis,0,
-630,Male,37,0,0,0,Never smoker
-631,Female,57,0,0,0,Never smoker
-632,Female,47,0,0,0,Ever smoker
-633,Female,17,1,Chronic kidney disease,0,Never smoker
-634,Male,63,2,Ischemic stroke,Arthrosis,Never smoker
-635,Female,78,2,Chronic kidney disease,Osteoporosis,
-636,Female,13,0,0,0,Ever smoker
-637,Male,57,0,0,0,
-638,Male,93,1,COPD,0,Ever smoker
-639,Female,41,0,0,0,Never smoker
-640,Female,8,2,Neoplasms,Asthma,Ever smoker
-641,Female,37,2,Heart failure,Arthrosis,
-642,Female,44,0,0,0,Never smoker
-643,Male,76,0,0,0,
-644,Female,7,0,0,0,Ever smoker
-645,Female,49,2,Musculoskeletal Disorders,Hypertension,Ever smoker
-646,Male,78,0,0,0,
-647,Female,73,0,0,0,Never smoker
-648,Male,56,1,Osteoporosis,0,Ever smoker
-649,Male,79,2,Heart failure,Chronic kidney disease,Never smoker
-650,Female,34,0,0,0,
-651,Male,47,0,0,0,
-652,Female,70,0,0,0,
-653,Female,64,0,0,0,
-654,Female,84,0,0,0,Never smoker
-655,Female,7,2,Ischemic stroke,Asthma,Never smoker
-656,Female,56,1,Arthritis,0,
-657,Female,7,0,0,0,Ever smoker
-658,Female,38,0,0,0,Never smoker
-659,Female,61,2,Arthrosis,Neoplasms,
-660,Female,13,2,Musculoskeletal Disorders,COPD,
-661,Female,10,0,0,0,Never smoker
-662,Male,41,2,Asthma,Hypertension,
-663,Female,59,0,0,0,
-664,Female,21,0,0,0,
-665,Female,9,0,0,0,Never smoker
-666,Female,56,1,Hypertension,0,Ever smoker
-667,Female,7,1,COPD,0,Never smoker
-668,Male,41,0,0,0,Never smoker
-669,Male,2,1,Asthma,0,Never smoker
-670,Female,56,1,Chronic kidney disease,0,Ever smoker
-671,Female,16,2,Arthrosis,Neoplasms,Ever smoker
-672,Male,61,1,Arthrosis,0,Never smoker
-673,Female,17,0,0,0,
-674,Female,64,1,Neoplasms,0,Never smoker
-675,Male,38,1,Ischemic stroke,0,Ever smoker
-676,Male,30,2,Asthma,Heart failure,Ever smoker
-677,Female,58,0,0,0,Never smoker
-678,Female,48,0,0,0,Ever smoker
-679,Male,41,0,0,0,Never smoker
-680,Male,15,2,Dementia,Osteoporosis,Ever smoker
-681,Female,26,2,Hypertension,Osteoporosis,Never smoker
-682,Male,82,1,Diabetes,0,
-683,Male,44,0,0,0,Never smoker
-684,Female,38,0,0,0,Never smoker
-685,Female,23,0,0,0,Ever smoker
-686,Male,58,2,Asthma,Hypertension,Never smoker
-687,Female,26,0,0,0,Ever smoker
-688,Male,69,1,Musculoskeletal Disorders,0,Ever smoker
-689,Male,15,1,Osteoporosis,0,Never smoker
-690,Female,55,2,Osteoporosis,Hypertension,
-691,Male,58,0,0,0,Never smoker
-692,Female,45,1,Chronic kidney disease,0,
-693,Male,37,1,Neoplasms,0,Never smoker
-694,Female,35,1,Ischemic stroke,0,Ever smoker
-695,Female,62,0,0,0,
-696,Male,41,2,Ischemic stroke,Hypertension,
-697,Female,92,0,0,0,Never smoker
-698,Male,51,0,0,0,Never smoker
-699,Female,99,1,Osteoporosis,0,Never smoker
-700,Male,53,0,0,0,
-701,Male,7,0,0,0,Never smoker
-702,Male,39,0,0,0,Ever smoker
-703,Male,49,2,Ischemic stroke,Chronic kidney disease,
-704,Male,39,1,Arthritis,0,
-705,Female,0,0,0,0,
-706,Male,12,1,COPD,0,
-707,Female,44,0,0,0,
-708,Male,51,2,Musculoskeletal Disorders,Arthritis,
-709,Female,17,0,0,0,
-710,Female,33,0,0,0,
-711,Male,46,1,Asthma,0,
-712,Male,42,2,Ischemic stroke,Heart failure,Never smoker
-713,Male,57,1,Neoplasms,0,Never smoker
-714,Male,57,0,0,0,Never smoker
-715,Female,37,2,Chronic kidney disease,Osteoporosis,Never smoker
-716,Male,10,0,0,0,Never smoker
-717,Male,25,0,0,0,Never smoker
-718,Female,19,1,COPD,0,
-719,Female,64,2,Ischemic stroke,Asthma,
-720,Male,99,0,0,0,Never smoker
-721,Male,18,2,Hypertension,Musculoskeletal Disorders,Ever smoker
-722,Male,22,0,0,0,Ever smoker
-723,Male,88,0,0,0,Never smoker
-724,Female,43,1,Hypertension,0,Never smoker
-725,Male,2,0,0,0,
-726,Female,22,0,0,0,
-727,Female,22,1,Arthrosis,0,Never smoker
-728,Male,20,0,0,0,
-729,Male,19,2,Arthrosis,Asthma,
-730,Male,27,2,Ischemic stroke,Osteoporosis,
-731,Female,29,1,Neoplasms,0,Never smoker
-732,Male,42,0,0,0,
-733,Male,25,2,Musculoskeletal Disorders,Dementia,
-734,Female,50,0,0,0,Never smoker
-735,Male,77,0,0,0,Ever smoker
-736,Male,71,0,0,0,
-737,Female,38,0,0,0,Never smoker
-738,Female,60,1,COPD,0,
-739,Female,64,2,Asthma,Arthrosis,Ever smoker
-740,Female,94,1,Musculoskeletal Disorders,0,
-741,Female,38,0,0,0,
-742,Female,8,0,0,0,
-743,Male,15,0,0,0,Never smoker
-744,Female,69,0,0,0,
-745,Male,17,2,Hypertension,Arthrosis,Ever smoker
-746,Male,49,0,0,0,
-747,Male,43,0,0,0,
-748,Female,24,0,0,0,Never smoker
-749,Female,21,1,Arthrosis,0,Never smoker
-750,Female,85,0,0,0,
-751,Female,44,1,Diabetes,0,
-752,Female,85,2,Asthma,Hypertension,Never smoker
-753,Male,62,1,Chronic kidney disease,0,Never smoker
-754,Female,60,0,0,0,Ever smoker
-755,Male,59,2,Neoplasms,Osteoporosis,Ever smoker
-756,Male,51,0,0,0,Never smoker
-757,Male,64,1,Arthritis,0,
-758,Female,59,0,0,0,
-759,Female,57,2,Dementia,Neoplasms,Ever smoker
-760,Male,18,1,Arthrosis,0,
-761,Male,20,0,0,0,
-762,Female,25,1,Ischemic stroke,0,Never smoker
-763,Female,55,0,0,0,Ever smoker
-764,Female,63,0,0,0,
-765,Female,10,1,Asthma,0,
-766,Female,82,0,0,0,Ever smoker
-767,Female,48,0,0,0,Never smoker
-768,Male,52,1,Musculoskeletal Disorders,0,Never smoker
-769,Female,51,0,0,0,Never smoker
-770,Female,98,0,0,0,
-771,Male,30,1,Musculoskeletal Disorders,0,Never smoker
-772,Female,72,2,Asthma,Osteoporosis,
-773,Male,45,0,0,0,Never smoker
-774,Male,48,1,Chronic kidney disease,0,
-775,Female,28,2,COPD,Osteoporosis,Ever smoker
-776,Male,17,0,0,0,
-777,Female,43,1,Hypertension,0,Never smoker
-778,Female,59,2,Arthrosis,Asthma,Never smoker
-779,Male,54,1,Ischemic stroke,0,Ever smoker
-780,Male,50,0,0,0,
-781,Male,44,2,Musculoskeletal Disorders,COPD,
-782,Male,27,1,Arthrosis,0,
-783,Male,12,0,0,0,
-784,Male,80,1,COPD,0,
-785,Male,42,0,0,0,Never smoker
-786,Male,40,0,0,0,Never smoker
-787,Male,16,1,Osteoporosis,0,
-788,Female,67,1,COPD,0,
-789,Female,21,1,Neoplasms,0,
-790,Male,32,0,0,0,
-791,Female,18,2,Asthma,Musculoskeletal Disorders,
-792,Female,86,0,0,0,Never smoker
-793,Male,46,1,Diabetes,0,Ever smoker
-794,Male,54,0,0,0,
-795,Male,22,0,0,0,Never smoker
-796,Female,17,2,Arthrosis,Musculoskeletal Disorders,
-797,Female,22,0,0,0,Never smoker
-798,Male,39,1,Arthrosis,0,
-799,Female,87,0,0,0,
-800,Male,37,1,Chronic kidney disease,0,Ever smoker
-801,Male,18,0,0,0,
-802,Male,41,2,Ischemic stroke,Arthrosis,Ever smoker
-803,Female,50,1,Hypertension,0,Ever smoker
-804,Male,58,2,Hypertension,Musculoskeletal Disorders,
-805,Male,69,0,0,0,Never smoker
-806,Female,51,0,0,0,
-807,Female,65,0,0,0,
-808,Female,17,0,0,0,
-809,Male,16,0,0,0,
-810,Male,74,1,Ischemic stroke,0,
-811,Female,18,0,0,0,Ever smoker
-812,Female,19,1,Heart failure,0,
-813,Female,73,0,0,0,
-814,Male,59,0,0,0,Ever smoker
-815,Male,37,0,0,0,
-816,Female,54,0,0,0,
-817,Female,71,0,0,0,Never smoker
-818,Female,19,1,Musculoskeletal Disorders,0,
-819,Male,36,0,0,0,Ever smoker
-820,Female,71,0,0,0,Ever smoker
-821,Male,35,1,Arthrosis,0,Never smoker
-822,Female,26,2,Osteoporosis,Dementia,Never smoker
-823,Female,28,1,Arthritis,0,
-824,Female,27,2,Dementia,Musculoskeletal Disorders,
-825,Male,17,0,0,0,
-826,Female,11,0,0,0,Never smoker
-827,Female,38,0,0,0,Never smoker
-828,Female,11,2,Arthrosis,COPD,
-829,Male,13,0,0,0,Ever smoker
-830,Male,61,0,0,0,Ever smoker
-831,Female,39,0,0,0,Ever smoker
-832,Male,38,0,0,0,
-833,Female,61,1,Arthrosis,0,
-834,Male,29,0,0,0,Never smoker
-835,Female,53,2,Musculoskeletal Disorders,Dementia,Never smoker
-836,Female,66,0,0,0,Ever smoker
-837,Female,85,0,0,0,Ever smoker
-838,Female,80,1,Arthritis,0,
-839,Female,17,1,Osteoporosis,0,
-840,Female,0,2,Asthma,Hypertension,Never smoker
-841,Female,46,0,0,0,
-842,Female,33,1,Hypertension,0,
-843,Female,81,2,Neoplasms,COPD,
-844,Female,52,1,Ischemic stroke,0,
-845,Male,48,1,Musculoskeletal Disorders,0,Never smoker
-846,Female,5,0,0,0,
-847,Male,18,0,0,0,
-848,Female,28,0,0,0,
-849,Male,90,0,0,0,
-850,Female,21,0,0,0,
-851,Female,35,2,Musculoskeletal Disorders,Diabetes,Never smoker
-852,Male,50,2,Ischemic stroke,Chronic kidney disease,Ever smoker
-853,Male,91,0,0,0,Ever smoker
-854,Female,18,2,Chronic kidney disease,Musculoskeletal Disorders,
-855,Male,21,0,0,0,Ever smoker
-856,Female,15,0,0,0,Ever smoker
-857,Female,54,1,Ischemic stroke,0,Ever smoker
-858,Male,24,1,Heart failure,0,
-859,Male,61,2,Hypertension,Osteoporosis,Never smoker
-860,Female,68,2,Dementia,Arthrosis,Ever smoker
-861,Female,17,2,Arthrosis,Neoplasms,Ever smoker
-862,Female,23,2,Dementia,Ischemic stroke,Ever smoker
-863,Female,15,0,0,0,
-864,Female,39,0,0,0,Ever smoker
-865,Male,56,1,Arthrosis,0,Never smoker
-866,Female,37,0,0,0,Never smoker
-867,Female,79,1,Hypertension,0,
-868,Male,44,0,0,0,Ever smoker
-869,Male,15,0,0,0,
-870,Male,54,1,Osteoporosis,0,
-871,Female,47,0,0,0,Never smoker
-872,Female,27,2,Musculoskeletal Disorders,Chronic kidney disease,Never smoker
-873,Male,42,1,Diabetes,0,
-874,Female,7,1,Neoplasms,0,Ever smoker
-875,Male,33,0,0,0,
-876,Female,48,0,0,0,Never smoker
-877,Female,65,0,0,0,Never smoker
-878,Male,38,1,Musculoskeletal Disorders,0,Ever smoker
-879,Female,69,0,0,0,
-880,Female,47,0,0,0,Never smoker
-881,Male,38,2,Arthrosis,Hypertension,Ever smoker
-882,Male,57,0,0,0,Never smoker
-883,Female,66,0,0,0,Never smoker
-884,Male,81,0,0,0,Never smoker
-885,Female,12,1,Ischemic stroke,0,Ever smoker
-886,Male,38,0,0,0,Ever smoker
-887,Male,64,1,Chronic kidney disease,0,
-888,Male,34,0,0,0,
-889,Male,15,0,0,0,
-890,Female,38,2,Chronic kidney disease,Musculoskeletal Disorders,
-891,Female,72,0,0,0,
-892,Male,27,0,0,0,Ever smoker
-893,Female,26,0,0,0,Ever smoker
-894,Male,50,2,Asthma,Hypertension,
-895,Female,88,2,Arthrosis,Ischemic stroke,Never smoker
-896,Female,78,0,0,0,
-897,Female,53,2,Arthritis,Dementia,
-898,Female,24,0,0,0,
-899,Female,31,0,0,0,Ever smoker
-900,Female,43,0,0,0,Never smoker
-901,Female,41,0,0,0,
-902,Male,58,1,Ischemic stroke,0,
-903,Female,23,2,Neoplasms,Heart failure,Never smoker
-904,Male,54,2,Musculoskeletal Disorders,Asthma,Never smoker
-905,Male,90,0,0,0,Ever smoker
-906,Female,77,2,Diabetes,Heart failure,
-907,Female,44,0,0,0,Never smoker
-908,Female,17,0,0,0,Never smoker
-909,Male,24,1,Musculoskeletal Disorders,0,
-910,Male,52,2,Dementia,Ischemic stroke,Ever smoker
-911,Male,17,2,Asthma,Musculoskeletal Disorders,
-912,Female,17,0,0,0,
-913,Male,25,0,0,0,Never smoker
-914,Male,76,0,0,0,
-915,Male,88,0,0,0,Ever smoker
-916,Female,29,2,Arthrosis,COPD,Ever smoker
-917,Male,50,1,COPD,0,Ever smoker
-918,Female,5,1,Arthrosis,0,Ever smoker
-919,Female,46,0,0,0,Never smoker
-920,Female,15,0,0,0,
-921,Female,55,2,Chronic kidney disease,Dementia,
-922,Male,62,0,0,0,Never smoker
-923,Male,31,1,Arthritis,0,
-924,Female,32,1,Musculoskeletal Disorders,0,Ever smoker
-925,Female,44,0,0,0,
-926,Male,61,0,0,0,Ever smoker
-927,Male,64,0,0,0,Never smoker
-928,Female,99,2,Dementia,Osteoporosis,Ever smoker
-929,Male,61,0,0,0,Never smoker
-930,Female,55,0,0,0,
-931,Male,21,2,Neoplasms,COPD,Never smoker
-932,Male,12,0,0,0,Never smoker
-933,Female,5,2,Musculoskeletal Disorders,Osteoporosis,
-934,Female,83,2,Heart failure,Musculoskeletal Disorders,Ever smoker
-935,Female,22,2,Musculoskeletal Disorders,Diabetes,
-936,Male,98,1,Musculoskeletal Disorders,0,
-937,Female,52,0,0,0,
-938,Female,44,0,0,0,Ever smoker
-939,Male,41,2,Dementia,Chronic kidney disease,Never smoker
-940,Male,53,0,0,0,
-941,Female,59,0,0,0,Ever smoker
-942,Male,60,0,0,0,
-943,Male,17,1,Ischemic stroke,0,
-944,Female,24,0,0,0,
-945,Male,88,2,Hypertension,Arthrosis,Never smoker
-946,Female,60,2,Chronic kidney disease,Heart failure,
-947,Male,54,1,Musculoskeletal Disorders,0,
-948,Female,66,2,Arthritis,Diabetes,Ever smoker
-949,Female,62,0,0,0,
-950,Female,66,0,0,0,
-951,Male,20,2,Diabetes,Arthrosis,
-952,Male,16,1,Osteoporosis,0,
-953,Female,42,0,0,0,
-954,Female,23,0,0,0,
-955,Male,15,0,0,0,Ever smoker
-956,Male,54,0,0,0,
-957,Male,0,0,0,0,Never smoker
-958,Male,77,0,0,0,Ever smoker
-959,Male,64,2,Ischemic stroke,COPD,
-960,Male,85,0,0,0,
-961,Female,58,2,Dementia,Heart failure,Ever smoker
-962,Male,44,0,0,0,
-963,Female,15,1,COPD,0,Ever smoker
-964,Male,31,2,Heart failure,Diabetes,
-965,Female,22,0,0,0,Never smoker
-966,Female,87,0,0,0,
-967,Female,34,2,Ischemic stroke,Asthma,Ever smoker
-968,Female,96,2,Arthritis,Dementia,Never smoker
-969,Female,51,1,Dementia,0,Ever smoker
-970,Female,38,1,Hypertension,0,Never smoker
-971,Male,81,1,Osteoporosis,0,
-972,Female,36,1,Dementia,0,
-973,Male,23,2,Chronic kidney disease,COPD,Ever smoker
-974,Male,35,1,Musculoskeletal Disorders,0,
-975,Male,60,1,Chronic kidney disease,0,
-976,Female,49,2,Arthrosis,Asthma,
-977,Male,47,0,0,0,Never smoker
-978,Female,59,1,Musculoskeletal Disorders,0,
-979,Male,49,0,0,0,Ever smoker
-980,Female,43,0,0,0,Never smoker
-981,Male,11,2,Ischemic stroke,Arthritis,
-982,Male,47,0,0,0,
-983,Male,39,0,0,0,Never smoker
-984,Female,43,1,Arthritis,0,
-985,Female,29,0,0,0,
-986,Male,44,1,Osteoporosis,0,Never smoker
-987,Female,40,0,0,0,Ever smoker
-988,Female,19,1,Arthrosis,0,
-989,Male,44,1,Diabetes,0,
-990,Female,63,1,COPD,0,Ever smoker
-991,Male,69,1,Diabetes,0,
-992,Male,87,1,Asthma,0,
-993,Female,4,0,0,0,
-994,Male,64,2,Hypertension,Asthma,
-995,Male,17,2,Arthrosis,Osteoporosis,
-996,Male,16,2,Hypertension,Diabetes,Never smoker
-997,Male,35,1,Hypertension,0,Never smoker
-998,Female,63,0,0,0,
-999,Female,9,0,0,0,Ever smoker
-1000,Male,23,2,Musculoskeletal Disorders,Arthrosis,Never smoker
+id,sex,age,comorbidities,comorbidities_esp_1,comorbidities_esp_2,smoking_status,bmi
+1,Female,35-64,2,Musculoskeletal Disorders,Arthritis,,
+2,Male,>65,2,Arthrosis,Hypertension,Never smoker,
+3,Male,0-14,0,0,0,,
+4,Male,35-64,0,0,0,,
+5,Male,35-64,1,Hypertension,0,Ever smoker,
+6,Male,35-64,1,Arthrosis,0,Never smoker,21.130424957991067
+7,Female,35-64,0,0,0,Ever smoker,
+8,Male,35-64,2,Diabetes,Musculoskeletal Disorders,,
+9,Male,35-64,0,0,0,Never smoker,
+10,Male,35-64,0,0,0,,
+11,Female,15-19,0,0,0,,
+12,Female,20-34,0,0,0,,
+13,Male,35-64,0,0,0,,
+14,Male,0-14,0,0,0,Never smoker,
+15,Female,>65,0,0,0,,27.38705249366239
+16,Female,35-64,1,COPD,0,,
+17,Male,35-64,1,Arthrosis,0,Never smoker,
+18,Female,35-64,2,Arthritis,Osteoporosis,,
+19,Male,35-64,0,0,0,,
+20,Male,>65,0,0,0,Never smoker,
+21,Female,20-34,1,Diabetes,0,,
+22,Male,35-64,2,Hypertension,Arthrosis,,
+23,Male,35-64,2,Ischemic stroke,Musculoskeletal Disorders,,
+24,Male,>65,0,0,0,,
+25,Male,35-64,0,0,0,Never smoker,
+26,Male,0-14,0,0,0,Ever smoker,29.021013972174742
+27,Female,35-64,0,0,0,,39.67932816326226
+28,Male,35-64,0,0,0,,
+29,Male,20-34,2,Musculoskeletal Disorders,Hypertension,Never smoker,
+30,Female,20-34,1,Arthrosis,0,Never smoker,26.58818632351157
+31,Female,0-14,0,0,0,,
+32,Male,0-14,2,Asthma,Hypertension,,
+33,Male,35-64,0,0,0,,
+34,Female,0-14,0,0,0,,
+35,Male,35-64,0,0,0,Ever smoker,
+36,Female,35-64,0,0,0,Never smoker,
+37,Female,35-64,2,Neoplasms,COPD,,
+38,Female,35-64,0,0,0,Ever smoker,41.41392093144994
+39,Female,35-64,0,0,0,,
+40,Female,20-34,0,0,0,,
+41,Female,35-64,2,Arthritis,Diabetes,,
+42,Male,>65,1,Arthrosis,0,,
+43,Male,15-19,2,Musculoskeletal Disorders,Chronic kidney disease,,
+44,Female,15-19,0,0,0,Never smoker,27.95501076097686
+45,Female,35-64,2,Hypertension,Arthritis,Ever smoker,
+46,Male,35-64,0,0,0,Never smoker,
+47,Male,>65,0,0,0,,
+48,Female,35-64,0,0,0,Ever smoker,
+49,Female,35-64,0,0,0,Ever smoker,
+50,Male,35-64,0,0,0,Never smoker,
+51,Female,20-34,0,0,0,Never smoker,
+52,Male,15-19,2,Diabetes,Ischemic stroke,Never smoker,31.18167936671741
+53,Male,20-34,0,0,0,,
+54,Female,35-64,1,Arthrosis,0,Never smoker,
+55,Male,35-64,2,Neoplasms,Asthma,,
+56,Male,35-64,2,Osteoporosis,Hypertension,Never smoker,
+57,Female,>65,2,Diabetes,Musculoskeletal Disorders,,
+58,Female,15-19,1,Chronic kidney disease,0,,
+59,Female,35-64,0,0,0,,
+60,Male,>65,0,0,0,,
+61,Female,15-19,1,COPD,0,Never smoker,
+62,Female,35-64,1,Arthrosis,0,,
+63,Female,35-64,2,Musculoskeletal Disorders,Hypertension,Never smoker,
+64,Male,35-64,0,0,0,,
+65,Male,35-64,1,Osteoporosis,0,,
+66,Male,0-14,0,0,0,Never smoker,
+67,Male,>65,0,0,0,Ever smoker,31.44964966632858
+68,Male,20-34,2,Musculoskeletal Disorders,Hypertension,Never smoker,
+69,Female,0-14,0,0,0,Ever smoker,
+70,Female,35-64,1,Chronic kidney disease,0,Ever smoker,31.500722704029062
+71,Male,35-64,2,Hypertension,Musculoskeletal Disorders,Ever smoker,
+72,Female,35-64,2,Neoplasms,COPD,Never smoker,
+73,Male,20-34,0,0,0,Never smoker,
+74,Male,15-19,2,Diabetes,Ischemic stroke,Never smoker,
+75,Female,35-64,2,Dementia,Neoplasms,,
+76,Female,15-19,1,COPD,0,Ever smoker,
+77,Female,>65,1,Arthrosis,0,Never smoker,
+78,Male,35-64,1,Asthma,0,,
+79,Male,35-64,0,0,0,,
+80,Female,35-64,0,0,0,,34.90159644156181
+81,Female,35-64,1,Musculoskeletal Disorders,0,,
+82,Female,>65,0,0,0,,
+83,Female,20-34,1,Asthma,0,,
+84,Male,20-34,0,0,0,Ever smoker,
+85,Male,20-34,2,Heart failure,Musculoskeletal Disorders,,
+86,Female,20-34,0,0,0,,
+87,Female,15-19,0,0,0,,
+88,Female,0-14,0,0,0,Never smoker,
+89,Male,35-64,0,0,0,,
+90,Female,20-34,2,Asthma,Neoplasms,Never smoker,
+91,Male,20-34,1,Heart failure,0,,
+92,Male,35-64,2,Arthritis,Diabetes,Never smoker,23.38631457276981
+93,Male,>65,2,Dementia,COPD,,
+94,Female,0-14,0,0,0,,
+95,Female,35-64,0,0,0,Never smoker,
+96,Male,35-64,0,0,0,Never smoker,
+97,Female,20-34,0,0,0,Ever smoker,
+98,Female,35-64,0,0,0,Never smoker,
+99,Male,35-64,0,0,0,,
+100,Female,20-34,0,0,0,Never smoker,
+101,Male,35-64,2,Arthrosis,Chronic kidney disease,,
+102,Female,35-64,2,Heart failure,Diabetes,Ever smoker,
+103,Female,35-64,2,Hypertension,Asthma,,
+104,Male,20-34,0,0,0,,
+105,Female,15-19,1,Hypertension,0,Ever smoker,
+106,Female,35-64,0,0,0,Never smoker,
+107,Male,15-19,0,0,0,,
+108,Female,>65,0,0,0,Ever smoker,
+109,Male,15-19,0,0,0,,
+110,Female,35-64,0,0,0,Ever smoker,
+111,Female,35-64,0,0,0,,
+112,Female,15-19,1,Arthritis,0,Never smoker,
+113,Male,35-64,1,Arthrosis,0,Ever smoker,
+114,Female,20-34,1,Dementia,0,,
+115,Female,20-34,0,0,0,Never smoker,
+116,Female,0-14,0,0,0,,36.12333636128891
+117,Female,20-34,0,0,0,Never smoker,35.08978819005048
+118,Female,35-64,1,Osteoporosis,0,Ever smoker,
+119,Male,35-64,2,Diabetes,Hypertension,Never smoker,
+120,Female,15-19,1,Ischemic stroke,0,Ever smoker,
+121,Male,15-19,0,0,0,Never smoker,
+122,Male,>65,0,0,0,,
+123,Female,0-14,0,0,0,Ever smoker,
+124,Female,>65,1,Hypertension,0,Never smoker,
+125,Female,15-19,0,0,0,Never smoker,27.46085229682928
+126,Female,35-64,0,0,0,,
+127,Male,0-14,1,Musculoskeletal Disorders,0,Never smoker,26.8351165024778
+128,Male,>65,0,0,0,,
+129,Female,35-64,0,0,0,Never smoker,
+130,Female,>65,1,Arthrosis,0,,
+131,Female,35-64,2,Arthritis,Heart failure,Never smoker,
+132,Male,35-64,1,Musculoskeletal Disorders,0,Ever smoker,
+133,Male,>65,0,0,0,Ever smoker,
+134,Female,>65,0,0,0,,
+135,Male,0-14,0,0,0,,
+136,Female,20-34,0,0,0,,
+137,Female,35-64,2,Diabetes,Arthrosis,,
+138,Female,>65,0,0,0,,
+139,Male,35-64,2,Osteoporosis,Musculoskeletal Disorders,Ever smoker,
+140,Male,20-34,1,Arthrosis,0,,
+141,Female,20-34,1,Neoplasms,0,,
+142,Male,35-64,1,Arthritis,0,Ever smoker,
+143,Female,35-64,0,0,0,,
+144,Female,35-64,0,0,0,,
+145,Male,20-34,0,0,0,Ever smoker,
+146,Male,35-64,0,0,0,Never smoker,
+147,Male,>65,0,0,0,Ever smoker,
+148,Female,15-19,0,0,0,Never smoker,
+149,Female,35-64,2,Hypertension,Arthritis,,
+150,Female,35-64,0,0,0,Ever smoker,
+151,Female,35-64,2,Asthma,Diabetes,Ever smoker,
+152,Female,35-64,0,0,0,Never smoker,
+153,Female,20-34,2,Diabetes,Arthrosis,,21.386756092271032
+154,Female,35-64,0,0,0,,
+155,Male,>65,0,0,0,,
+156,Female,35-64,1,Hypertension,0,,
+157,Female,>65,0,0,0,,
+158,Male,35-64,1,Diabetes,0,,
+159,Male,0-14,0,0,0,,
+160,Female,20-34,1,Chronic kidney disease,0,Never smoker,
+161,Male,20-34,0,0,0,,
+162,Male,0-14,0,0,0,,
+163,Female,20-34,0,0,0,Never smoker,19.62984856535604
+164,Female,35-64,2,Asthma,Osteoporosis,Ever smoker,
+165,Male,35-64,1,Dementia,0,,
+166,Male,35-64,0,0,0,,
+167,Female,35-64,2,Hypertension,Arthrosis,,
+168,Male,35-64,0,0,0,Never smoker,
+169,Female,35-64,0,0,0,Never smoker,
+170,Male,15-19,0,0,0,,
+171,Female,15-19,0,0,0,Ever smoker,
+172,Male,35-64,0,0,0,Ever smoker,
+173,Female,35-64,0,0,0,Ever smoker,
+174,Female,35-64,1,Musculoskeletal Disorders,0,,
+175,Female,35-64,2,Neoplasms,Hypertension,,
+176,Male,35-64,0,0,0,,
+177,Female,20-34,0,0,0,,
+178,Female,35-64,2,Musculoskeletal Disorders,Osteoporosis,Never smoker,
+179,Female,0-14,0,0,0,Never smoker,
+180,Female,35-64,0,0,0,Ever smoker,
+181,Male,0-14,0,0,0,Ever smoker,
+182,Female,15-19,0,0,0,Never smoker,
+183,Female,>65,0,0,0,,
+184,Female,35-64,0,0,0,,
+185,Female,35-64,0,0,0,,
+186,Female,>65,0,0,0,,33.07250588552156
+187,Female,0-14,2,Diabetes,Dementia,,
+188,Male,15-19,2,Musculoskeletal Disorders,Hypertension,,
+189,Male,35-64,1,Hypertension,0,,
+190,Female,35-64,0,0,0,Never smoker,
+191,Male,35-64,2,Arthrosis,Musculoskeletal Disorders,Never smoker,
+192,Female,35-64,0,0,0,Never smoker,
+193,Female,35-64,2,Dementia,Diabetes,Never smoker,
+194,Male,35-64,2,Musculoskeletal Disorders,Ischemic stroke,Ever smoker,19.604098509344343
+195,Male,>65,2,Arthrosis,Chronic kidney disease,Never smoker,
+196,Female,>65,2,Hypertension,Asthma,Ever smoker,
+197,Male,35-64,0,0,0,Ever smoker,
+198,Male,20-34,1,Musculoskeletal Disorders,0,Ever smoker,
+199,Female,35-64,0,0,0,Ever smoker,
+200,Male,35-64,0,0,0,Ever smoker,
+201,Female,35-64,0,0,0,,
+202,Male,20-34,1,Arthritis,0,,
+203,Male,0-14,0,0,0,Never smoker,
+204,Female,35-64,2,Dementia,Diabetes,,
+205,Female,35-64,2,Ischemic stroke,Neoplasms,,
+206,Male,>65,0,0,0,,
+207,Male,35-64,0,0,0,,
+208,Female,35-64,2,Musculoskeletal Disorders,Asthma,Never smoker,33.695447091599775
+209,Male,35-64,0,0,0,Ever smoker,
+210,Female,35-64,0,0,0,Never smoker,
+211,Female,35-64,1,Arthritis,0,Ever smoker,
+212,Female,35-64,2,Ischemic stroke,Heart failure,,
+213,Male,20-34,1,Asthma,0,,
+214,Male,35-64,2,Chronic kidney disease,Musculoskeletal Disorders,Never smoker,
+215,Female,35-64,1,Diabetes,0,,
+216,Female,20-34,0,0,0,,
+217,Male,35-64,1,Ischemic stroke,0,,
+218,Female,35-64,0,0,0,Never smoker,
+219,Female,15-19,2,Arthrosis,Osteoporosis,Never smoker,
+220,Male,35-64,0,0,0,Ever smoker,
+221,Female,35-64,0,0,0,Ever smoker,
+222,Male,15-19,1,Arthrosis,0,Never smoker,
+223,Male,35-64,0,0,0,Never smoker,
+224,Male,0-14,2,Diabetes,Musculoskeletal Disorders,Never smoker,
+225,Female,35-64,0,0,0,Ever smoker,
+226,Female,35-64,0,0,0,,
+227,Female,35-64,0,0,0,Ever smoker,
+228,Female,35-64,0,0,0,,
+229,Female,35-64,1,Hypertension,0,Ever smoker,27.23505387791066
+230,Male,35-64,0,0,0,,
+231,Female,20-34,0,0,0,,
+232,Female,>65,2,Musculoskeletal Disorders,Arthrosis,Ever smoker,
+233,Female,35-64,2,Chronic kidney disease,Musculoskeletal Disorders,Never smoker,
+234,Male,15-19,0,0,0,Never smoker,
+235,Female,>65,0,0,0,,
+236,Male,15-19,2,Asthma,Diabetes,,36.4941440713995
+237,Male,20-34,2,Dementia,Neoplasms,Never smoker,
+238,Male,>65,2,Musculoskeletal Disorders,Asthma,Never smoker,27.49257291905718
+239,Female,35-64,2,Musculoskeletal Disorders,Arthrosis,,
+240,Male,0-14,2,Hypertension,Musculoskeletal Disorders,Never smoker,31.662196753895124
+241,Male,0-14,1,Asthma,0,,
+242,Male,15-19,2,Heart failure,Osteoporosis,Never smoker,
+243,Female,0-14,1,Diabetes,0,Ever smoker,
+244,Male,20-34,0,0,0,Ever smoker,
+245,Female,35-64,0,0,0,Never smoker,
+246,Female,20-34,0,0,0,Never smoker,18.8900619543702
+247,Male,>65,2,COPD,Osteoporosis,Never smoker,
+248,Male,35-64,1,Arthrosis,0,,
+249,Male,35-64,0,0,0,,
+250,Male,35-64,0,0,0,Never smoker,27.9343104433142
+251,Female,35-64,0,0,0,,
+252,Female,35-64,2,Asthma,Dementia,Ever smoker,
+253,Female,20-34,1,Dementia,0,Never smoker,
+254,Female,>65,0,0,0,,
+255,Male,35-64,2,Osteoporosis,Musculoskeletal Disorders,Ever smoker,
+256,Female,20-34,0,0,0,Ever smoker,
+257,Male,20-34,1,Heart failure,0,Never smoker,29.83898308696753
+258,Female,>65,1,Musculoskeletal Disorders,0,Ever smoker,
+259,Male,35-64,2,Osteoporosis,Arthrosis,,
+260,Female,15-19,0,0,0,,
+261,Female,35-64,1,Ischemic stroke,0,,
+262,Female,>65,2,Arthrosis,COPD,,
+263,Female,20-34,0,0,0,,
+264,Female,>65,0,0,0,,
+265,Male,35-64,0,0,0,Never smoker,
+266,Male,15-19,0,0,0,,
+267,Male,0-14,0,0,0,,
+268,Female,35-64,1,Musculoskeletal Disorders,0,,
+269,Female,0-14,0,0,0,Ever smoker,
+270,Female,20-34,1,Arthrosis,0,Never smoker,
+271,Male,0-14,0,0,0,Never smoker,
+272,Female,>65,2,Neoplasms,Asthma,Ever smoker,
+273,Female,35-64,0,0,0,Never smoker,
+274,Female,35-64,2,Musculoskeletal Disorders,COPD,Ever smoker,32.33502889733148
+275,Female,15-19,0,0,0,,
+276,Female,0-14,0,0,0,Never smoker,27.51762500415892
+277,Male,35-64,0,0,0,,
+278,Female,>65,1,Arthritis,0,Never smoker,
+279,Female,35-64,1,Arthrosis,0,Never smoker,
+280,Male,>65,0,0,0,,30.405906947871813
+281,Male,35-64,0,0,0,Never smoker,
+282,Male,>65,0,0,0,Never smoker,
+283,Male,0-14,2,Diabetes,Musculoskeletal Disorders,Never smoker,
+284,Male,15-19,1,Diabetes,0,,
+285,Female,35-64,0,0,0,Never smoker,
+286,Male,>65,2,COPD,Neoplasms,,
+287,Female,>65,2,Musculoskeletal Disorders,Chronic kidney disease,Never smoker,19.951904385207005
+288,Female,15-19,0,0,0,Never smoker,
+289,Female,35-64,2,Diabetes,Asthma,Never smoker,
+290,Female,35-64,2,Arthrosis,Hypertension,Ever smoker,
+291,Male,>65,2,Asthma,Arthrosis,Ever smoker,
+292,Female,20-34,1,Arthritis,0,Never smoker,
+293,Male,35-64,1,Hypertension,0,,15.745488137713618
+294,Male,35-64,0,0,0,,
+295,Female,35-64,1,Arthrosis,0,,
+296,Female,>65,2,Asthma,Arthritis,,
+297,Male,35-64,0,0,0,Ever smoker,
+298,Female,35-64,0,0,0,Ever smoker,
+299,Female,>65,2,COPD,Chronic kidney disease,Ever smoker,
+300,Male,35-64,2,Arthrosis,Asthma,,
+301,Male,35-64,0,0,0,Ever smoker,
+302,Female,20-34,1,Chronic kidney disease,0,,
+303,Male,15-19,1,Chronic kidney disease,0,Never smoker,
+304,Female,15-19,0,0,0,,
+305,Male,0-14,2,Musculoskeletal Disorders,Neoplasms,Never smoker,
+306,Male,20-34,0,0,0,,
+307,Male,35-64,0,0,0,Ever smoker,
+308,Female,20-34,0,0,0,Ever smoker,
+309,Male,35-64,2,Musculoskeletal Disorders,Heart failure,Never smoker,
+310,Female,>65,2,Neoplasms,Asthma,,
+311,Male,0-14,0,0,0,Never smoker,23.55421683160841
+312,Male,15-19,0,0,0,Ever smoker,
+313,Male,20-34,2,Arthrosis,Hypertension,Never smoker,
+314,Male,35-64,2,Musculoskeletal Disorders,Dementia,Never smoker,
+315,Female,15-19,2,Osteoporosis,Ischemic stroke,Ever smoker,
+316,Male,15-19,0,0,0,Never smoker,
+317,Female,15-19,1,Dementia,0,Ever smoker,
+318,Male,35-64,1,Hypertension,0,,
+319,Male,35-64,0,0,0,Ever smoker,
+320,Female,35-64,1,Arthrosis,0,Never smoker,
+321,Male,35-64,2,Asthma,Chronic kidney disease,Ever smoker,
+322,Female,35-64,2,Chronic kidney disease,Arthritis,Ever smoker,
+323,Male,20-34,2,Musculoskeletal Disorders,COPD,Ever smoker,
+324,Male,20-34,0,0,0,Never smoker,
+325,Male,20-34,0,0,0,Ever smoker,
+326,Male,>65,0,0,0,Never smoker,
+327,Female,>65,2,Musculoskeletal Disorders,Chronic kidney disease,Never smoker,
+328,Male,20-34,0,0,0,Ever smoker,
+329,Male,35-64,0,0,0,,
+330,Male,35-64,2,Hypertension,Arthrosis,,
+331,Female,35-64,2,Musculoskeletal Disorders,Heart failure,,
+332,Male,0-14,0,0,0,,
+333,Female,20-34,0,0,0,Never smoker,24.36077781993725
+334,Male,35-64,2,Musculoskeletal Disorders,Ischemic stroke,,
+335,Male,20-34,0,0,0,Ever smoker,
+336,Female,>65,0,0,0,Never smoker,
+337,Female,>65,2,Ischemic stroke,Musculoskeletal Disorders,,
+338,Female,35-64,1,Hypertension,0,Ever smoker,
+339,Male,>65,0,0,0,Ever smoker,
+340,Male,35-64,2,Arthrosis,COPD,,
+341,Male,35-64,2,Dementia,Heart failure,Ever smoker,
+342,Female,20-34,0,0,0,Ever smoker,
+343,Female,15-19,0,0,0,Never smoker,
+344,Male,15-19,0,0,0,,
+345,Female,>65,1,Hypertension,0,,
+346,Female,35-64,0,0,0,,
+347,Female,35-64,1,Arthrosis,0,,
+348,Female,35-64,0,0,0,,
+349,Female,>65,2,Asthma,COPD,Ever smoker,
+350,Female,35-64,2,Diabetes,COPD,Never smoker,
+351,Female,>65,0,0,0,,
+352,Male,35-64,0,0,0,Never smoker,
+353,Female,0-14,0,0,0,Ever smoker,
+354,Female,0-14,0,0,0,Ever smoker,
+355,Male,20-34,2,Dementia,Arthritis,,
+356,Female,35-64,0,0,0,Never smoker,
+357,Male,35-64,0,0,0,Never smoker,
+358,Male,0-14,0,0,0,Never smoker,
+359,Female,35-64,0,0,0,Never smoker,
+360,Female,15-19,0,0,0,Ever smoker,
+361,Female,15-19,2,Musculoskeletal Disorders,Dementia,,
+362,Male,35-64,0,0,0,Never smoker,
+363,Male,15-19,2,Neoplasms,COPD,Never smoker,
+364,Male,15-19,0,0,0,Never smoker,
+365,Female,35-64,1,Arthritis,0,Never smoker,
+366,Male,35-64,2,Osteoporosis,Ischemic stroke,Never smoker,
+367,Female,>65,0,0,0,,
+368,Male,35-64,1,Musculoskeletal Disorders,0,Never smoker,
+369,Female,>65,0,0,0,,
+370,Male,35-64,0,0,0,Never smoker,
+371,Male,15-19,1,Ischemic stroke,0,Ever smoker,
+372,Male,35-64,0,0,0,Ever smoker,22.884383217184023
+373,Female,35-64,1,Arthrosis,0,,
+374,Male,35-64,0,0,0,,
+375,Male,35-64,0,0,0,Never smoker,
+376,Female,35-64,0,0,0,,
+377,Female,35-64,2,Osteoporosis,Diabetes,Ever smoker,
+378,Female,>65,0,0,0,Ever smoker,
+379,Female,>65,0,0,0,,
+380,Male,35-64,1,Arthritis,0,,
+381,Female,35-64,0,0,0,,
+382,Female,35-64,2,Arthrosis,Asthma,Ever smoker,
+383,Male,20-34,2,Ischemic stroke,Arthrosis,Never smoker,
+384,Male,35-64,1,Diabetes,0,,
+385,Female,15-19,0,0,0,,
+386,Male,0-14,1,Dementia,0,,
+387,Male,35-64,1,COPD,0,,
+388,Female,0-14,2,Diabetes,Chronic kidney disease,Ever smoker,
+389,Male,15-19,2,Ischemic stroke,Osteoporosis,Never smoker,
+390,Male,>65,0,0,0,,
+391,Male,20-34,0,0,0,,
+392,Female,35-64,1,Ischemic stroke,0,Ever smoker,
+393,Male,20-34,1,Asthma,0,Never smoker,25.77213109994416
+394,Male,20-34,1,COPD,0,,
+395,Male,15-19,2,Chronic kidney disease,Neoplasms,Ever smoker,
+396,Female,35-64,2,Asthma,Hypertension,,
+397,Female,35-64,0,0,0,Never smoker,
+398,Male,35-64,2,Arthrosis,Musculoskeletal Disorders,Ever smoker,
+399,Male,>65,2,Hypertension,Arthrosis,Ever smoker,
+400,Female,20-34,2,Osteoporosis,Musculoskeletal Disorders,Ever smoker,
+401,Female,35-64,1,COPD,0,,
+402,Female,35-64,0,0,0,,
+403,Male,35-64,0,0,0,,
+404,Male,35-64,0,0,0,Ever smoker,
+405,Female,35-64,0,0,0,Never smoker,
+406,Male,20-34,1,Hypertension,0,,
+407,Female,35-64,0,0,0,,28.279059713050245
+408,Female,35-64,0,0,0,Never smoker,
+409,Female,35-64,0,0,0,Ever smoker,
+410,Female,0-14,2,Osteoporosis,Asthma,Ever smoker,
+411,Female,15-19,0,0,0,Ever smoker,
+412,Female,15-19,0,0,0,Ever smoker,
+413,Male,20-34,1,Chronic kidney disease,0,Never smoker,16.490010375225175
+414,Female,20-34,1,Diabetes,0,,
+415,Female,>65,1,Chronic kidney disease,0,,
+416,Male,35-64,2,Musculoskeletal Disorders,Dementia,Never smoker,
+417,Female,>65,0,0,0,,
+418,Female,>65,0,0,0,,
+419,Male,35-64,0,0,0,Never smoker,
+420,Female,20-34,1,Chronic kidney disease,0,Ever smoker,
+421,Male,20-34,0,0,0,Never smoker,
+422,Male,>65,0,0,0,Never smoker,
+423,Male,35-64,0,0,0,,
+424,Male,15-19,0,0,0,Never smoker,
+425,Male,35-64,2,Dementia,Dementia,,
+426,Female,35-64,0,0,0,Ever smoker,
+427,Female,35-64,0,0,0,Never smoker,
+428,Female,20-34,2,Asthma,Arthrosis,,
+429,Male,>65,2,Arthritis,Osteoporosis,,
+430,Female,35-64,0,0,0,,
+431,Female,0-14,1,Hypertension,0,Ever smoker,
+432,Male,0-14,0,0,0,Never smoker,
+433,Male,35-64,0,0,0,,
+434,Female,0-14,2,Hypertension,Ischemic stroke,Never smoker,
+435,Male,15-19,1,COPD,0,Ever smoker,
+436,Female,15-19,1,Chronic kidney disease,0,Never smoker,31.353614733873663
+437,Female,20-34,0,0,0,Never smoker,29.04633645332597
+438,Female,>65,2,Asthma,COPD,,
+439,Female,35-64,0,0,0,Never smoker,17.543963527737425
+440,Female,0-14,0,0,0,Ever smoker,
+441,Male,0-14,0,0,0,Ever smoker,35.888282121111445
+442,Male,35-64,0,0,0,Ever smoker,29.69483806325828
+443,Female,0-14,0,0,0,,
+444,Male,20-34,1,Arthrosis,0,,
+445,Female,35-64,0,0,0,Never smoker,
+446,Male,20-34,2,Ischemic stroke,Osteoporosis,Never smoker,
+447,Female,20-34,1,Neoplasms,0,,
+448,Male,20-34,2,Dementia,Asthma,,
+449,Male,>65,2,Musculoskeletal Disorders,Hypertension,Ever smoker,
+450,Male,35-64,1,Heart failure,0,Ever smoker,12.669944120020778
+451,Male,15-19,0,0,0,,
+452,Male,>65,0,0,0,Ever smoker,
+453,Male,>65,1,Musculoskeletal Disorders,0,,
+454,Male,0-14,2,Neoplasms,Asthma,Never smoker,
+455,Male,>65,0,0,0,,
+456,Female,35-64,2,Arthrosis,Neoplasms,Never smoker,
+457,Female,>65,0,0,0,,
+458,Male,35-64,0,0,0,,
+459,Male,15-19,1,Arthritis,0,Never smoker,
+460,Male,20-34,0,0,0,Ever smoker,
+461,Male,20-34,0,0,0,,
+462,Male,35-64,2,Chronic kidney disease,COPD,,31.00873676540909
+463,Male,>65,0,0,0,,
+464,Female,20-34,1,Ischemic stroke,0,,
+465,Male,>65,2,Musculoskeletal Disorders,Hypertension,Never smoker,
+466,Male,15-19,0,0,0,,31.09262222535277
+467,Female,35-64,1,Osteoporosis,0,,33.428255956150295
+468,Male,35-64,0,0,0,Ever smoker,
+469,Female,>65,2,Musculoskeletal Disorders,Hypertension,Never smoker,
+470,Female,15-19,0,0,0,Ever smoker,
+471,Male,35-64,1,Heart failure,0,,
+472,Female,35-64,0,0,0,,
+473,Female,>65,0,0,0,Never smoker,
+474,Male,35-64,1,Osteoporosis,0,Never smoker,
+475,Male,20-34,0,0,0,,
+476,Female,35-64,2,Hypertension,Chronic kidney disease,,
+477,Female,35-64,2,Diabetes,Musculoskeletal Disorders,,
+478,Female,20-34,0,0,0,,
+479,Male,35-64,0,0,0,Never smoker,
+480,Female,20-34,0,0,0,,
+481,Male,>65,2,Hypertension,Arthrosis,,
+482,Female,35-64,2,Heart failure,Diabetes,Never smoker,
+483,Female,20-34,0,0,0,Ever smoker,
+484,Female,>65,0,0,0,Ever smoker,
+485,Male,15-19,0,0,0,,
+486,Female,>65,2,Arthritis,Diabetes,,
+487,Female,35-64,0,0,0,Never smoker,46.7247821681607
+488,Male,35-64,1,Arthrosis,0,Never smoker,
+489,Male,35-64,0,0,0,,
+490,Male,20-34,0,0,0,Ever smoker,
+491,Female,35-64,0,0,0,Never smoker,
+492,Female,20-34,2,Musculoskeletal Disorders,Arthrosis,,17.60307828210476
+493,Male,20-34,1,Diabetes,0,,33.318614085046576
+494,Female,0-14,0,0,0,Never smoker,30.349833564832423
+495,Female,>65,2,Asthma,Hypertension,Never smoker,
+496,Male,35-64,2,Neoplasms,Osteoporosis,,
+497,Female,35-64,0,0,0,,
+498,Female,35-64,1,Neoplasms,0,Ever smoker,
+499,Male,35-64,0,0,0,,
+500,Female,35-64,0,0,0,Never smoker,
+501,Male,35-64,0,0,0,Never smoker,
+502,Female,35-64,0,0,0,Never smoker,
+503,Female,20-34,1,Diabetes,0,Never smoker,
+504,Male,35-64,0,0,0,Never smoker,
+505,Female,>65,0,0,0,,
+506,Female,0-14,0,0,0,,42.02243665601448
+507,Male,0-14,0,0,0,,
+508,Female,35-64,1,Ischemic stroke,0,,
+509,Female,0-14,0,0,0,,22.81975671177452
+510,Male,20-34,0,0,0,Never smoker,
+511,Female,20-34,2,Diabetes,Heart failure,,
+512,Female,20-34,0,0,0,Ever smoker,
+513,Female,35-64,0,0,0,,14.871544596438548
+514,Male,15-19,2,COPD,Arthritis,,
+515,Female,20-34,2,Musculoskeletal Disorders,Heart failure,,
+516,Male,0-14,0,0,0,Never smoker,
+517,Male,>65,2,Diabetes,Heart failure,Ever smoker,
+518,Female,20-34,2,COPD,Musculoskeletal Disorders,Ever smoker,
+519,Male,>65,0,0,0,Never smoker,
+520,Male,20-34,1,Chronic kidney disease,0,Never smoker,
+521,Female,15-19,0,0,0,Never smoker,
+522,Female,20-34,2,COPD,Arthrosis,Ever smoker,
+523,Female,20-34,2,Heart failure,Chronic kidney disease,Never smoker,
+524,Male,0-14,2,COPD,Musculoskeletal Disorders,Ever smoker,
+525,Male,>65,1,COPD,0,Never smoker,
+526,Female,>65,1,Ischemic stroke,0,,
+527,Female,15-19,0,0,0,Never smoker,
+528,Female,35-64,0,0,0,,
+529,Female,35-64,0,0,0,Never smoker,
+530,Male,35-64,1,Arthrosis,0,Never smoker,
+531,Female,20-34,0,0,0,,36.10057676154798
+532,Female,20-34,0,0,0,,
+533,Male,>65,0,0,0,Never smoker,
+534,Female,0-14,2,Chronic kidney disease,Ischemic stroke,,31.97575154680025
+535,Male,35-64,0,0,0,,
+536,Female,0-14,1,Arthrosis,0,Ever smoker,
+537,Female,20-34,0,0,0,Ever smoker,
+538,Female,0-14,0,0,0,,
+539,Male,0-14,0,0,0,Never smoker,
+540,Male,35-64,0,0,0,,
+541,Female,>65,0,0,0,Never smoker,
+542,Female,15-19,0,0,0,Ever smoker,
+543,Male,20-34,1,Osteoporosis,0,Never smoker,
+544,Female,20-34,2,Musculoskeletal Disorders,Chronic kidney disease,,
+545,Female,35-64,2,Hypertension,Asthma,,
+546,Female,35-64,0,0,0,Ever smoker,
+547,Female,20-34,2,Hypertension,Osteoporosis,,
+548,Female,0-14,1,Osteoporosis,0,Never smoker,
+549,Female,35-64,0,0,0,Ever smoker,22.59609429418531
+550,Male,15-19,0,0,0,,34.03720197756967
+551,Male,>65,1,Diabetes,0,Never smoker,
+552,Male,35-64,2,Arthrosis,Musculoskeletal Disorders,Never smoker,
+553,Male,35-64,0,0,0,,
+554,Male,35-64,0,0,0,,
+555,Female,>65,0,0,0,Never smoker,
+556,Female,0-14,1,Neoplasms,0,,
+557,Female,20-34,0,0,0,,
+558,Male,35-64,2,Diabetes,Musculoskeletal Disorders,,
+559,Male,20-34,2,Musculoskeletal Disorders,Hypertension,Never smoker,
+560,Female,35-64,0,0,0,Ever smoker,
+561,Male,35-64,2,Asthma,Arthritis,,
+562,Female,20-34,2,Chronic kidney disease,COPD,Never smoker,
+563,Female,35-64,2,Dementia,Musculoskeletal Disorders,,
+564,Female,35-64,2,Asthma,Hypertension,Never smoker,
+565,Female,35-64,0,0,0,Never smoker,29.929565818695444
+566,Female,20-34,1,COPD,0,,
+567,Female,0-14,0,0,0,Ever smoker,
+568,Female,>65,0,0,0,Ever smoker,
+569,Female,35-64,0,0,0,Never smoker,
+570,Male,>65,0,0,0,Never smoker,
+571,Male,>65,1,Musculoskeletal Disorders,0,Ever smoker,
+572,Male,35-64,0,0,0,,
+573,Female,15-19,0,0,0,Never smoker,28.46526169562844
+574,Male,35-64,0,0,0,Ever smoker,
+575,Male,35-64,0,0,0,,
+576,Female,35-64,1,Dementia,0,Never smoker,
+577,Female,35-64,2,Musculoskeletal Disorders,Osteoporosis,,
+578,Male,>65,0,0,0,,
+579,Male,35-64,0,0,0,Ever smoker,
+580,Male,>65,0,0,0,,
+581,Female,35-64,2,Musculoskeletal Disorders,Dementia,,
+582,Female,>65,0,0,0,Ever smoker,
+583,Male,35-64,0,0,0,Ever smoker,
+584,Male,35-64,2,Chronic kidney disease,Musculoskeletal Disorders,Never smoker,
+585,Female,35-64,1,Diabetes,0,,
+586,Male,0-14,2,Musculoskeletal Disorders,Chronic kidney disease,Never smoker,
+587,Male,35-64,2,Hypertension,Ischemic stroke,,
+588,Female,20-34,0,0,0,,
+589,Male,35-64,2,Ischemic stroke,Asthma,Never smoker,
+590,Female,>65,0,0,0,Never smoker,
+591,Male,>65,2,Musculoskeletal Disorders,Osteoporosis,Ever smoker,
+592,Male,20-34,0,0,0,,
+593,Female,>65,0,0,0,,
+594,Female,20-34,0,0,0,Never smoker,
+595,Female,20-34,2,Hypertension,Dementia,,
+596,Male,35-64,0,0,0,Ever smoker,
+597,Female,>65,1,COPD,0,,
+598,Male,>65,1,Ischemic stroke,0,Never smoker,
+599,Male,15-19,0,0,0,Ever smoker,
+600,Male,0-14,0,0,0,,
+601,Male,35-64,0,0,0,,
+602,Male,20-34,0,0,0,Never smoker,
+603,Male,15-19,1,Arthrosis,0,,
+604,Female,0-14,1,Hypertension,0,Never smoker,19.61900613237781
+605,Female,15-19,1,Arthrosis,0,,
+606,Female,35-64,0,0,0,,
+607,Male,35-64,0,0,0,,
+608,Male,15-19,0,0,0,,
+609,Male,35-64,0,0,0,Never smoker,
+610,Male,35-64,1,Osteoporosis,0,,
+611,Male,0-14,0,0,0,Ever smoker,
+612,Female,35-64,2,Ischemic stroke,COPD,,
+613,Female,0-14,0,0,0,,
+614,Female,35-64,2,Heart failure,Musculoskeletal Disorders,,
+615,Male,15-19,2,Osteoporosis,Musculoskeletal Disorders,Never smoker,
+616,Female,15-19,0,0,0,Ever smoker,
+617,Female,35-64,0,0,0,,
+618,Female,0-14,1,Arthrosis,0,Ever smoker,19.6813613824211
+619,Female,20-34,2,Musculoskeletal Disorders,COPD,Never smoker,
+620,Male,>65,1,Hypertension,0,Never smoker,
+621,Male,35-64,1,Musculoskeletal Disorders,0,Never smoker,
+622,Male,0-14,1,Neoplasms,0,,
+623,Female,20-34,0,0,0,,40.72699371156068
+624,Female,20-34,0,0,0,,
+625,Female,15-19,0,0,0,,
+626,Female,>65,1,Arthrosis,0,Never smoker,
+627,Female,35-64,0,0,0,,
+628,Female,35-64,1,Arthritis,0,Ever smoker,
+629,Female,15-19,1,Osteoporosis,0,,
+630,Male,35-64,0,0,0,Never smoker,
+631,Female,15-19,0,0,0,Never smoker,
+632,Female,>65,0,0,0,Ever smoker,
+633,Female,35-64,1,Chronic kidney disease,0,Never smoker,
+634,Male,20-34,2,Ischemic stroke,Arthrosis,Never smoker,
+635,Female,20-34,2,Chronic kidney disease,Osteoporosis,,
+636,Female,20-34,0,0,0,Ever smoker,
+637,Male,35-64,0,0,0,,
+638,Male,20-34,1,COPD,0,Ever smoker,
+639,Female,20-34,0,0,0,Never smoker,
+640,Female,35-64,2,Neoplasms,Asthma,Ever smoker,
+641,Female,0-14,2,Heart failure,Arthrosis,,
+642,Female,15-19,0,0,0,Never smoker,
+643,Male,>65,0,0,0,,
+644,Female,35-64,0,0,0,Ever smoker,
+645,Female,>65,2,Musculoskeletal Disorders,Hypertension,Ever smoker,
+646,Male,20-34,0,0,0,,
+647,Female,20-34,0,0,0,Never smoker,
+648,Male,35-64,1,Osteoporosis,0,Ever smoker,20.33736422603124
+649,Male,20-34,2,Heart failure,Chronic kidney disease,Never smoker,
+650,Female,>65,0,0,0,,
+651,Male,35-64,0,0,0,,
+652,Female,20-34,0,0,0,,
+653,Female,35-64,0,0,0,,
+654,Female,35-64,0,0,0,Never smoker,
+655,Female,35-64,2,Ischemic stroke,Asthma,Never smoker,
+656,Female,>65,1,Arthritis,0,,
+657,Female,35-64,0,0,0,Ever smoker,
+658,Female,>65,0,0,0,Never smoker,
+659,Female,35-64,2,Arthrosis,Neoplasms,,
+660,Female,>65,2,Musculoskeletal Disorders,COPD,,
+661,Female,35-64,0,0,0,Never smoker,
+662,Male,35-64,2,Asthma,Hypertension,,
+663,Female,35-64,0,0,0,,
+664,Female,35-64,0,0,0,,
+665,Female,20-34,0,0,0,Never smoker,
+666,Female,35-64,1,Hypertension,0,Ever smoker,
+667,Female,20-34,1,COPD,0,Never smoker,
+668,Male,>65,0,0,0,Never smoker,
+669,Male,>65,1,Asthma,0,Never smoker,
+670,Female,35-64,1,Chronic kidney disease,0,Ever smoker,
+671,Female,35-64,2,Arthrosis,Neoplasms,Ever smoker,
+672,Male,35-64,1,Arthrosis,0,Never smoker,
+673,Female,20-34,0,0,0,,
+674,Female,20-34,1,Neoplasms,0,Never smoker,30.55450002791148
+675,Male,>65,1,Ischemic stroke,0,Ever smoker,
+676,Male,>65,2,Asthma,Heart failure,Ever smoker,
+677,Female,20-34,0,0,0,Never smoker,
+678,Female,20-34,0,0,0,Ever smoker,
+679,Male,35-64,0,0,0,Never smoker,
+680,Male,0-14,2,Dementia,Osteoporosis,Ever smoker,25.27862616937908
+681,Female,15-19,2,Hypertension,Osteoporosis,Never smoker,
+682,Male,35-64,1,Diabetes,0,,
+683,Male,35-64,0,0,0,Never smoker,
+684,Female,0-14,0,0,0,Never smoker,
+685,Female,35-64,0,0,0,Ever smoker,
+686,Male,20-34,2,Asthma,Hypertension,Never smoker,
+687,Female,0-14,0,0,0,Ever smoker,
+688,Male,35-64,1,Musculoskeletal Disorders,0,Ever smoker,22.89616082986679
+689,Male,0-14,1,Osteoporosis,0,Never smoker,
+690,Female,20-34,2,Osteoporosis,Hypertension,,
+691,Male,35-64,0,0,0,Never smoker,
+692,Female,0-14,1,Chronic kidney disease,0,,
+693,Male,35-64,1,Neoplasms,0,Never smoker,
+694,Female,>65,1,Ischemic stroke,0,Ever smoker,
+695,Female,20-34,0,0,0,,
+696,Male,35-64,2,Ischemic stroke,Hypertension,,
+697,Female,35-64,0,0,0,Never smoker,
+698,Male,35-64,0,0,0,Never smoker,
+699,Female,15-19,1,Osteoporosis,0,Never smoker,
+700,Male,20-34,0,0,0,,35.15183647412435
+701,Male,20-34,0,0,0,Never smoker,20.59794621151128
+702,Male,>65,0,0,0,Ever smoker,
+703,Male,0-14,2,Ischemic stroke,Chronic kidney disease,,
+704,Male,>65,1,Arthritis,0,,
+705,Female,35-64,0,0,0,,
+706,Male,35-64,1,COPD,0,,
+707,Female,35-64,0,0,0,,
+708,Male,20-34,2,Musculoskeletal Disorders,Arthritis,,34.77118761023592
+709,Female,0-14,0,0,0,,
+710,Female,0-14,0,0,0,,28.20935261126268
+711,Male,35-64,1,Asthma,0,,
+712,Male,>65,2,Ischemic stroke,Heart failure,Never smoker,
+713,Male,20-34,1,Neoplasms,0,Never smoker,
+714,Male,35-64,0,0,0,Never smoker,
+715,Female,35-64,2,Chronic kidney disease,Osteoporosis,Never smoker,
+716,Male,35-64,0,0,0,Never smoker,
+717,Male,35-64,0,0,0,Never smoker,
+718,Female,0-14,1,COPD,0,,
+719,Female,35-64,2,Ischemic stroke,Asthma,,
+720,Male,20-34,0,0,0,Never smoker,
+721,Male,15-19,2,Hypertension,Musculoskeletal Disorders,Ever smoker,
+722,Male,35-64,0,0,0,Ever smoker,
+723,Male,35-64,0,0,0,Never smoker,
+724,Female,20-34,1,Hypertension,0,Never smoker,
+725,Male,35-64,0,0,0,,
+726,Female,20-34,0,0,0,,
+727,Female,>65,1,Arthrosis,0,Never smoker,
+728,Male,35-64,0,0,0,,
+729,Male,35-64,2,Arthrosis,Asthma,,
+730,Male,35-64,2,Ischemic stroke,Osteoporosis,,
+731,Female,35-64,1,Neoplasms,0,Never smoker,17.93351604799105
+732,Male,35-64,0,0,0,,18.689891379739898
+733,Male,0-14,2,Musculoskeletal Disorders,Dementia,,
+734,Female,35-64,0,0,0,Never smoker,
+735,Male,0-14,0,0,0,Ever smoker,
+736,Male,35-64,0,0,0,,
+737,Female,35-64,0,0,0,Never smoker,
+738,Female,20-34,1,COPD,0,,
+739,Female,35-64,2,Asthma,Arthrosis,Ever smoker,
+740,Female,>65,1,Musculoskeletal Disorders,0,,
+741,Female,35-64,0,0,0,,
+742,Female,>65,0,0,0,,
+743,Male,20-34,0,0,0,Never smoker,
+744,Female,35-64,0,0,0,,
+745,Male,15-19,2,Hypertension,Arthrosis,Ever smoker,
+746,Male,15-19,0,0,0,,33.839727620987375
+747,Male,35-64,0,0,0,,
+748,Female,0-14,0,0,0,Never smoker,
+749,Female,35-64,1,Arthrosis,0,Never smoker,
+750,Female,35-64,0,0,0,,
+751,Female,35-64,1,Diabetes,0,,
+752,Female,>65,2,Asthma,Hypertension,Never smoker,
+753,Male,>65,1,Chronic kidney disease,0,Never smoker,27.60905048989308
+754,Female,15-19,0,0,0,Ever smoker,26.43360143731736
+755,Male,35-64,2,Neoplasms,Osteoporosis,Ever smoker,
+756,Male,35-64,0,0,0,Never smoker,
+757,Male,>65,1,Arthritis,0,,
+758,Female,35-64,0,0,0,,
+759,Female,20-34,2,Dementia,Neoplasms,Ever smoker,
+760,Male,15-19,1,Arthrosis,0,,
+761,Male,35-64,0,0,0,,35.99579933771857
+762,Female,35-64,1,Ischemic stroke,0,Never smoker,
+763,Female,20-34,0,0,0,Ever smoker,
+764,Female,35-64,0,0,0,,32.608904889001934
+765,Female,35-64,1,Asthma,0,,26.968577232986704
+766,Female,35-64,0,0,0,Ever smoker,
+767,Female,35-64,0,0,0,Never smoker,
+768,Male,35-64,1,Musculoskeletal Disorders,0,Never smoker,
+769,Female,35-64,0,0,0,Never smoker,
+770,Female,20-34,0,0,0,,
+771,Male,35-64,1,Musculoskeletal Disorders,0,Never smoker,
+772,Female,35-64,2,Asthma,Osteoporosis,,
+773,Male,>65,0,0,0,Never smoker,
+774,Male,35-64,1,Chronic kidney disease,0,,
+775,Female,0-14,2,COPD,Osteoporosis,Ever smoker,
+776,Male,35-64,0,0,0,,
+777,Female,35-64,1,Hypertension,0,Never smoker,
+778,Female,35-64,2,Arthrosis,Asthma,Never smoker,
+779,Male,20-34,1,Ischemic stroke,0,Ever smoker,
+780,Male,20-34,0,0,0,,
+781,Male,>65,2,Musculoskeletal Disorders,COPD,,
+782,Male,>65,1,Arthrosis,0,,
+783,Male,15-19,0,0,0,,
+784,Male,20-34,1,COPD,0,,
+785,Male,>65,0,0,0,Never smoker,
+786,Male,>65,0,0,0,Never smoker,
+787,Male,15-19,1,Osteoporosis,0,,
+788,Female,>65,1,COPD,0,,
+789,Female,20-34,1,Neoplasms,0,,
+790,Male,>65,0,0,0,,
+791,Female,35-64,2,Asthma,Musculoskeletal Disorders,,
+792,Female,>65,0,0,0,Never smoker,
+793,Male,35-64,1,Diabetes,0,Ever smoker,
+794,Male,20-34,0,0,0,,
+795,Male,>65,0,0,0,Never smoker,
+796,Female,20-34,2,Arthrosis,Musculoskeletal Disorders,,
+797,Female,20-34,0,0,0,Never smoker,
+798,Male,35-64,1,Arthrosis,0,,
+799,Female,15-19,0,0,0,,
+800,Male,15-19,1,Chronic kidney disease,0,Ever smoker,
+801,Male,0-14,0,0,0,,
+802,Male,15-19,2,Ischemic stroke,Arthrosis,Ever smoker,
+803,Female,>65,1,Hypertension,0,Ever smoker,
+804,Male,15-19,2,Hypertension,Musculoskeletal Disorders,,
+805,Male,35-64,0,0,0,Never smoker,
+806,Female,20-34,0,0,0,,
+807,Female,35-64,0,0,0,,
+808,Female,20-34,0,0,0,,
+809,Male,20-34,0,0,0,,
+810,Male,15-19,1,Ischemic stroke,0,,
+811,Female,35-64,0,0,0,Ever smoker,
+812,Female,35-64,1,Heart failure,0,,
+813,Female,>65,0,0,0,,
+814,Male,15-19,0,0,0,Ever smoker,
+815,Male,35-64,0,0,0,,
+816,Female,35-64,0,0,0,,
+817,Female,35-64,0,0,0,Never smoker,
+818,Female,35-64,1,Musculoskeletal Disorders,0,,
+819,Male,35-64,0,0,0,Ever smoker,
+820,Female,35-64,0,0,0,Ever smoker,26.113667244741688
+821,Male,35-64,1,Arthrosis,0,Never smoker,
+822,Female,0-14,2,Osteoporosis,Dementia,Never smoker,
+823,Female,>65,1,Arthritis,0,,
+824,Female,35-64,2,Dementia,Musculoskeletal Disorders,,
+825,Male,15-19,0,0,0,,
+826,Female,>65,0,0,0,Never smoker,
+827,Female,35-64,0,0,0,Never smoker,
+828,Female,20-34,2,Arthrosis,COPD,,30.403760626928907
+829,Male,35-64,0,0,0,Ever smoker,
+830,Male,35-64,0,0,0,Ever smoker,
+831,Female,35-64,0,0,0,Ever smoker,
+832,Male,35-64,0,0,0,,
+833,Female,>65,1,Arthrosis,0,,
+834,Male,35-64,0,0,0,Never smoker,
+835,Female,20-34,2,Musculoskeletal Disorders,Dementia,Never smoker,
+836,Female,20-34,0,0,0,Ever smoker,
+837,Female,20-34,0,0,0,Ever smoker,23.184769930312324
+838,Female,20-34,1,Arthritis,0,,
+839,Female,20-34,1,Osteoporosis,0,,
+840,Female,35-64,2,Asthma,Hypertension,Never smoker,
+841,Female,35-64,0,0,0,,
+842,Female,15-19,1,Hypertension,0,,
+843,Female,0-14,2,Neoplasms,COPD,,
+844,Female,20-34,1,Ischemic stroke,0,,
+845,Male,>65,1,Musculoskeletal Disorders,0,Never smoker,
+846,Female,35-64,0,0,0,,
+847,Male,20-34,0,0,0,,
+848,Female,35-64,0,0,0,,
+849,Male,35-64,0,0,0,,
+850,Female,20-34,0,0,0,,
+851,Female,35-64,2,Musculoskeletal Disorders,Diabetes,Never smoker,
+852,Male,>65,2,Ischemic stroke,Chronic kidney disease,Ever smoker,
+853,Male,35-64,0,0,0,Ever smoker,
+854,Female,35-64,2,Chronic kidney disease,Musculoskeletal Disorders,,33.97978008749558
+855,Male,35-64,0,0,0,Ever smoker,
+856,Female,20-34,0,0,0,Ever smoker,16.76463424026431
+857,Female,20-34,1,Ischemic stroke,0,Ever smoker,
+858,Male,0-14,1,Heart failure,0,,
+859,Male,35-64,2,Hypertension,Osteoporosis,Never smoker,32.95890321885528
+860,Female,35-64,2,Dementia,Arthrosis,Ever smoker,
+861,Female,35-64,2,Arthrosis,Neoplasms,Ever smoker,
+862,Female,35-64,2,Dementia,Ischemic stroke,Ever smoker,
+863,Female,0-14,0,0,0,,
+864,Female,0-14,0,0,0,Ever smoker,
+865,Male,35-64,1,Arthrosis,0,Never smoker,
+866,Female,35-64,0,0,0,Never smoker,
+867,Female,>65,1,Hypertension,0,,
+868,Male,35-64,0,0,0,Ever smoker,
+869,Male,15-19,0,0,0,,
+870,Male,35-64,1,Osteoporosis,0,,
+871,Female,15-19,0,0,0,Never smoker,
+872,Female,35-64,2,Musculoskeletal Disorders,Chronic kidney disease,Never smoker,
+873,Male,35-64,1,Diabetes,0,,
+874,Female,0-14,1,Neoplasms,0,Ever smoker,
+875,Male,0-14,0,0,0,,
+876,Female,>65,0,0,0,Never smoker,28.609531438872065
+877,Female,0-14,0,0,0,Never smoker,41.62647995573093
+878,Male,0-14,1,Musculoskeletal Disorders,0,Ever smoker,
+879,Female,>65,0,0,0,,
+880,Female,35-64,0,0,0,Never smoker,
+881,Male,35-64,2,Arthrosis,Hypertension,Ever smoker,
+882,Male,35-64,0,0,0,Never smoker,
+883,Female,>65,0,0,0,Never smoker,
+884,Male,20-34,0,0,0,Never smoker,
+885,Female,35-64,1,Ischemic stroke,0,Ever smoker,
+886,Male,20-34,0,0,0,Ever smoker,
+887,Male,0-14,1,Chronic kidney disease,0,,
+888,Male,>65,0,0,0,,
+889,Male,0-14,0,0,0,,
+890,Female,35-64,2,Chronic kidney disease,Musculoskeletal Disorders,,
+891,Female,35-64,0,0,0,,40.774219111637706
+892,Male,35-64,0,0,0,Ever smoker,
+893,Female,35-64,0,0,0,Ever smoker,
+894,Male,0-14,2,Asthma,Hypertension,,
+895,Female,15-19,2,Arthrosis,Ischemic stroke,Never smoker,
+896,Female,35-64,0,0,0,,
+897,Female,35-64,2,Arthritis,Dementia,,
+898,Female,35-64,0,0,0,,
+899,Female,35-64,0,0,0,Ever smoker,
+900,Female,>65,0,0,0,Never smoker,
+901,Female,20-34,0,0,0,,
+902,Male,35-64,1,Ischemic stroke,0,,
+903,Female,35-64,2,Neoplasms,Heart failure,Never smoker,
+904,Male,15-19,2,Musculoskeletal Disorders,Asthma,Never smoker,18.6355916495474
+905,Male,35-64,0,0,0,Ever smoker,
+906,Female,0-14,2,Diabetes,Heart failure,,
+907,Female,>65,0,0,0,Never smoker,
+908,Female,20-34,0,0,0,Never smoker,
+909,Male,>65,1,Musculoskeletal Disorders,0,,10.0
+910,Male,35-64,2,Dementia,Ischemic stroke,Ever smoker,
+911,Male,35-64,2,Asthma,Musculoskeletal Disorders,,
+912,Female,0-14,0,0,0,,
+913,Male,>65,0,0,0,Never smoker,
+914,Male,15-19,0,0,0,,
+915,Male,35-64,0,0,0,Ever smoker,
+916,Female,0-14,2,Arthrosis,COPD,Ever smoker,
+917,Male,>65,1,COPD,0,Ever smoker,
+918,Female,35-64,1,Arthrosis,0,Ever smoker,
+919,Female,35-64,0,0,0,Never smoker,14.511076671619843
+920,Female,35-64,0,0,0,,
+921,Female,20-34,2,Chronic kidney disease,Dementia,,
+922,Male,>65,0,0,0,Never smoker,
+923,Male,35-64,1,Arthritis,0,,
+924,Female,35-64,1,Musculoskeletal Disorders,0,Ever smoker,
+925,Female,35-64,0,0,0,,17.721484750339165
+926,Male,20-34,0,0,0,Ever smoker,
+927,Male,20-34,0,0,0,Never smoker,
+928,Female,35-64,2,Dementia,Osteoporosis,Ever smoker,
+929,Male,15-19,0,0,0,Never smoker,
+930,Female,35-64,0,0,0,,
+931,Male,15-19,2,Neoplasms,COPD,Never smoker,28.3467971727976
+932,Male,35-64,0,0,0,Never smoker,
+933,Female,20-34,2,Musculoskeletal Disorders,Osteoporosis,,43.53284149161118
+934,Female,35-64,2,Heart failure,Musculoskeletal Disorders,Ever smoker,
+935,Female,0-14,2,Musculoskeletal Disorders,Diabetes,,
+936,Male,20-34,1,Musculoskeletal Disorders,0,,
+937,Female,0-14,0,0,0,,17.286028628221665
+938,Female,20-34,0,0,0,Ever smoker,
+939,Male,>65,2,Dementia,Chronic kidney disease,Never smoker,
+940,Male,35-64,0,0,0,,
+941,Female,20-34,0,0,0,Ever smoker,
+942,Male,0-14,0,0,0,,
+943,Male,0-14,1,Ischemic stroke,0,,
+944,Female,35-64,0,0,0,,
+945,Male,20-34,2,Hypertension,Arthrosis,Never smoker,
+946,Female,0-14,2,Chronic kidney disease,Heart failure,,
+947,Male,35-64,1,Musculoskeletal Disorders,0,,
+948,Female,0-14,2,Arthritis,Diabetes,Ever smoker,
+949,Female,35-64,0,0,0,,
+950,Female,35-64,0,0,0,,17.34533455085392
+951,Male,20-34,2,Diabetes,Arthrosis,,
+952,Male,15-19,1,Osteoporosis,0,,
+953,Female,20-34,0,0,0,,
+954,Female,20-34,0,0,0,,29.26455040575133
+955,Male,20-34,0,0,0,Ever smoker,
+956,Male,20-34,0,0,0,,
+957,Male,35-64,0,0,0,Never smoker,
+958,Male,35-64,0,0,0,Ever smoker,
+959,Male,35-64,2,Ischemic stroke,COPD,,
+960,Male,>65,0,0,0,,
+961,Female,20-34,2,Dementia,Heart failure,Ever smoker,
+962,Male,>65,0,0,0,,
+963,Female,35-64,1,COPD,0,Ever smoker,
+964,Male,35-64,2,Heart failure,Diabetes,,
+965,Female,>65,0,0,0,Never smoker,29.468029402638493
+966,Female,35-64,0,0,0,,
+967,Female,35-64,2,Ischemic stroke,Asthma,Ever smoker,
+968,Female,0-14,2,Arthritis,Dementia,Never smoker,
+969,Female,35-64,1,Dementia,0,Ever smoker,
+970,Female,15-19,1,Hypertension,0,Never smoker,41.48577205410256
+971,Male,>65,1,Osteoporosis,0,,
+972,Female,35-64,1,Dementia,0,,
+973,Male,15-19,2,Chronic kidney disease,COPD,Ever smoker,28.62792827520177
+974,Male,>65,1,Musculoskeletal Disorders,0,,37.10339105554859
+975,Male,20-34,1,Chronic kidney disease,0,,
+976,Female,20-34,2,Arthrosis,Asthma,,26.05771798837104
+977,Male,20-34,0,0,0,Never smoker,
+978,Female,35-64,1,Musculoskeletal Disorders,0,,18.65765313655289
+979,Male,0-14,0,0,0,Ever smoker,
+980,Female,20-34,0,0,0,Never smoker,
+981,Male,15-19,2,Ischemic stroke,Arthritis,,
+982,Male,>65,0,0,0,,
+983,Male,35-64,0,0,0,Never smoker,29.4617638190572
+984,Female,>65,1,Arthritis,0,,19.16305218054049
+985,Female,20-34,0,0,0,,
+986,Male,35-64,1,Osteoporosis,0,Never smoker,
+987,Female,35-64,0,0,0,Ever smoker,
+988,Female,>65,1,Arthrosis,0,,
+989,Male,>65,1,Diabetes,0,,
+990,Female,35-64,1,COPD,0,Ever smoker,
+991,Male,20-34,1,Diabetes,0,,
+992,Male,>65,1,Asthma,0,,
+993,Female,20-34,0,0,0,,
+994,Male,35-64,2,Hypertension,Asthma,,
+995,Male,35-64,2,Arthrosis,Osteoporosis,,
+996,Male,35-64,2,Hypertension,Diabetes,Never smoker,
+997,Male,35-64,1,Hypertension,0,Never smoker,
+998,Female,0-14,0,0,0,,
+999,Female,15-19,0,0,0,Ever smoker,
+1000,Male,35-64,2,Musculoskeletal Disorders,Arthrosis,Never smoker,
