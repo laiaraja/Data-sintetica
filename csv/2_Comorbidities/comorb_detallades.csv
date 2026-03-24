@@ -1,0 +1,1001 @@
+id,sex,age,comorbidities,smoking_status,bmi,Musculoskeletal Disorders,Hypertension,Arthrosis,Asthma,Diabetes,Neoplasms,Arthritis,COPD,Osteoporosis,Chronic kidney disease,Ischemic stroke,Heart failure,Dementia,Cirrhosis,AIDS
+1,Female,35-64,2,,,No,Sí,No,No,No,No,No,No,No,No,Sí,No,No,No,No
+2,Male,>65,2,Never smoker,,No,No,No,Sí,No,Sí,No,No,No,No,No,No,No,No,No
+3,Male,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+4,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+5,Male,35-64,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+6,Male,35-64,1,Never smoker,21.130424957991067,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+7,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+8,Male,35-64,2,,,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+9,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+10,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+11,Female,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+12,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+13,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+14,Male,0-14,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+15,Female,>65,0,,27.38705249366239,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+16,Female,35-64,1,,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+17,Male,35-64,1,Never smoker,,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+18,Female,35-64,2,,,Sí,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+19,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+20,Male,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+21,Female,20-34,1,,,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+22,Male,35-64,2,,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+23,Male,35-64,2,,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+24,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+25,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+26,Male,0-14,0,Ever smoker,29.021013972174742,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+27,Female,35-64,0,,39.67932816326226,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+28,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+29,Male,20-34,2,Never smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+30,Female,20-34,1,Never smoker,26.58818632351157,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+31,Female,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+32,Male,0-14,2,,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+33,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+34,Female,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+35,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+36,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+37,Female,35-64,2,,,No,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+38,Female,35-64,0,Ever smoker,41.41392093144994,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+39,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+40,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+41,Female,35-64,2,,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+42,Male,>65,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+43,Male,15-19,2,,,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+44,Female,15-19,0,Never smoker,27.95501076097686,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+45,Female,35-64,2,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+46,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+47,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+48,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+49,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+50,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+51,Female,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+52,Male,15-19,2,Never smoker,31.18167936671741,No,No,No,No,No,No,Sí,No,No,No,No,Sí,No,No,No
+53,Male,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+54,Female,35-64,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+55,Male,35-64,2,,,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+56,Male,35-64,2,Never smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+57,Female,>65,2,,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+58,Female,15-19,1,,,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No
+59,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+60,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+61,Female,15-19,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+62,Female,35-64,1,,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+63,Female,35-64,2,Never smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+64,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+65,Male,35-64,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+66,Male,0-14,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+67,Male,>65,0,Ever smoker,31.44964966632858,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+68,Male,20-34,2,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+69,Female,0-14,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+70,Female,35-64,1,Ever smoker,31.500722704029062,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+71,Male,35-64,2,Ever smoker,,No,No,No,No,No,No,No,No,Sí,No,Sí,No,No,No,No
+72,Female,35-64,2,Never smoker,,No,No,No,Sí,No,No,No,No,No,Sí,No,No,No,No,No
+73,Male,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+74,Male,15-19,2,Never smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+75,Female,35-64,2,,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+76,Female,15-19,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+77,Female,>65,1,Never smoker,,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+78,Male,35-64,1,,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+79,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+80,Female,35-64,0,,34.90159644156181,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+81,Female,35-64,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+82,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+83,Female,20-34,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+84,Male,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+85,Male,20-34,2,,,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+86,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+87,Female,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+88,Female,0-14,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+89,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+90,Female,20-34,2,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,Sí,No,No
+91,Male,20-34,1,,,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+92,Male,35-64,2,Never smoker,23.38631457276981,Sí,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+93,Male,>65,2,,,No,No,No,No,Sí,Sí,No,No,No,No,No,No,No,No,No
+94,Female,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+95,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+96,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+97,Female,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+98,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+99,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+100,Female,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+101,Male,35-64,2,,,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+102,Female,35-64,2,Ever smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+103,Female,35-64,2,,,No,No,No,Sí,No,No,No,Sí,No,No,No,No,No,No,No
+104,Male,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+105,Female,15-19,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+106,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+107,Male,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+108,Female,>65,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+109,Male,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+110,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+111,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+112,Female,15-19,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+113,Male,35-64,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+114,Female,20-34,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+115,Female,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+116,Female,0-14,0,,36.12333636128891,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+117,Female,20-34,0,Never smoker,35.08978819005048,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+118,Female,35-64,1,Ever smoker,,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+119,Male,35-64,2,Never smoker,,No,No,No,Sí,No,No,No,No,Sí,No,No,No,No,No,No
+120,Female,15-19,1,Ever smoker,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+121,Male,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+122,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+123,Female,0-14,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+124,Female,>65,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+125,Female,15-19,0,Never smoker,27.46085229682928,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+126,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+127,Male,0-14,1,Never smoker,26.8351165024778,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+128,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+129,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+130,Female,>65,1,,,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+131,Female,35-64,2,Never smoker,,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No
+132,Male,35-64,1,Ever smoker,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+133,Male,>65,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+134,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+135,Male,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+136,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+137,Female,35-64,2,,,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+138,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+139,Male,35-64,2,Ever smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+140,Male,20-34,1,,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+141,Female,20-34,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+142,Male,35-64,1,Ever smoker,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+143,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+144,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+145,Male,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+146,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+147,Male,>65,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+148,Female,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+149,Female,35-64,2,,,Sí,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No
+150,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+151,Female,35-64,2,Ever smoker,,No,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+152,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+153,Female,20-34,2,,21.386756092271032,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+154,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+155,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+156,Female,35-64,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+157,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+158,Male,35-64,1,,,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No
+159,Male,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+160,Female,20-34,1,Never smoker,,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+161,Male,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+162,Male,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+163,Female,20-34,0,Never smoker,19.62984856535604,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+164,Female,35-64,2,Ever smoker,,No,No,No,Sí,No,No,No,No,Sí,No,No,No,No,No,No
+165,Male,35-64,1,,,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+166,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+167,Female,35-64,2,,,Sí,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+168,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+169,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+170,Male,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+171,Female,15-19,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+172,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+173,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+174,Female,35-64,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+175,Female,35-64,2,,,No,No,No,No,No,No,Sí,No,Sí,No,No,No,No,No,No
+176,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+177,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+178,Female,35-64,2,Never smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+179,Female,0-14,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+180,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+181,Male,0-14,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+182,Female,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+183,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+184,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+185,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+186,Female,>65,0,,33.07250588552156,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+187,Female,0-14,2,,,No,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+188,Male,15-19,2,,,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+189,Male,35-64,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+190,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+191,Male,35-64,2,Never smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+192,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+193,Female,35-64,2,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+194,Male,35-64,2,Ever smoker,19.604098509344343,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+195,Male,>65,2,Never smoker,,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+196,Female,>65,2,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+197,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+198,Male,20-34,1,Ever smoker,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+199,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+200,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+201,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+202,Male,20-34,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+203,Male,0-14,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+204,Female,35-64,2,,,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+205,Female,35-64,2,,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+206,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+207,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+208,Female,35-64,2,Never smoker,33.695447091599775,Sí,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No
+209,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+210,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+211,Female,35-64,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+212,Female,35-64,2,,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+213,Male,20-34,1,,,No,No,No,No,No,No,No,No,No,No,No,No,Sí,No,No
+214,Male,35-64,2,Never smoker,,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+215,Female,35-64,1,,,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+216,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+217,Male,35-64,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+218,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+219,Female,15-19,2,Never smoker,,No,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+220,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+221,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+222,Male,15-19,1,Never smoker,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+223,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+224,Male,0-14,2,Never smoker,,No,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No
+225,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+226,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+227,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+228,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+229,Female,35-64,1,Ever smoker,27.23505387791066,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+230,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+231,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+232,Female,>65,2,Ever smoker,,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+233,Female,35-64,2,Never smoker,,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+234,Male,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+235,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+236,Male,15-19,2,,36.4941440713995,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+237,Male,20-34,2,Never smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+238,Male,>65,2,Never smoker,27.49257291905718,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+239,Female,35-64,2,,,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+240,Male,0-14,2,Never smoker,31.662196753895124,Sí,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No
+241,Male,0-14,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+242,Male,15-19,2,Never smoker,,Sí,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No
+243,Female,0-14,1,Ever smoker,,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+244,Male,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+245,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+246,Female,20-34,0,Never smoker,18.8900619543702,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+247,Male,>65,2,Never smoker,,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+248,Male,35-64,1,,,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+249,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+250,Male,35-64,0,Never smoker,27.9343104433142,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+251,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+252,Female,35-64,2,Ever smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+253,Female,20-34,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+254,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+255,Male,35-64,2,Ever smoker,,No,No,No,Sí,No,No,No,No,Sí,No,No,No,No,No,No
+256,Female,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+257,Male,20-34,1,Never smoker,29.83898308696753,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+258,Female,>65,1,Ever smoker,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+259,Male,35-64,2,,,No,No,No,No,Sí,No,No,No,Sí,No,No,No,No,No,No
+260,Female,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+261,Female,35-64,1,,,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+262,Female,>65,2,,,No,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No
+263,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+264,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+265,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+266,Male,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+267,Male,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+268,Female,35-64,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+269,Female,0-14,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+270,Female,20-34,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+271,Male,0-14,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+272,Female,>65,2,Ever smoker,,No,No,No,Sí,No,No,No,No,Sí,No,No,No,No,No,No
+273,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+274,Female,35-64,2,Ever smoker,32.33502889733148,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+275,Female,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+276,Female,0-14,0,Never smoker,27.51762500415892,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+277,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+278,Female,>65,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+279,Female,35-64,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+280,Male,>65,0,,30.405906947871813,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+281,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+282,Male,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+283,Male,0-14,2,Never smoker,,No,No,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No
+284,Male,15-19,1,,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+285,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+286,Male,>65,2,,,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+287,Female,>65,2,Never smoker,19.951904385207005,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+288,Female,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+289,Female,35-64,2,Never smoker,,No,No,No,Sí,No,No,No,Sí,No,No,No,No,No,No,No
+290,Female,35-64,2,Ever smoker,,No,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No
+291,Male,>65,2,Ever smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+292,Female,20-34,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+293,Male,35-64,1,,15.745488137713618,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+294,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+295,Female,35-64,1,,,No,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+296,Female,>65,2,,,No,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+297,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+298,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+299,Female,>65,2,Ever smoker,,No,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No
+300,Male,35-64,2,,,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+301,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+302,Female,20-34,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+303,Male,15-19,1,Never smoker,,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+304,Female,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+305,Male,0-14,2,Never smoker,,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+306,Male,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+307,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+308,Female,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+309,Male,35-64,2,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No
+310,Female,>65,2,,,No,No,No,No,No,No,No,No,No,Sí,No,Sí,No,No,No
+311,Male,0-14,0,Never smoker,23.55421683160841,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+312,Male,15-19,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+313,Male,20-34,2,Never smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+314,Male,35-64,2,Never smoker,,No,Sí,No,No,No,No,No,No,No,Sí,No,No,No,No,No
+315,Female,15-19,2,Ever smoker,,No,No,No,No,No,No,No,Sí,No,No,No,Sí,No,No,No
+316,Male,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+317,Female,15-19,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+318,Male,35-64,1,,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+319,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+320,Female,35-64,1,Never smoker,,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+321,Male,35-64,2,Ever smoker,,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+322,Female,35-64,2,Ever smoker,,No,No,No,No,Sí,No,No,No,No,No,Sí,No,No,No,No
+323,Male,20-34,2,Ever smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+324,Male,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+325,Male,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+326,Male,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+327,Female,>65,2,Never smoker,,No,No,No,Sí,No,No,No,No,No,No,No,No,Sí,No,No
+328,Male,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+329,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+330,Male,35-64,2,,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+331,Female,35-64,2,,,No,No,No,No,No,Sí,No,No,Sí,No,No,No,No,No,No
+332,Male,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+333,Female,20-34,0,Never smoker,24.36077781993725,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+334,Male,35-64,2,,,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+335,Male,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+336,Female,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+337,Female,>65,2,,,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+338,Female,35-64,1,Ever smoker,,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+339,Male,>65,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+340,Male,35-64,2,,,No,No,No,No,No,No,No,Sí,No,Sí,No,No,No,No,No
+341,Male,35-64,2,Ever smoker,,No,No,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No
+342,Female,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+343,Female,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+344,Male,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+345,Female,>65,1,,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+346,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+347,Female,35-64,1,,,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+348,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+349,Female,>65,2,Ever smoker,,No,No,No,No,No,No,Sí,No,Sí,No,No,No,No,No,No
+350,Female,35-64,2,Never smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+351,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+352,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+353,Female,0-14,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+354,Female,0-14,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+355,Male,20-34,2,,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+356,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+357,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+358,Male,0-14,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+359,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+360,Female,15-19,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+361,Female,15-19,2,,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+362,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+363,Male,15-19,2,Never smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+364,Male,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+365,Female,35-64,1,Never smoker,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+366,Male,35-64,2,Never smoker,,Sí,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+367,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+368,Male,35-64,1,Never smoker,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+369,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+370,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+371,Male,15-19,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+372,Male,35-64,0,Ever smoker,22.884383217184023,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+373,Female,35-64,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+374,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+375,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+376,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+377,Female,35-64,2,Ever smoker,,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+378,Female,>65,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+379,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+380,Male,35-64,1,,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+381,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+382,Female,35-64,2,Ever smoker,,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+383,Male,20-34,2,Never smoker,,No,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No
+384,Male,35-64,1,,,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+385,Female,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+386,Male,0-14,1,,,No,No,No,No,No,No,No,No,No,No,No,No,Sí,No,No
+387,Male,35-64,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+388,Female,0-14,2,Ever smoker,,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+389,Male,15-19,2,Never smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+390,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+391,Male,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+392,Female,35-64,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+393,Male,20-34,1,Never smoker,25.77213109994416,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+394,Male,20-34,1,,,No,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+395,Male,15-19,2,Ever smoker,,No,No,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No
+396,Female,35-64,2,,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+397,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+398,Male,35-64,2,Ever smoker,,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+399,Male,>65,2,Ever smoker,,No,No,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No
+400,Female,20-34,2,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+401,Female,35-64,1,,,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+402,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+403,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+404,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+405,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+406,Male,20-34,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+407,Female,35-64,0,,28.279059713050245,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+408,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+409,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+410,Female,0-14,2,Ever smoker,,No,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+411,Female,15-19,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+412,Female,15-19,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+413,Male,20-34,1,Never smoker,16.490010375225175,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+414,Female,20-34,1,,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+415,Female,>65,1,,,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+416,Male,35-64,2,Never smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+417,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+418,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+419,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+420,Female,20-34,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+421,Male,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+422,Male,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+423,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+424,Male,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+425,Male,35-64,2,,,No,No,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No
+426,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+427,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+428,Female,20-34,2,,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+429,Male,>65,2,,,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+430,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+431,Female,0-14,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+432,Male,0-14,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+433,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+434,Female,0-14,2,Never smoker,,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+435,Male,15-19,1,Ever smoker,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+436,Female,15-19,1,Never smoker,31.353614733873663,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+437,Female,20-34,0,Never smoker,29.04633645332597,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+438,Female,>65,2,,,No,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+439,Female,35-64,0,Never smoker,17.543963527737425,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+440,Female,0-14,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+441,Male,0-14,0,Ever smoker,35.888282121111445,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+442,Male,35-64,0,Ever smoker,29.69483806325828,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+443,Female,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+444,Male,20-34,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+445,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+446,Male,20-34,2,Never smoker,,No,No,No,Sí,No,No,No,Sí,No,No,No,No,No,No,No
+447,Female,20-34,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+448,Male,20-34,2,,,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+449,Male,>65,2,Ever smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+450,Male,35-64,1,Ever smoker,12.669944120020778,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No
+451,Male,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+452,Male,>65,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+453,Male,>65,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+454,Male,0-14,2,Never smoker,,No,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+455,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+456,Female,35-64,2,Never smoker,,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+457,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+458,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+459,Male,15-19,1,Never smoker,,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No
+460,Male,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+461,Male,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+462,Male,35-64,2,,31.00873676540909,No,Sí,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+463,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+464,Female,20-34,1,,,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No
+465,Male,>65,2,Never smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+466,Male,15-19,0,,31.09262222535277,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+467,Female,35-64,1,,33.428255956150295,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+468,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+469,Female,>65,2,Never smoker,,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+470,Female,15-19,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+471,Male,35-64,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+472,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+473,Female,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+474,Male,35-64,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+475,Male,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+476,Female,35-64,2,,,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+477,Female,35-64,2,,,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+478,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+479,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+480,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+481,Male,>65,2,,,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+482,Female,35-64,2,Never smoker,,No,No,No,Sí,No,No,No,No,Sí,No,No,No,No,No,No
+483,Female,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+484,Female,>65,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+485,Male,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+486,Female,>65,2,,,No,No,No,No,No,Sí,Sí,No,No,No,No,No,No,No,No
+487,Female,35-64,0,Never smoker,46.7247821681607,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+488,Male,35-64,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+489,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+490,Male,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+491,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+492,Female,20-34,2,,17.60307828210476,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+493,Male,20-34,1,,33.318614085046576,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+494,Female,0-14,0,Never smoker,30.349833564832423,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+495,Female,>65,2,Never smoker,,No,Sí,No,No,No,No,No,No,No,No,No,No,Sí,No,No
+496,Male,35-64,2,,,No,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+497,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+498,Female,35-64,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+499,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+500,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+501,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+502,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+503,Female,20-34,1,Never smoker,,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No
+504,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+505,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+506,Female,0-14,0,,42.02243665601448,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+507,Male,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+508,Female,35-64,1,,,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+509,Female,0-14,0,,22.81975671177452,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+510,Male,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+511,Female,20-34,2,,,No,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+512,Female,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+513,Female,35-64,0,,14.871544596438548,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+514,Male,15-19,2,,,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+515,Female,20-34,2,,,No,No,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No
+516,Male,0-14,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+517,Male,>65,2,Ever smoker,,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+518,Female,20-34,2,Ever smoker,,No,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+519,Male,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+520,Male,20-34,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+521,Female,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+522,Female,20-34,2,Ever smoker,,Sí,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No
+523,Female,20-34,2,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No
+524,Male,0-14,2,Ever smoker,,No,No,Sí,No,No,No,No,No,No,No,Sí,No,No,No,No
+525,Male,>65,1,Never smoker,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+526,Female,>65,1,,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+527,Female,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+528,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+529,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+530,Male,35-64,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+531,Female,20-34,0,,36.10057676154798,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+532,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+533,Male,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+534,Female,0-14,2,,31.97575154680025,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+535,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+536,Female,0-14,1,Ever smoker,,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+537,Female,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+538,Female,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+539,Male,0-14,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+540,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+541,Female,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+542,Female,15-19,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+543,Male,20-34,1,Never smoker,,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+544,Female,20-34,2,,,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+545,Female,35-64,2,,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+546,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+547,Female,20-34,2,,,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+548,Female,0-14,1,Never smoker,,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+549,Female,35-64,0,Ever smoker,22.59609429418531,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+550,Male,15-19,0,,34.03720197756967,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+551,Male,>65,1,Never smoker,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+552,Male,35-64,2,Never smoker,,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+553,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+554,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+555,Female,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+556,Female,0-14,1,,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+557,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+558,Male,35-64,2,,,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+559,Male,20-34,2,Never smoker,,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+560,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+561,Male,35-64,2,,,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+562,Female,20-34,2,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,Sí,No,No
+563,Female,35-64,2,,,No,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+564,Female,35-64,2,Never smoker,,No,No,No,No,No,No,No,No,No,No,Sí,No,Sí,No,No
+565,Female,35-64,0,Never smoker,29.929565818695444,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+566,Female,20-34,1,,,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+567,Female,0-14,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+568,Female,>65,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+569,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+570,Male,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+571,Male,>65,1,Ever smoker,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+572,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+573,Female,15-19,0,Never smoker,28.46526169562844,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+574,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+575,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+576,Female,35-64,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+577,Female,35-64,2,,,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No
+578,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+579,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+580,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+581,Female,35-64,2,,,No,Sí,No,No,No,No,No,No,No,Sí,No,No,No,No,No
+582,Female,>65,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+583,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+584,Male,35-64,2,Never smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+585,Female,35-64,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+586,Male,0-14,2,Never smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+587,Male,35-64,2,,,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+588,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+589,Male,35-64,2,Never smoker,,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No
+590,Female,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+591,Male,>65,2,Ever smoker,,No,Sí,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+592,Male,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+593,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+594,Female,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+595,Female,20-34,2,,,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+596,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+597,Female,>65,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+598,Male,>65,1,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+599,Male,15-19,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+600,Male,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+601,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+602,Male,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+603,Male,15-19,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+604,Female,0-14,1,Never smoker,19.61900613237781,No,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+605,Female,15-19,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+606,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+607,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+608,Male,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+609,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+610,Male,35-64,1,,,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+611,Male,0-14,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+612,Female,35-64,2,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,Sí,No
+613,Female,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+614,Female,35-64,2,,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+615,Male,15-19,2,Never smoker,,No,No,Sí,No,No,No,No,No,No,No,No,Sí,No,No,No
+616,Female,15-19,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+617,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+618,Female,0-14,1,Ever smoker,19.6813613824211,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+619,Female,20-34,2,Never smoker,,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+620,Male,>65,1,Never smoker,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+621,Male,35-64,1,Never smoker,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+622,Male,0-14,1,,,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+623,Female,20-34,0,,40.72699371156068,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+624,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+625,Female,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+626,Female,>65,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+627,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+628,Female,35-64,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+629,Female,15-19,1,,,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No
+630,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+631,Female,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+632,Female,>65,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+633,Female,35-64,1,Never smoker,,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+634,Male,20-34,2,Never smoker,,No,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+635,Female,20-34,2,,,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+636,Female,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+637,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+638,Male,20-34,1,Ever smoker,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+639,Female,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+640,Female,35-64,2,Ever smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+641,Female,0-14,2,,,No,No,No,No,Sí,No,No,No,No,No,No,No,Sí,No,No
+642,Female,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+643,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+644,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+645,Female,>65,2,Ever smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+646,Male,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+647,Female,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+648,Male,35-64,1,Ever smoker,20.33736422603124,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+649,Male,20-34,2,Never smoker,,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+650,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+651,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+652,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+653,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+654,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+655,Female,35-64,2,Never smoker,,No,No,No,No,No,No,Sí,No,No,Sí,No,No,No,No,No
+656,Female,>65,1,,,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No
+657,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+658,Female,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+659,Female,35-64,2,,,No,No,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No
+660,Female,>65,2,,,No,Sí,No,No,No,No,No,No,No,No,Sí,No,No,No,No
+661,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+662,Male,35-64,2,,,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+663,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+664,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+665,Female,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+666,Female,35-64,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+667,Female,20-34,1,Never smoker,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+668,Male,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+669,Male,>65,1,Never smoker,,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+670,Female,35-64,1,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,Sí,No,No
+671,Female,35-64,2,Ever smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+672,Male,35-64,1,Never smoker,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+673,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+674,Female,20-34,1,Never smoker,30.55450002791148,No,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+675,Male,>65,1,Ever smoker,,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+676,Male,>65,2,Ever smoker,,No,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+677,Female,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+678,Female,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+679,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+680,Male,0-14,2,Ever smoker,25.27862616937908,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+681,Female,15-19,2,Never smoker,,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+682,Male,35-64,1,,,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+683,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+684,Female,0-14,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+685,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+686,Male,20-34,2,Never smoker,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,Sí
+687,Female,0-14,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+688,Male,35-64,1,Ever smoker,22.89616082986679,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+689,Male,0-14,1,Never smoker,,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No
+690,Female,20-34,2,,,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+691,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+692,Female,0-14,1,,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+693,Male,35-64,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+694,Female,>65,1,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+695,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+696,Male,35-64,2,,,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+697,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+698,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+699,Female,15-19,1,Never smoker,,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+700,Male,20-34,0,,35.15183647412435,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+701,Male,20-34,0,Never smoker,20.59794621151128,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+702,Male,>65,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+703,Male,0-14,2,,,No,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+704,Male,>65,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+705,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+706,Male,35-64,1,,,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+707,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+708,Male,20-34,2,,34.77118761023592,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No
+709,Female,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+710,Female,0-14,0,,28.20935261126268,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+711,Male,35-64,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+712,Male,>65,2,Never smoker,,No,No,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No
+713,Male,20-34,1,Never smoker,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+714,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+715,Female,35-64,2,Never smoker,,No,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+716,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+717,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+718,Female,0-14,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+719,Female,35-64,2,,,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+720,Male,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+721,Male,15-19,2,Ever smoker,,No,No,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No
+722,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+723,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+724,Female,20-34,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+725,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+726,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+727,Female,>65,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+728,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+729,Male,35-64,2,,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+730,Male,35-64,2,,,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+731,Female,35-64,1,Never smoker,17.93351604799105,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+732,Male,35-64,0,,18.689891379739898,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+733,Male,0-14,2,,,No,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+734,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+735,Male,0-14,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+736,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+737,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+738,Female,20-34,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+739,Female,35-64,2,Ever smoker,,No,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+740,Female,>65,1,,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+741,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+742,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+743,Male,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+744,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+745,Male,15-19,2,Ever smoker,,No,No,No,No,No,No,No,Sí,No,No,Sí,No,No,No,No
+746,Male,15-19,0,,33.839727620987375,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+747,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+748,Female,0-14,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+749,Female,35-64,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+750,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+751,Female,35-64,1,,,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No
+752,Female,>65,2,Never smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+753,Male,>65,1,Never smoker,27.60905048989308,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+754,Female,15-19,0,Ever smoker,26.43360143731736,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+755,Male,35-64,2,Ever smoker,,No,No,Sí,No,No,No,No,No,No,No,No,No,Sí,No,No
+756,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+757,Male,>65,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+758,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+759,Female,20-34,2,Ever smoker,,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+760,Male,15-19,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+761,Male,35-64,0,,35.99579933771857,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+762,Female,35-64,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+763,Female,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+764,Female,35-64,0,,32.608904889001934,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+765,Female,35-64,1,,26.968577232986704,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+766,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+767,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+768,Male,35-64,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+769,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+770,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+771,Male,35-64,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+772,Female,35-64,2,,,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+773,Male,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+774,Male,35-64,1,,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+775,Female,0-14,2,Ever smoker,,No,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+776,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+777,Female,35-64,1,Never smoker,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+778,Female,35-64,2,Never smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+779,Male,20-34,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+780,Male,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+781,Male,>65,2,,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+782,Male,>65,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+783,Male,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+784,Male,20-34,1,,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+785,Male,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+786,Male,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+787,Male,15-19,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+788,Female,>65,1,,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+789,Female,20-34,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+790,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+791,Female,35-64,2,,,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+792,Female,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+793,Male,35-64,1,Ever smoker,,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+794,Male,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+795,Male,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+796,Female,20-34,2,,,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+797,Female,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+798,Male,35-64,1,,,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+799,Female,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+800,Male,15-19,1,Ever smoker,,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No
+801,Male,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+802,Male,15-19,2,Ever smoker,,Sí,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+803,Female,>65,1,Ever smoker,,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+804,Male,15-19,2,,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+805,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+806,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+807,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+808,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+809,Male,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+810,Male,15-19,1,,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+811,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+812,Female,35-64,1,,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+813,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+814,Male,15-19,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+815,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+816,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+817,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+818,Female,35-64,1,,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+819,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+820,Female,35-64,0,Ever smoker,26.113667244741688,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+821,Male,35-64,1,Never smoker,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+822,Female,0-14,2,Never smoker,,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+823,Female,>65,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+824,Female,35-64,2,,,No,No,No,No,Sí,No,No,No,Sí,No,No,No,No,No,No
+825,Male,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+826,Female,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+827,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+828,Female,20-34,2,,30.403760626928907,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+829,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+830,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+831,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+832,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+833,Female,>65,1,,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+834,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+835,Female,20-34,2,Never smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+836,Female,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+837,Female,20-34,0,Ever smoker,23.184769930312324,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+838,Female,20-34,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+839,Female,20-34,1,,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+840,Female,35-64,2,Never smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+841,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+842,Female,15-19,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+843,Female,0-14,2,,,Sí,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+844,Female,20-34,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+845,Male,>65,1,Never smoker,,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+846,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+847,Male,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+848,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+849,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+850,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+851,Female,35-64,2,Never smoker,,No,No,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No
+852,Male,>65,2,Ever smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+853,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+854,Female,35-64,2,,33.97978008749558,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No
+855,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+856,Female,20-34,0,Ever smoker,16.76463424026431,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+857,Female,20-34,1,Ever smoker,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+858,Male,0-14,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+859,Male,35-64,2,Never smoker,32.95890321885528,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+860,Female,35-64,2,Ever smoker,,No,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No
+861,Female,35-64,2,Ever smoker,,No,Sí,No,No,No,No,No,No,No,No,No,No,Sí,No,No
+862,Female,35-64,2,Ever smoker,,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+863,Female,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+864,Female,0-14,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+865,Male,35-64,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+866,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+867,Female,>65,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+868,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+869,Male,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+870,Male,35-64,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+871,Female,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+872,Female,35-64,2,Never smoker,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+873,Male,35-64,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+874,Female,0-14,1,Ever smoker,,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+875,Male,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+876,Female,>65,0,Never smoker,28.609531438872065,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+877,Female,0-14,0,Never smoker,41.62647995573093,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+878,Male,0-14,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+879,Female,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+880,Female,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+881,Male,35-64,2,Ever smoker,,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+882,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+883,Female,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+884,Male,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+885,Female,35-64,1,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,Sí,No,No
+886,Male,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+887,Male,0-14,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+888,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+889,Male,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+890,Female,35-64,2,,,No,Sí,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+891,Female,35-64,0,,40.774219111637706,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+892,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+893,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+894,Male,0-14,2,,,No,No,No,No,No,No,Sí,Sí,No,No,No,No,No,No,No
+895,Female,15-19,2,Never smoker,,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+896,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+897,Female,35-64,2,,,No,No,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No
+898,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+899,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+900,Female,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+901,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+902,Male,35-64,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+903,Female,35-64,2,Never smoker,,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+904,Male,15-19,2,Never smoker,18.6355916495474,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+905,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+906,Female,0-14,2,,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+907,Female,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+908,Female,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+909,Male,>65,1,,10.0,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+910,Male,35-64,2,Ever smoker,,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+911,Male,35-64,2,,,Sí,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+912,Female,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+913,Male,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+914,Male,15-19,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+915,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+916,Female,0-14,2,Ever smoker,,No,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+917,Male,>65,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+918,Female,35-64,1,Ever smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+919,Female,35-64,0,Never smoker,14.511076671619843,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+920,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+921,Female,20-34,2,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,Sí,No
+922,Male,>65,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+923,Male,35-64,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+924,Female,35-64,1,Ever smoker,,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+925,Female,35-64,0,,17.721484750339165,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+926,Male,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+927,Male,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+928,Female,35-64,2,Ever smoker,,Sí,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No
+929,Male,15-19,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+930,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+931,Male,15-19,2,Never smoker,28.3467971727976,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No
+932,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+933,Female,20-34,2,,43.53284149161118,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+934,Female,35-64,2,Ever smoker,,No,No,No,No,No,No,Sí,No,No,Sí,No,No,No,No,No
+935,Female,0-14,2,,,Sí,No,No,No,No,No,No,No,No,No,No,Sí,No,No,No
+936,Male,20-34,1,,,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+937,Female,0-14,0,,17.286028628221665,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+938,Female,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+939,Male,>65,2,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No
+940,Male,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+941,Female,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+942,Male,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+943,Male,0-14,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+944,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+945,Male,20-34,2,Never smoker,,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No
+946,Female,0-14,2,,,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+947,Male,35-64,1,,,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+948,Female,0-14,2,Ever smoker,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+949,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+950,Female,35-64,0,,17.34533455085392,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+951,Male,20-34,2,,,No,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No
+952,Male,15-19,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+953,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+954,Female,20-34,0,,29.26455040575133,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+955,Male,20-34,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+956,Male,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+957,Male,35-64,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+958,Male,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+959,Male,35-64,2,,,No,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+960,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+961,Female,20-34,2,Ever smoker,,No,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+962,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+963,Female,35-64,1,Ever smoker,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+964,Male,35-64,2,,,Sí,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+965,Female,>65,0,Never smoker,29.468029402638493,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+966,Female,35-64,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+967,Female,35-64,2,Ever smoker,,No,No,Sí,No,No,Sí,No,No,No,No,No,No,No,No,No
+968,Female,0-14,2,Never smoker,,Sí,No,No,No,No,No,No,No,Sí,No,No,No,No,No,No
+969,Female,35-64,1,Ever smoker,,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No
+970,Female,15-19,1,Never smoker,41.48577205410256,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+971,Male,>65,1,,,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No,No
+972,Female,35-64,1,,,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+973,Male,15-19,2,Ever smoker,28.62792827520177,Sí,No,No,No,No,No,No,No,No,No,Sí,No,No,No,No
+974,Male,>65,1,,37.10339105554859,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+975,Male,20-34,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+976,Female,20-34,2,,26.05771798837104,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+977,Male,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+978,Female,35-64,1,,18.65765313655289,No,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No
+979,Male,0-14,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+980,Female,20-34,0,Never smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+981,Male,15-19,2,,,No,No,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No
+982,Male,>65,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+983,Male,35-64,0,Never smoker,29.4617638190572,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+984,Female,>65,1,,19.16305218054049,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+985,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+986,Male,35-64,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+987,Female,35-64,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+988,Female,>65,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+989,Male,>65,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+990,Female,35-64,1,Ever smoker,,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No,No
+991,Male,20-34,1,,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+992,Male,>65,1,,,No,No,Sí,No,No,No,No,No,No,No,No,No,No,No,No
+993,Female,20-34,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+994,Male,35-64,2,,,No,No,No,No,No,Sí,No,No,Sí,No,No,No,No,No,No
+995,Male,35-64,2,,,Sí,No,No,No,No,No,Sí,No,No,No,No,No,No,No,No
+996,Male,35-64,2,Never smoker,,Sí,No,No,No,No,No,No,Sí,No,No,No,No,No,No,No
+997,Male,35-64,1,Never smoker,,Sí,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+998,Female,0-14,0,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+999,Female,15-19,0,Ever smoker,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+1000,Male,35-64,2,Never smoker,,No,Sí,No,No,No,No,Sí,No,No,No,No,No,No,No,No
